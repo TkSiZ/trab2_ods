@@ -17,6 +17,8 @@ Jogadores de Pokémon — especialmente no contexto competitivo (VGC/Smogon) —
 
 ## Arquitetura
 
+### Sistema completo
+
 ```
 ┌─────────────────────────────────────────────────────┐
 │                   Interface (Streamlit)              │
@@ -28,9 +30,9 @@ Jogadores de Pokémon — especialmente no contexto competitivo (VGC/Smogon) —
 │  decide qual ferramenta usar e itera até ter         │
 │  informação suficiente para responder                │
 │                                                      │
-│  ┌──────────────┐ ┌─────────────┐ ┌───────────────┐ │
-│  │semantic_search│ │search_by_type│ │search_by_name │ │
-│  └──────┬───────┘ └──────┬──────┘ └───────┬───────┘ │
+│  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ │
+│  │semantic_search│ │search_by_type│ │search_by_name│ │
+│  └──────┬───────┘ └──────┬───────┘ └──────┬───────┘ │
 └─────────┼────────────────┼────────────────┼─────────┘
           └────────────────▼────────────────┘
 ┌─────────────────────────────────────────────────────┐
@@ -40,12 +42,80 @@ Jogadores de Pokémon — especialmente no contexto competitivo (VGC/Smogon) —
 └─────────────────────────────────────────────────────┘
 ```
 
+### Pipeline de ingestão — da coleta ao vetorstore
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                       PokéAPI (pokeapi.co)                        │
+│               REST API pública, sem autenticação                  │
+└──────────┬───────────────────────────┬───────────────────────────┘
+           │ GET /pokemon/{name}        │ GET /pokemon-species/{name}
+           ▼                           ▼
+     stats, tipos,              flavor texts (lore),
+     habilidades,               genus, cadeia evolutiva
+     movimentos
+           │                           │
+           └───────────────┬───────────┘
+                           ▼
+┌──────────────────────────────────────────────────────────────────┐
+│                  Pré-processamento (collect_data.py)              │
+│                                                                   │
+│  - Filtra flavor texts duplicados                                 │
+│  - Remove entradas de outras línguas (mantém EN)                  │
+│  - Limita flavor texts a 5 entradas por Pokémon                   │
+│  - Monta texto corrido estruturado:                               │
+│                                                                   │
+│    "{nome} is the {genus}. It is a {tipo}-type Pokémon.           │
+│     Abilities: {habilidades}. Base stats — HP: {hp}, ...          │
+│     Evolution line: {cadeia}. Lore: {flavor_texts}"               │
+│                                                                   │
+│  - Salva metadados separados: name, id, types, abilities,         │
+│    moves (top 20), evolution_chain                                │
+└───────────────────────────┬──────────────────────────────────────┘
+                            │ ~1025 arquivos JSON
+                            ▼
+                     data/{pokemon}.json
+┌──────────────────────────────────────────────────────────────────┐
+│                     Ingestão (ingest.py)                          │
+│                                                                   │
+│  1. Carrega JSONs da pasta data/                                  │
+│  2. Cria objetos Document (LangChain):                            │
+│     - page_content = texto corrido (campo "text")                 │
+│     - metadata = {name, id, types, abilities,                     │
+│                   moves, evolution_chain, source}                 │
+│  3. Envia textos para nomic-embed-text via Ollama                 │
+│     → vetores de 768 dimensões por documento                      │
+│  4. Persiste vetores + metadados no ChromaDB                      │
+└───────────────────────────┬──────────────────────────────────────┘
+                            │
+                            ▼
+┌──────────────────────────────────────────────────────────────────┐
+│                    ChromaDB (vectorstore/)                        │
+│                                                                   │
+│  Coleção: "pokerag"                                               │
+│  ~1025 documentos indexados                                       │
+│                                                                   │
+│  Cada entrada armazena:                                           │
+│  ├── embedding (768 dims) → busca semântica por similaridade      │
+│  ├── page_content         → texto retornado ao agente             │
+│  └── metadata             → filtros exatos (tipo, nome, id)       │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### Estratégia de chunking
+
+Cada Pokémon corresponde a **exatamente um documento** — não há divisão por chunks. Essa decisão foi intencional:
+
+- O texto de cada Pokémon (~500–800 tokens) é curto o suficiente para caber num único chunk sem perda de contexto
+- Manter tudo junto evita que stats e lore de um mesmo Pokémon sejam separados em chunks diferentes
+- Metadados estruturados (tipos, habilidades) permitem filtragem exata sem depender de busca semântica
+
 ### Ferramentas do agente
 
 | Ferramenta | Quando o agente usa |
 |---|---|
 | `semantic_search` | Perguntas em linguagem natural, lore, estratégias, comparações |
-| `search_by_type` | Perguntas sobre um tipo específico (ex: "melhores do tipo Fogo") |
+| `search_by_type` | Perguntas sobre um ou mais tipos (ex: "Pokémon do tipo Fogo e Voador") |
 | `search_by_name` | Nome exato de um Pokémon mencionado pelo usuário |
 
 ---
@@ -127,6 +197,9 @@ Acesse em `http://localhost:8501`.
 **Por tipo:**
 > "Quais Pokémon do tipo Psíquico têm maior Sp. Atk?"
 
+**Múltiplos tipos:**
+> "Tem algum Pokémon do tipo Grass e Ghost?"
+
 **Cadeia evolutiva:**
 > "Como o Eevee evolui e quais são suas evoluções?"
 
@@ -146,6 +219,9 @@ Simples de configurar, persistência local sem servidor externo, suporte nativo 
 **Por que 3 ferramentas separadas?**
 Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre queries categoriais, por nome cobre lookup exato. O agente aprende a combinar — ex: primeiro `search_by_name` para pegar o Pokémon, depois `semantic_search` para estratégia.
 
+**Por que um documento por Pokémon?**
+O texto de cada Pokémon é curto o suficiente para não precisar de chunking. Manter tudo num único documento evita fragmentação de contexto e simplifica a recuperação.
+
 ---
 
 ## Limitações conhecidas
@@ -153,7 +229,7 @@ Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre qu
 - Base em inglês (PokéAPI retorna dados em EN); respostas em PT são geradas pelo LLM
 - Dados de movesets e estratégias competitivas detalhadas não estão na base (só movenames)
 - LLaMA 3.1 8B pode alucinar nomes de moves ou stats se não encontrar na base
-- `search_by_type` usa filtro por metadados, então requer tipo em inglês exato
+- `search_by_type` requer tipos em inglês (water, fire, grass, etc.)
 
 ---
 
@@ -172,12 +248,12 @@ LLM como juiz: qwen2.5:3b
 
 ### Resultados por pergunta
 
-| Pergunta                                 | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
-|------------------------------------------|--------------|------------------|-------------------|----------------|
-| Me fala sobre a lore do Gengar           | 0.6          | 0.800            | 0.999             | 0.600          |
-| Compare Bulbasaur, Charmander e Squirtle | 0.7          | 0.895            | 0.999             | 0.333          |
-| Quais Pokémon têm a habilidade Levitate? | 0.5          | 0.986            | 1.000             | 0.333          |
-| Tem algum Pokémon do tipo Grass e Ghost? | 1.0          | 0.972            | 0.583             | 0.666          |
+| Pergunta | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
+|---|---|---|---|---|
+| Me fala sobre a lore do Gengar | 0.6 | 0.800 | 0.999 | 0.600 |
+| Compare Bulbasaur, Charmander e Squirtle | 0.7 | 0.895 | 0.999 | 0.333 |
+| Quais Pokémon têm a habilidade Levitate? | 0.5 | 0.986 | 1.000 | 0.333 |
+| Tem algum Pokémon do tipo Grass e Ghost? | 1.0 | 0.972 | 0.583 | 0.666 |
 
 ---
 
