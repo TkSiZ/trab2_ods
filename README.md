@@ -170,14 +170,12 @@ Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre qu
 
 ### Resultados por pergunta
 
-| Pergunta                                    | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
-|---------------------------------------------|--------------|------------------|-------------------|----------------|
-| Quais são os melhores Pokémon do tipo Água? | 1.000        | 0.947            | 0.806             | 1.000          |
-| Me fala sobre a lore do Gengar              | 1.000        | 0.800            | 0.806             | 0.800          |
-| Qual o melhor counter para Charizard?       | 0.833        | 0.936            | 1.000             | 0.500          |
-| Compare Bulbasaur, Charmander e Squirtle    | 1.000        | 0.850            | 1.000             | 1.000          |
-| Quais Pokémon têm a habilidade Levitate?    | 1.000        | 0.986            | 1.000             | 1.000          |
-| Tem algum Pokémon do tipo Grass e Ghost?    | 1.000        | 0.972            | 0.583             | 1.000          |
+| Pergunta                                 | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
+|------------------------------------------|--------------|------------------|-------------------|----------------|
+| Me fala sobre a lore do Gengar           | 0.6          | 0.800            | 0.999             | 0.600          |
+| Compare Bulbasaur, Charmander e Squirtle | 0.7          | 0.895            | 0.999             | 0.333          |
+| Quais Pokémon têm a habilidade Levitate? | 0.5          | 0.986            | 1.000             | 0.333          |
+| Tem algum Pokémon do tipo Grass e Ghost? | 1.0          | 0.972            | 0.583             | 0.666          |
 
 ---
 
