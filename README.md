@@ -161,6 +161,8 @@ Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre qu
 
 ### Métricas avaliadas
 
+LLM como juiz: qwen2.5:3b
+
 | Métrica | O que mede | Resultado |
 |---|---|---|
 | **Faithfulness** | A resposta é fiel ao contexto recuperado? (baixo = alucinação) | **0.917** |
