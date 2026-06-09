@@ -5,3 +5,5 @@ chromadb
 streamlit
 requests
 tqdm
+nest_asyncio
+markdown
