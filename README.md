@@ -159,7 +159,25 @@ Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre qu
 
 ## Avaliação
 
-Consulte `evaluation/` para métricas de recuperação e exemplos de perguntas avaliadas manualmente.
+### Métricas avaliadas
+
+| Métrica | O que mede | Resultado |
+|---|---|---|
+| **Faithfulness** | A resposta é fiel ao contexto recuperado? (baixo = alucinação) | **0.917** |
+| **Answer Relevancy** | A resposta endereça a pergunta feita? (baixo = resposta tangencial) | **0.957** |
+| **Context Precision** | Os chunks recuperados são relevantes? (baixo = ruído no retriever) | **0.885** |
+| **Context Recall** | O retriever encontrou tudo que precisava? (baixo = chunks perdidos) | **0.952** |
+
+### Resultados por pergunta
+
+| Pergunta                                    | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
+|---------------------------------------------|--------------|------------------|-------------------|----------------|
+| Quais são os melhores Pokémon do tipo Água? | 1.000        | 0.947            | 0.806             | 1.000          |
+| Me fala sobre a lore do Gengar              | 1.000        | 0.800            | 0.806             | 0.800          |
+| Qual o melhor counter para Charizard?       | 0.833        | 0.936            | 1.000             | 0.500          |
+| Compare Bulbasaur, Charmander e Squirtle    | 1.000        | 0.850            | 1.000             | 1.000          |
+| Quais Pokémon têm a habilidade Levitate?    | 1.000        | 0.986            | 1.000             | 1.000          |
+| Tem algum Pokémon do tipo Grass e Ghost?    | 1.000        | 0.972            | 0.583             | 1.000          |
 
 ---
 
