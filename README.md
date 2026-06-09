@@ -159,7 +159,25 @@ Cada ferramenta tem força diferente: semântica cobre nuance, por tipo cobre qu
 
 ## Avaliação
 
-Consulte `evaluation/` para métricas de recuperação e exemplos de perguntas avaliadas manualmente.
+### Métricas avaliadas
+
+LLM como juiz: qwen2.5:3b
+
+| Métrica | O que mede | Resultado |
+|---|---|---|
+| **Faithfulness** | A resposta é fiel ao contexto recuperado? (baixo = alucinação) | **0.917** |
+| **Answer Relevancy** | A resposta endereça a pergunta feita? (baixo = resposta tangencial) | **0.957** |
+| **Context Precision** | Os chunks recuperados são relevantes? (baixo = ruído no retriever) | **0.885** |
+| **Context Recall** | O retriever encontrou tudo que precisava? (baixo = chunks perdidos) | **0.952** |
+
+### Resultados por pergunta
+
+| Pergunta                                 | Faithfulness | Answer Relevancy | Context Precision | Context Recall |
+|------------------------------------------|--------------|------------------|-------------------|----------------|
+| Me fala sobre a lore do Gengar           | 0.6          | 0.800            | 0.999             | 0.600          |
+| Compare Bulbasaur, Charmander e Squirtle | 0.7          | 0.895            | 0.999             | 0.333          |
+| Quais Pokémon têm a habilidade Levitate? | 0.5          | 0.986            | 1.000             | 0.333          |
+| Tem algum Pokémon do tipo Grass e Ghost? | 1.0          | 0.972            | 0.583             | 0.666          |
 
 ---
 
