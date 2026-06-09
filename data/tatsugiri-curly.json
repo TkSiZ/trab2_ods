@@ -1,0 +1,73 @@
+{
+  "id": 978,
+  "name": "tatsugiri-curly",
+  "genus": "Mimicry Pokémon",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "commander",
+      "hidden": false
+    },
+    {
+      "name": "storm-drain",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "counter",
+    "harden",
+    "splash",
+    "rest",
+    "substitute",
+    "protect",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "rapid-spin",
+    "rain-dance",
+    "mirror-coat",
+    "whirlpool",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "muddy-water",
+    "dragon-dance",
+    "water-pulse",
+    "dragon-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "draco-meteor",
+    "soak",
+    "lunge",
+    "tera-blast",
+    "chilling-water",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 68,
+    "attack": 50,
+    "defense": 60,
+    "special-attack": 120,
+    "special-defense": 95,
+    "speed": 82
+  },
+  "evolution_chain": [
+    "tatsugiri"
+  ],
+  "flavor_texts": [
+    "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+    "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+  ],
+  "text": "Tatsugiri-curly is the Mimicry Pokémon. It is a dragon and water-type Pokémon. Abilities: commander, storm-drain (hidden). Base stats — HP: 68, Attack: 50, Defense: 60, Sp. Atk: 120, Sp. Def: 95, Speed: 82. Evolution line: tatsugiri. Lore: This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside. Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+}

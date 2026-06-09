@@ -1,0 +1,97 @@
+{
+  "id": 814,
+  "name": "raboot",
+  "genus": "Rabbit Pokémon",
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false
+    },
+    {
+      "name": "libero",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "double-kick",
+    "mega-kick",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ember",
+    "flamethrower",
+    "low-kick",
+    "counter",
+    "fire-spin",
+    "agility",
+    "quick-attack",
+    "focus-energy",
+    "fire-blast",
+    "swift",
+    "high-jump-kick",
+    "rest",
+    "super-fang",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "sunny-day",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "blaze-kick",
+    "weather-ball",
+    "overheat",
+    "bulk-up",
+    "bounce",
+    "mud-shot",
+    "u-turn",
+    "assurance",
+    "sucker-punch",
+    "flare-blitz",
+    "fire-fang",
+    "gunk-shot",
+    "electro-ball",
+    "flame-charge",
+    "low-sweep",
+    "round",
+    "ally-switch",
+    "acrobatics",
+    "fire-pledge",
+    "work-up",
+    "burning-jealousy",
+    "tera-blast",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 86,
+    "defense": 60,
+    "special-attack": 55,
+    "special-defense": 60,
+    "speed": 94
+  },
+  "evolution_chain": [
+    "scorbunny",
+    "raboot",
+    "cinderace"
+  ],
+  "flavor_texts": [
+    "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+    "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+  ],
+  "text": "Raboot is the Rabbit Pokémon. It is a fire-type Pokémon. Abilities: blaze, libero (hidden). Base stats — HP: 65, Attack: 86, Defense: 60, Sp. Atk: 55, Sp. Def: 60, Speed: 94. Evolution line: scorbunny → raboot → cinderace. Lore: Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves. It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+}

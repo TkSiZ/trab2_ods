@@ -1,0 +1,86 @@
+{
+  "id": 955,
+  "name": "flittle",
+  "genus": "Frill Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "anticipation",
+      "hidden": false
+    },
+    {
+      "name": "frisk",
+      "hidden": false
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "growl",
+    "psybeam",
+    "peck",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "agility",
+    "quick-attack",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "calm-mind",
+    "roost",
+    "pluck",
+    "u-turn",
+    "seed-bomb",
+    "zen-headbutt",
+    "trick-room",
+    "psyshock",
+    "foul-play",
+    "stored-power",
+    "ally-switch",
+    "disarming-voice",
+    "baby-doll-eyes",
+    "psychic-terrain",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 55,
+    "special-defense": 30,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "flittle",
+    "espathra"
+  ],
+  "flavor_texts": [
+    "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
+    "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+  ],
+  "text": "Flittle is the Frill Pokémon. It is a psychic-type Pokémon. Abilities: anticipation, frisk, speed-boost (hidden). Base stats — HP: 30, Attack: 35, Defense: 30, Sp. Atk: 55, Sp. Def: 30, Speed: 75. Evolution line: flittle → espathra. Lore: Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly. It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+}

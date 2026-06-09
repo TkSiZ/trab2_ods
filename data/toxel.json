@@ -1,0 +1,63 @@
+{
+  "id": 848,
+  "name": "toxel",
+  "genus": "Baby Pokémon",
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "rattled",
+      "hidden": false
+    },
+    {
+      "name": "static",
+      "hidden": false
+    },
+    {
+      "name": "klutz",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "growl",
+    "acid",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "encore",
+    "facade",
+    "endeavor",
+    "metal-sound",
+    "round",
+    "belch",
+    "nuzzle",
+    "power-up-punch",
+    "tearful-look",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "special-attack": 54,
+    "special-defense": 35,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "toxel",
+    "toxtricity"
+  ],
+  "flavor_texts": [
+    "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
+    "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
+  ],
+  "text": "Toxel is the Baby Pokémon. It is a electric and poison-type Pokémon. Abilities: rattled, static, klutz (hidden). Base stats — HP: 40, Attack: 38, Defense: 35, Sp. Atk: 54, Sp. Def: 35, Speed: 40. Evolution line: toxel → toxtricity. Lore: It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows. It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
+}

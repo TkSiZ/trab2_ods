@@ -1,0 +1,88 @@
+{
+  "id": 940,
+  "name": "wattrel",
+  "genus": "Storm Petrel Pokémon",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "wind-power",
+      "hidden": false
+    },
+    {
+      "name": "volt-absorb",
+      "hidden": false
+    },
+    {
+      "name": "competitive",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fly",
+    "take-down",
+    "growl",
+    "peck",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "substitute",
+    "protect",
+    "endure",
+    "spark",
+    "sleep-talk",
+    "uproar",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "charge",
+    "endeavor",
+    "feather-dance",
+    "weather-ball",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "acrobatics",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "hurricane",
+    "eerie-impulse",
+    "electric-terrain",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "special-attack": 55,
+    "special-defense": 40,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "wattrel",
+    "kilowattrel"
+  ],
+  "flavor_texts": [
+    "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+    "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+  ],
+  "text": "Wattrel is the Storm Petrel Pokémon. It is a electric and flying-type Pokémon. Abilities: wind-power, volt-absorb, competitive (hidden). Base stats — HP: 40, Attack: 40, Defense: 35, Sp. Atk: 55, Sp. Def: 40, Speed: 70. Evolution line: wattrel → kilowattrel. Lore: When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them. These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+}

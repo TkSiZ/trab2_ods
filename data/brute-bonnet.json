@@ -1,0 +1,84 @@
+{
+  "id": 986,
+  "name": "brute-bonnet",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "thrash",
+    "double-edge",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "solar-beam",
+    "stun-spore",
+    "confuse-ray",
+    "spore",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "synthesis",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "taunt",
+    "ingrain",
+    "astonish",
+    "bullet-seed",
+    "magical-leaf",
+    "close-combat",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "venoshock",
+    "rage-powder",
+    "clear-smog",
+    "hex",
+    "grassy-terrain",
+    "pollen-puff",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 111,
+    "attack": 127,
+    "defense": 99,
+    "special-attack": 79,
+    "special-defense": 99,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "brute-bonnet"
+  ],
+  "flavor_texts": [
+    "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
+    "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+  ],
+  "text": "Brute-bonnet is the Paradox Pokémon. It is a grass and dark-type Pokémon. Abilities: protosynthesis. Base stats — HP: 111, Attack: 127, Defense: 99, Sp. Atk: 79, Sp. Def: 99, Speed: 55. Evolution line: brute-bonnet. Lore: It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon. It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+}

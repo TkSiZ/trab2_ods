@@ -1,0 +1,102 @@
+{
+  "id": 582,
+  "name": "vanillite",
+  "genus": "Fresh Snow Pokémon",
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "ice-body",
+      "hidden": false
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "self-destruct",
+    "acid-armor",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "uproar",
+    "hail",
+    "facade",
+    "taunt",
+    "magic-coat",
+    "imprison",
+    "secret-power",
+    "hyper-voice",
+    "astonish",
+    "signal-beam",
+    "sheer-cold",
+    "icicle-spear",
+    "iron-defense",
+    "water-pulse",
+    "natural-gift",
+    "magnet-rise",
+    "avalanche",
+    "ice-shard",
+    "mirror-shot",
+    "flash-cannon",
+    "autotomize",
+    "round",
+    "ally-switch",
+    "frost-breath",
+    "icicle-crash",
+    "confide",
+    "aurora-veil"
+  ],
+  "stats": {
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 65,
+    "special-defense": 60,
+    "speed": 44
+  },
+  "evolution_chain": [
+    "vanillite",
+    "vanillish",
+    "vanilluxe"
+  ],
+  "flavor_texts": [
+    "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
+    "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+    "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
+    "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+    "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
+    "It feels pleasantly cool when embraced. This Pokémon is treasured by households in warm regions.",
+    "It exhales cold air that is at –58 degrees Fahrenheit. When it’s in a warm place, it shrinks little by little.",
+    "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
+    "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+    "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable."
+  ],
+  "text": "Vanillite is the Fresh Snow Pokémon. It is a ice-type Pokémon. Abilities: ice-body, snow-cloak, weak-armor (hidden). Base stats — HP: 36, Attack: 50, Defense: 50, Sp. Atk: 65, Sp. Def: 60, Speed: 44. Evolution line: vanillite → vanillish → vanilluxe. Lore: The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them. This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow. Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F. The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them. Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall."
+}

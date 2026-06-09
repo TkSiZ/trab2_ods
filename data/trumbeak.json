@@ -1,0 +1,104 @@
+{
+  "id": 732,
+  "name": "trumbeak",
+  "genus": "Bugle Beak Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "skill-link",
+      "hidden": false
+    },
+    {
+      "name": "pickup",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "fly",
+    "fury-attack",
+    "take-down",
+    "growl",
+    "supersonic",
+    "peck",
+    "drill-peck",
+    "toxic",
+    "screech",
+    "double-team",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "feather-dance",
+    "hyper-voice",
+    "air-cutter",
+    "bullet-seed",
+    "aerial-ace",
+    "rock-blast",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "gunk-shot",
+    "smack-down",
+    "flame-charge",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "work-up",
+    "boomburst",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "pikipek",
+    "trumbeak",
+    "toucannon"
+  ],
+  "flavor_texts": [
+    "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+    "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
+    "It can bend the tip of its beak to produce over a hundred different cries at will.",
+    "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+  ],
+  "text": "Trumbeak is the Bugle Beak Pokémon. It is a normal and flying-type Pokémon. Abilities: keen-eye, skill-link, pickup (hidden). Base stats — HP: 55, Attack: 85, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 75. Evolution line: pikipek → trumbeak → toucannon. Lore: It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst. By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors. It can bend the tip of its beak to produce over a hundred different cries at will. From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+}

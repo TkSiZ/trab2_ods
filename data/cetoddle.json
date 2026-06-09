@@ -1,0 +1,89 @@
+{
+  "id": 974,
+  "name": "cetoddle",
+  "genus": "Terra Whale Pokémon",
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": false
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "earthquake",
+    "amnesia",
+    "rest",
+    "substitute",
+    "curse",
+    "flail",
+    "powder-snow",
+    "protect",
+    "belly-drum",
+    "icy-wind",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "rain-dance",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "yawn",
+    "knock-off",
+    "hyper-voice",
+    "icicle-spear",
+    "bounce",
+    "water-pulse",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "heavy-slam",
+    "entrainment",
+    "echoed-voice",
+    "bulldoze",
+    "icicle-crash",
+    "play-rough",
+    "high-horsepower",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 108,
+    "attack": 68,
+    "defense": 45,
+    "special-attack": 30,
+    "special-defense": 40,
+    "speed": 43
+  },
+  "evolution_chain": [
+    "cetoddle",
+    "cetitan"
+  ],
+  "flavor_texts": [
+    "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+    "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+  ],
+  "text": "Cetoddle is the Terra Whale Pokémon. It is a ice-type Pokémon. Abilities: thick-fat, snow-cloak, sheer-force (hidden). Base stats — HP: 108, Attack: 68, Defense: 45, Sp. Atk: 30, Sp. Def: 40, Speed: 43. Evolution line: cetoddle → cetitan. Lore: This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer. It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+}

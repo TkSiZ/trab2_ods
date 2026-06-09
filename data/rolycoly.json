@@ -1,0 +1,85 @@
+{
+  "id": 837,
+  "name": "rolycoly",
+  "genus": "Coal Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "steam-engine",
+      "hidden": false
+    },
+    {
+      "name": "heatproof",
+      "hidden": false
+    },
+    {
+      "name": "flash-fire",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "dig",
+    "smokescreen",
+    "reflect",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "rapid-spin",
+    "ancient-power",
+    "will-o-wisp",
+    "facade",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "gyro-ball",
+    "rock-polish",
+    "power-gem",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "round",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "meteor-beam",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "flavor_texts": [
+    "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+    "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+  ],
+  "text": "Rolycoly is the Coal Pokémon. It is a rock-type Pokémon. Abilities: steam-engine, heatproof, flash-fire (hidden). Base stats — HP: 30, Attack: 40, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 30. Evolution line: rolycoly → carkol → coalossal. Lore: Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago. It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+}

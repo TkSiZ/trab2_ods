@@ -1,0 +1,98 @@
+{
+  "id": 519,
+  "name": "pidove",
+  "genus": "Tiny Pigeon Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "super-luck",
+      "hidden": false
+    },
+    {
+      "name": "rivalry",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "fly",
+    "leer",
+    "growl",
+    "toxic",
+    "hypnosis",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "focus-energy",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "morning-sun",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "wish",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "lucky-chant",
+    "night-slash",
+    "air-slash",
+    "defog",
+    "round",
+    "echoed-voice",
+    "bestow",
+    "work-up",
+    "confide",
+    "dual-wingbeat"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "special-attack": 36,
+    "special-defense": 30,
+    "speed": 43
+  },
+  "evolution_chain": [
+    "pidove",
+    "tranquill",
+    "unfezant"
+  ],
+  "flavor_texts": [
+    "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
+    "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+    "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+    "Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once.",
+    "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+  ],
+  "text": "Pidove is the Tiny Pigeon Pokémon. It is a normal and flying-type Pokémon. Abilities: big-pecks, super-luck, rivalry (hidden). Base stats — HP: 50, Attack: 55, Defense: 50, Sp. Atk: 36, Sp. Def: 30, Speed: 43. Evolution line: pidove → tranquill → unfezant. Lore: Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands. These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas. This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one. Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once. It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+}

@@ -1,0 +1,101 @@
+{
+  "id": 983,
+  "name": "kingambit",
+  "genus": "Big Blade Pokémon",
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "defiant",
+      "hidden": false
+    },
+    {
+      "name": "supreme-overlord",
+      "hidden": false
+    },
+    {
+      "name": "pressure",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "guillotine",
+    "swords-dance",
+    "take-down",
+    "leer",
+    "hyper-beam",
+    "low-kick",
+    "thunder-wave",
+    "dig",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "fury-cutter",
+    "sleep-talk",
+    "metal-claw",
+    "rain-dance",
+    "torment",
+    "facade",
+    "taunt",
+    "brick-break",
+    "rock-tomb",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "metal-burst",
+    "assurance",
+    "fling",
+    "poison-jab",
+    "dark-pulse",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "low-sweep",
+    "foul-play",
+    "retaliate",
+    "snarl",
+    "throat-chop",
+    "steel-beam",
+    "lash-out",
+    "tera-blast",
+    "kowtow-cleave"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 135,
+    "defense": 120,
+    "special-attack": 60,
+    "special-defense": 85,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "pawniard",
+    "bisharp",
+    "kingambit"
+  ],
+  "flavor_texts": [
+    "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+    "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+  ],
+  "text": "Kingambit is the Big Blade Pokémon. It is a dark and steel-type Pokémon. Abilities: defiant, supreme-overlord, pressure (hidden). Base stats — HP: 100, Attack: 135, Defense: 120, Sp. Atk: 60, Sp. Def: 85, Speed: 50. Evolution line: pawniard → bisharp → kingambit. Lore: Only a Bisharp that stands above all others in its vast army can evolve into Kingambit. Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+}

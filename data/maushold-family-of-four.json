@@ -1,0 +1,90 @@
+{
+  "id": 925,
+  "name": "maushold-family-of-four",
+  "genus": "Family Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "friend-guard",
+      "hidden": false
+    },
+    {
+      "name": "cheek-pouch",
+      "hidden": false
+    },
+    {
+      "name": "technician",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "low-kick",
+    "thunder-wave",
+    "dig",
+    "agility",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "mud-slap",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "encore",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "beat-up",
+    "facade",
+    "follow-me",
+    "taunt",
+    "helping-hand",
+    "hyper-voice",
+    "fake-tears",
+    "bullet-seed",
+    "aerial-ace",
+    "mud-shot",
+    "water-pulse",
+    "u-turn",
+    "copycat",
+    "seed-bomb",
+    "giga-impact",
+    "shadow-claw",
+    "grass-knot",
+    "double-hit",
+    "low-sweep",
+    "echoed-voice",
+    "play-rough",
+    "baby-doll-eyes",
+    "tera-blast",
+    "population-bomb",
+    "tidy-up",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 74,
+    "attack": 75,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 75,
+    "speed": 111
+  },
+  "evolution_chain": [
+    "tandemaus",
+    "maushold"
+  ],
+  "flavor_texts": [
+    "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
+    "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+  ],
+  "text": "Maushold-family-of-four is the Family Pokémon. It is a normal-type Pokémon. Abilities: friend-guard, cheek-pouch, technician (hidden). Base stats — HP: 74, Attack: 75, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 111. Evolution line: tandemaus → maushold. Lore: The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure. The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+}

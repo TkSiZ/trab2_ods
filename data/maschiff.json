@@ -1,0 +1,84 @@
+{
+  "id": 942,
+  "name": "maschiff",
+  "genus": "Rascal Pokémon",
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": false
+    },
+    {
+      "name": "stakeout",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "dig",
+    "lick",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "protect",
+    "scary-face",
+    "destiny-bond",
+    "endure",
+    "charm",
+    "swagger",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "endeavor",
+    "fake-tears",
+    "payback",
+    "dark-pulse",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "hone-claws",
+    "retaliate",
+    "snarl",
+    "play-rough",
+    "psychic-fangs",
+    "jaw-lock",
+    "lash-out",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 51,
+    "speed": 51
+  },
+  "evolution_chain": [
+    "maschiff",
+    "mabosstiff"
+  ],
+  "flavor_texts": [
+    "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.",
+    "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+  ],
+  "text": "Maschiff is the Rascal Pokémon. It is a dark-type Pokémon. Abilities: intimidate, run-away, stakeout (hidden). Base stats — HP: 60, Attack: 78, Defense: 60, Sp. Atk: 40, Sp. Def: 51, Speed: 51. Evolution line: maschiff → mabosstiff. Lore: It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face. Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+}

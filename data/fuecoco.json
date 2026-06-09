@@ -1,0 +1,83 @@
+{
+  "id": 909,
+  "name": "fuecoco",
+  "genus": "Fire Croc Pokémon",
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false
+    },
+    {
+      "name": "unaware",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "fire-spin",
+    "dig",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "curse",
+    "protect",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "encore",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "slack-off",
+    "hyper-voice",
+    "overheat",
+    "flare-blitz",
+    "seed-bomb",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "fire-pledge",
+    "snarl",
+    "belch",
+    "disarming-voice",
+    "stomping-tantrum",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 67,
+    "attack": 45,
+    "defense": 59,
+    "special-attack": 63,
+    "special-defense": 40,
+    "speed": 36
+  },
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "flavor_texts": [
+    "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+  ],
+  "text": "Fuecoco is the Fire Croc Pokémon. It is a fire-type Pokémon. Abilities: blaze, unaware (hidden). Base stats — HP: 67, Attack: 45, Defense: 59, Sp. Atk: 63, Sp. Def: 40, Speed: 36. Evolution line: fuecoco → crocalor → skeledirge. Lore: It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy. Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+}

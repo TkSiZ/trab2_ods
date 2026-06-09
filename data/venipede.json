@@ -1,0 +1,98 @@
+{
+  "id": 543,
+  "name": "venipede",
+  "genus": "Centipede Pokémon",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "hidden": false
+    },
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "twineedle",
+    "pin-missile",
+    "bite",
+    "solar-beam",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "endeavor",
+    "secret-power",
+    "signal-beam",
+    "iron-defense",
+    "poison-tail",
+    "gyro-ball",
+    "payback",
+    "toxic-spikes",
+    "poison-jab",
+    "rock-climb",
+    "bug-bite",
+    "venoshock",
+    "round",
+    "hex",
+    "struggle-bug",
+    "steamroller",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "steel-roller",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 59,
+    "special-attack": 30,
+    "special-defense": 39,
+    "speed": 57
+  },
+  "evolution_chain": [
+    "venipede",
+    "whirlipede",
+    "scolipede"
+  ],
+  "flavor_texts": [
+    "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+    "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+    "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey’s location and state.",
+    "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+    "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+  ],
+  "text": "Venipede is the Centipede Pokémon. It is a bug and poison-type Pokémon. Abilities: poison-point, swarm, speed-boost (hidden). Base stats — HP: 30, Attack: 45, Defense: 59, Sp. Atk: 30, Sp. Def: 39, Speed: 57. Evolution line: venipede → whirlipede → scolipede. Lore: Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it. It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive. Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey’s location and state. Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues. Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+}

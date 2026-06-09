@@ -1,0 +1,75 @@
+{
+  "id": 835,
+  "name": "yamper",
+  "genus": "Puppy Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "ball-fetch",
+      "hidden": false
+    },
+    {
+      "name": "rattled",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "tackle",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "roar",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "crunch",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "howl",
+    "thunder-fang",
+    "fire-fang",
+    "discharge",
+    "electro-ball",
+    "flame-charge",
+    "round",
+    "volt-switch",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "nuzzle",
+    "rising-voltage"
+  ],
+  "stats": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 26
+  },
+  "evolution_chain": [
+    "yamper",
+    "boltund"
+  ],
+  "flavor_texts": [
+    "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+    "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+  ],
+  "text": "Yamper is the Puppy Pokémon. It is a electric-type Pokémon. Abilities: ball-fetch, rattled (hidden). Base stats — HP: 59, Attack: 45, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 26. Evolution line: yamper → boltund. Lore: This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail. This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+}

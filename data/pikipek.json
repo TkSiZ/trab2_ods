@@ -1,0 +1,103 @@
+{
+  "id": 731,
+  "name": "pikipek",
+  "genus": "Woodpecker Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "skill-link",
+      "hidden": false
+    },
+    {
+      "name": "pickup",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "fly",
+    "fury-attack",
+    "take-down",
+    "growl",
+    "supersonic",
+    "peck",
+    "drill-peck",
+    "toxic",
+    "screech",
+    "double-team",
+    "mirror-move",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "feather-dance",
+    "hyper-voice",
+    "air-cutter",
+    "bullet-seed",
+    "aerial-ace",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "gunk-shot",
+    "smack-down",
+    "flame-charge",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "work-up",
+    "boomburst",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 75,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "pikipek",
+    "trumbeak",
+    "toucannon"
+  ],
+  "flavor_texts": [
+    "It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting.",
+    "This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.",
+    "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+    "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!"
+  ],
+  "text": "Pikipek is the Woodpecker Pokémon. It is a normal and flying-type Pokémon. Abilities: keen-eye, skill-link, pickup (hidden). Base stats — HP: 35, Attack: 75, Defense: 30, Sp. Atk: 30, Sp. Def: 30, Speed: 65. Evolution line: pikipek → trumbeak → toucannon. Lore: It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting. This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth. It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking. It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!"
+}

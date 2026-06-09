@@ -1,0 +1,89 @@
+{
+  "id": 992,
+  "name": "iron-hands",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "fighting",
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "whirlwind",
+    "slam",
+    "sand-attack",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "low-kick",
+    "seismic-toss",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "focus-energy",
+    "metronome",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "reversal",
+    "protect",
+    "scary-face",
+    "belly-drum",
+    "detect",
+    "endure",
+    "sleep-talk",
+    "fake-out",
+    "facade",
+    "focus-punch",
+    "charge",
+    "brick-break",
+    "arm-thrust",
+    "rock-tomb",
+    "iron-defense",
+    "close-combat",
+    "fling",
+    "force-palm",
+    "drain-punch",
+    "focus-blast",
+    "giga-impact",
+    "iron-head",
+    "heavy-slam",
+    "low-sweep",
+    "volt-switch",
+    "bulldoze",
+    "wild-charge",
+    "play-rough",
+    "electric-terrain",
+    "stomping-tantrum",
+    "body-press",
+    "tera-blast",
+    "hard-press",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 154,
+    "attack": 140,
+    "defense": 108,
+    "special-attack": 50,
+    "special-defense": 68,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "iron-hands"
+  ],
+  "flavor_texts": [
+    "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+    "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+  ],
+  "text": "Iron-hands is the Paradox Pokémon. It is a fighting and electric-type Pokémon. Abilities: quark-drive. Base stats — HP: 154, Attack: 140, Defense: 108, Sp. Atk: 50, Sp. Def: 68, Speed: 50. Evolution line: iron-hands. Lore: It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete. This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+}

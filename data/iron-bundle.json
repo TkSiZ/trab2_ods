@@ -1,0 +1,74 @@
+{
+  "id": 991,
+  "name": "iron-bundle",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "ice-punch",
+    "body-slam",
+    "take-down",
+    "hydro-pump",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "drill-peck",
+    "agility",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "present",
+    "encore",
+    "rain-dance",
+    "whirlpool",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "air-cutter",
+    "water-pulse",
+    "u-turn",
+    "fling",
+    "giga-impact",
+    "avalanche",
+    "acrobatics",
+    "freeze-dry",
+    "play-rough",
+    "electric-terrain",
+    "aurora-veil",
+    "flip-turn",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 56,
+    "attack": 80,
+    "defense": 114,
+    "special-attack": 124,
+    "special-defense": 60,
+    "speed": 136
+  },
+  "evolution_chain": [
+    "iron-bundle"
+  ],
+  "flavor_texts": [
+    "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+    "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+  ],
+  "text": "Iron-bundle is the Paradox Pokémon. It is a ice and water-type Pokémon. Abilities: quark-drive. Base stats — HP: 56, Attack: 80, Defense: 114, Sp. Atk: 124, Sp. Def: 60, Speed: 136. Evolution line: iron-bundle. Lore: Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization. It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+}

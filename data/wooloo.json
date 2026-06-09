@@ -1,0 +1,71 @@
+{
+  "id": 831,
+  "name": "wooloo",
+  "genus": "Sheep Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "fluffy",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": false
+    },
+    {
+      "name": "bulletproof",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "counter",
+    "thunder-wave",
+    "agility",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "facade",
+    "payback",
+    "copycat",
+    "guard-swap",
+    "guard-split",
+    "electro-ball",
+    "round",
+    "wild-charge",
+    "cotton-guard",
+    "grassy-glide"
+  ],
+  "stats": {
+    "hp": 42,
+    "attack": 40,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 48
+  },
+  "evolution_chain": [
+    "wooloo",
+    "dubwool"
+  ],
+  "flavor_texts": [
+    "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+    "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+  ],
+  "text": "Wooloo is the Sheep Pokémon. It is a normal-type Pokémon. Abilities: fluffy, run-away, bulletproof (hidden). Base stats — HP: 42, Attack: 40, Defense: 55, Sp. Atk: 40, Sp. Def: 45, Speed: 48. Evolution line: wooloo → dubwool. Lore: Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed. If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+}

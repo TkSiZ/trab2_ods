@@ -1,0 +1,93 @@
+{
+  "id": 870,
+  "name": "falinks",
+  "genus": "Formation Pokémon",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "hidden": false
+    },
+    {
+      "name": "defiant",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "counter",
+    "agility",
+    "screech",
+    "focus-energy",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "megahorn",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "beat-up",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "iron-defense",
+    "bulk-up",
+    "close-combat",
+    "payback",
+    "assurance",
+    "poison-jab",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "round",
+    "retaliate",
+    "first-impression",
+    "high-horsepower",
+    "throat-chop",
+    "lunge",
+    "smart-strike",
+    "no-retreat",
+    "body-press",
+    "coaching",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 70,
+    "special-defense": 60,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "falinks"
+  ],
+  "flavor_texts": [
+    "Five of them are troopers, and one is the brass. The brass’s orders are absolute.",
+    "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+  ],
+  "text": "Falinks is the Formation Pokémon. It is a fighting-type Pokémon. Abilities: battle-armor, defiant (hidden). Base stats — HP: 65, Attack: 100, Defense: 100, Sp. Atk: 70, Sp. Def: 60, Speed: 75. Evolution line: falinks. Lore: Five of them are troopers, and one is the brass. The brass’s orders are absolute. The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+}

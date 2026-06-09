@@ -1,0 +1,102 @@
+{
+  "id": 755,
+  "name": "morelull",
+  "genus": "Illuminating Pokémon",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "illuminate",
+      "hidden": false
+    },
+    {
+      "name": "effect-spore",
+      "hidden": false
+    },
+    {
+      "name": "rain-dish",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "thunder-wave",
+    "toxic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "amnesia",
+    "dream-eater",
+    "spore",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "synthesis",
+    "moonlight",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "magic-coat",
+    "recycle",
+    "astonish",
+    "signal-beam",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "grass-knot",
+    "wonder-room",
+    "magic-room",
+    "after-you",
+    "round",
+    "draining-kiss",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "strength-sap",
+    "spotlight",
+    "pollen-puff"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 55,
+    "special-attack": 65,
+    "special-defense": 75,
+    "speed": 15
+  },
+  "evolution_chain": [
+    "morelull",
+    "shiinotic"
+  ],
+  "flavor_texts": [
+    "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+    "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+    "It scatters its shining spores around itself. Even though they’re dangerous, nighttime tours of forests where Morelull live are popular.",
+    "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
+    "Pokémon living in the forest eat the delicious caps on Morelull’s head. The caps regrow overnight.",
+    "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
+  ],
+  "text": "Morelull is the Illuminating Pokémon. It is a grass and fairy-type Pokémon. Abilities: illuminate, effect-spore, rain-dish (hidden). Base stats — HP: 40, Attack: 35, Defense: 55, Sp. Atk: 65, Sp. Def: 75, Speed: 15. Evolution line: morelull → shiinotic. Lore: It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber. As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree. It scatters its shining spores around itself. Even though they’re dangerous, nighttime tours of forests where Morelull live are popular. It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow. Pokémon living in the forest eat the delicious caps on Morelull’s head. The caps regrow overnight."
+}

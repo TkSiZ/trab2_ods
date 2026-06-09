@@ -1,0 +1,109 @@
+{
+  "id": 632,
+  "name": "durant",
+  "genus": "Iron Ant Pokémon",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "hustle",
+      "hidden": false
+    },
+    {
+      "name": "truant",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "guillotine",
+    "cut",
+    "sand-attack",
+    "bite",
+    "strength",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "feint-attack",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "metal-claw",
+    "hidden-power",
+    "crunch",
+    "rock-smash",
+    "beat-up",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "endeavor",
+    "secret-power",
+    "rock-tomb",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "metal-burst",
+    "rock-polish",
+    "x-scissor",
+    "energy-ball",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "bug-bite",
+    "hone-claws",
+    "entrainment",
+    "round",
+    "retaliate",
+    "struggle-bug",
+    "confide",
+    "infestation",
+    "first-impression",
+    "stomping-tantrum",
+    "steel-beam",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "special-attack": 48,
+    "special-defense": 48,
+    "speed": 109
+  },
+  "evolution_chain": [
+    "durant"
+  ],
+  "flavor_texts": [
+    "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+    "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+    "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+    "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+  ],
+  "text": "Durant is the Iron Ant Pokémon. It is a bug and steel-type Pokémon. Abilities: swarm, hustle, truant (hidden). Base stats — HP: 58, Attack: 109, Defense: 112, Sp. Atk: 48, Sp. Def: 48, Speed: 109. Evolution line: durant. Lore: They attack in groups, covering themselves in steel armor to protect themselves from Heatmor. Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes. Individuals each play different roles in driving Heatmor, their natural predator, away from their colony. They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles. With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+}

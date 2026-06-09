@@ -1,0 +1,87 @@
+{
+  "id": 896,
+  "name": "glastrier",
+  "genus": "Wild Horse Pokémon",
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "chilling-neigh",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "stomp",
+    "double-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "roar",
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "megahorn",
+    "crunch",
+    "uproar",
+    "hail",
+    "torment",
+    "facade",
+    "taunt",
+    "superpower",
+    "icicle-spear",
+    "iron-defense",
+    "mud-shot",
+    "close-combat",
+    "payback",
+    "assurance",
+    "giga-impact",
+    "avalanche",
+    "zen-headbutt",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "snarl",
+    "icicle-crash",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "snowscape",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 145,
+    "defense": 130,
+    "special-attack": 65,
+    "special-defense": 110,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "glastrier"
+  ],
+  "flavor_texts": [
+    "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",
+    "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+  ],
+  "text": "Glastrier is the Wild Horse Pokémon. It is a ice-type Pokémon. Abilities: chilling-neigh. Base stats — HP: 100, Attack: 145, Defense: 130, Sp. Atk: 65, Sp. Def: 110, Speed: 30. Evolution line: glastrier. Lore: Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force. Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+}

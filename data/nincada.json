@@ -1,0 +1,99 @@
+{
+  "id": 290,
+  "name": "nincada",
+  "genus": "Trainee Pokémon",
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "abilities": [
+    {
+      "name": "compound-eyes",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "cut",
+    "gust",
+    "sand-attack",
+    "double-edge",
+    "absorb",
+    "solar-beam",
+    "string-shot",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "harden",
+    "bide",
+    "leech-life",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "flail",
+    "spite",
+    "protect",
+    "feint-attack",
+    "mud-slap",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "hidden-power",
+    "sunny-day",
+    "shadow-ball",
+    "facade",
+    "secret-power",
+    "silver-wind",
+    "aerial-ace",
+    "natural-gift",
+    "night-slash",
+    "x-scissor",
+    "bug-buzz",
+    "bug-bite",
+    "hone-claws",
+    "round",
+    "final-gambit",
+    "struggle-bug",
+    "confide",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "nincada",
+    "ninjask",
+    "shedinja"
+  ],
+  "flavor_texts": [
+    "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+    "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can’t withstand bright sunlight so avoids it.",
+    "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
+    "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+    "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
+    "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
+    "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+    "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can’t withstand bright sunlight so avoids it."
+  ],
+  "text": "Nincada is the Trainee Pokémon. It is a bug and ground-type Pokémon. Abilities: compound-eyes, run-away (hidden). Base stats — HP: 31, Attack: 45, Defense: 90, Sp. Atk: 30, Sp. Def: 30, Speed: 40. Evolution line: nincada → ninjask → shedinja. Lore: NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution. NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can’t withstand bright sunlight so avoids it. It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil. Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead. It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+}

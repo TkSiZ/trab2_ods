@@ -1,0 +1,86 @@
+{
+  "id": 890,
+  "name": "eternatus",
+  "genus": "Gigantic Pokémon",
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "fly",
+    "body-slam",
+    "take-down",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "toxic",
+    "agility",
+    "screech",
+    "recover",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "facade",
+    "cosmic-power",
+    "poison-tail",
+    "dragon-dance",
+    "gravity",
+    "payback",
+    "assurance",
+    "toxic-spikes",
+    "poison-jab",
+    "dragon-pulse",
+    "giga-impact",
+    "flash-cannon",
+    "draco-meteor",
+    "cross-poison",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "round",
+    "dragon-tail",
+    "mystical-fire",
+    "venom-drench",
+    "brutal-swing",
+    "dynamax-cannon",
+    "eternabeam",
+    "meteor-beam",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 140,
+    "attack": 85,
+    "defense": 95,
+    "special-attack": 145,
+    "special-defense": 95,
+    "speed": 130
+  },
+  "evolution_chain": [
+    "eternatus"
+  ],
+  "flavor_texts": [
+    "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+  ],
+  "text": "Eternatus is the Gigantic Pokémon. It is a poison and dragon-type Pokémon. Abilities: pressure. Base stats — HP: 140, Attack: 85, Defense: 95, Sp. Atk: 145, Sp. Def: 95, Speed: 130. Evolution line: eternatus. Lore: The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active. It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+}

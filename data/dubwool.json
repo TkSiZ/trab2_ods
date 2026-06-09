@@ -1,0 +1,79 @@
+{
+  "id": 832,
+  "name": "dubwool",
+  "genus": "Sheep Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "fluffy",
+      "hidden": false
+    },
+    {
+      "name": "steadfast",
+      "hidden": false
+    },
+    {
+      "name": "bulletproof",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "double-kick",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "thunder-wave",
+    "agility",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "facade",
+    "bounce",
+    "payback",
+    "copycat",
+    "guard-swap",
+    "last-resort",
+    "giga-impact",
+    "zen-headbutt",
+    "guard-split",
+    "electro-ball",
+    "round",
+    "retaliate",
+    "wild-charge",
+    "cotton-guard",
+    "body-press",
+    "grassy-glide"
+  ],
+  "stats": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 100,
+    "special-attack": 60,
+    "special-defense": 90,
+    "speed": 88
+  },
+  "evolution_chain": [
+    "wooloo",
+    "dubwool"
+  ],
+  "flavor_texts": [
+    "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.",
+    "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+  ],
+  "text": "Dubwool is the Sheep Pokémon. It is a normal-type Pokémon. Abilities: fluffy, steadfast, bulletproof (hidden). Base stats — HP: 72, Attack: 80, Defense: 100, Sp. Atk: 60, Sp. Def: 90, Speed: 88. Evolution line: wooloo → dubwool. Lore: Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it. Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+}

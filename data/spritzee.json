@@ -1,0 +1,102 @@
+{
+  "id": 682,
+  "name": "spritzee",
+  "genus": "Perfume Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "healer",
+      "hidden": false
+    },
+    {
+      "name": "aroma-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "disable",
+    "thunderbolt",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "sweet-kiss",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "encore",
+    "sweet-scent",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "torment",
+    "facade",
+    "helping-hand",
+    "wish",
+    "magic-coat",
+    "endeavor",
+    "skill-swap",
+    "refresh",
+    "secret-power",
+    "aromatherapy",
+    "fake-tears",
+    "odor-sleuth",
+    "covet",
+    "calm-mind",
+    "gyro-ball",
+    "energy-ball",
+    "nasty-plot",
+    "flash-cannon",
+    "trick-room",
+    "captivate",
+    "charge-beam",
+    "telekinesis",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "ally-switch",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "fairy-wind",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "misty-explosion"
+  ],
+  "stats": {
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "special-attack": 63,
+    "special-defense": 65,
+    "speed": 23
+  },
+  "evolution_chain": [
+    "spritzee",
+    "aromatisse"
+  ],
+  "flavor_texts": [
+    "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+    "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+    "A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+    "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+  ],
+  "text": "Spritzee is the Perfume Pokémon. It is a fairy-type Pokémon. Abilities: healer, aroma-veil (hidden). Base stats — HP: 78, Attack: 52, Defense: 60, Sp. Atk: 63, Sp. Def: 65, Speed: 23. Evolution line: spritzee → aromatisse. Lore: It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten. In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked. A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces. The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1002,
+  "name": "chien-pao",
+  "genus": "Ruinous Pokémon",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "sword-of-ruin",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "take-down",
+    "mist",
+    "blizzard",
+    "hyper-beam",
+    "recover",
+    "haze",
+    "rest",
+    "substitute",
+    "spite",
+    "powder-snow",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "mean-look",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "taunt",
+    "brick-break",
+    "sheer-cold",
+    "aerial-ace",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "night-slash",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "hex",
+    "acrobatics",
+    "sacred-sword",
+    "snarl",
+    "icicle-crash",
+    "throat-chop",
+    "psychic-fangs",
+    "lash-out",
+    "tera-blast",
+    "ice-spinner",
+    "ruination",
+    "snowscape"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "special-attack": 90,
+    "special-defense": 65,
+    "speed": 135
+  },
+  "evolution_chain": [
+    "chien-pao"
+  ],
+  "flavor_texts": [
+    "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+  ],
+  "text": "Chien-pao is the Ruinous Pokémon. It is a dark and ice-type Pokémon. Abilities: sword-of-ruin. Base stats — HP: 80, Attack: 120, Defense: 80, Sp. Atk: 90, Sp. Def: 65, Speed: 135. Evolution line: chien-pao. Lore: This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused. The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+}

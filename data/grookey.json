@@ -1,0 +1,96 @@
+{
+  "id": 810,
+  "name": "grookey",
+  "genus": "Chimp Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false
+    },
+    {
+      "name": "grassy-surge",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "scratch",
+    "swords-dance",
+    "slam",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "growl",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "screech",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "fake-out",
+    "uproar",
+    "facade",
+    "nature-power",
+    "taunt",
+    "knock-off",
+    "endeavor",
+    "bullet-seed",
+    "magical-leaf",
+    "hammer-arm",
+    "u-turn",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "round",
+    "acrobatics",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "solar-blade",
+    "branch-poke",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "grookey",
+    "thwackey",
+    "rillaboom"
+  ],
+  "flavor_texts": [
+    "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+    "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+  ],
+  "text": "Grookey is the Chimp Pokémon. It is a grass-type Pokémon. Abilities: overgrow, grassy-surge (hidden). Base stats — HP: 50, Attack: 65, Defense: 50, Sp. Atk: 40, Sp. Def: 40, Speed: 65. Evolution line: grookey → thwackey → rillaboom. Lore: When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area. It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+}

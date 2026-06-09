@@ -1,0 +1,107 @@
+{
+  "id": 712,
+  "name": "bergmite",
+  "genus": "Ice Chunk Pokémon",
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": false
+    },
+    {
+      "name": "sturdy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "mist",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "strength",
+    "toxic",
+    "double-team",
+    "recover",
+    "harden",
+    "barrier",
+    "flash",
+    "rest",
+    "rock-slide",
+    "sharpen",
+    "substitute",
+    "snore",
+    "curse",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "mirror-coat",
+    "rock-smash",
+    "hail",
+    "facade",
+    "secret-power",
+    "ice-ball",
+    "rock-tomb",
+    "icicle-spear",
+    "iron-defense",
+    "water-pulse",
+    "gyro-ball",
+    "rock-polish",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "flash-cannon",
+    "stone-edge",
+    "after-you",
+    "round",
+    "bulldoze",
+    "frost-breath",
+    "confide",
+    "aurora-veil",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 69,
+    "defense": 85,
+    "special-attack": 32,
+    "special-defense": 35,
+    "speed": 28
+  },
+  "evolution_chain": [
+    "bergmite",
+    "avalugg"
+  ],
+  "flavor_texts": [
+    "It blocks opponents’ attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+    "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
+    "They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",
+    "This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place.",
+    "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense."
+  ],
+  "text": "Bergmite is the Ice Chunk Pokémon. It is a ice-type Pokémon. Abilities: own-tempo, ice-body, sturdy (hidden). Base stats — HP: 55, Attack: 69, Defense: 85, Sp. Atk: 32, Sp. Def: 35, Speed: 28. Evolution line: bergmite → avalugg. Lore: It blocks opponents’ attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice. Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains. They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor. This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place. Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense."
+}

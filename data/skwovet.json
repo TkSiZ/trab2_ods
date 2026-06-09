@@ -1,0 +1,84 @@
+{
+  "id": 819,
+  "name": "skwovet",
+  "genus": "Cheeky Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "cheek-pouch",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "counter",
+    "dig",
+    "defense-curl",
+    "amnesia",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "belly-drum",
+    "mud-slap",
+    "endure",
+    "rollout",
+    "attract",
+    "sleep-talk",
+    "iron-tail",
+    "crunch",
+    "uproar",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "endeavor",
+    "hyper-voice",
+    "bullet-seed",
+    "mud-shot",
+    "gyro-ball",
+    "payback",
+    "assurance",
+    "fling",
+    "last-resort",
+    "seed-bomb",
+    "round",
+    "tail-slap",
+    "belch",
+    "brutal-swing",
+    "stuff-cheeks",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 25
+  },
+  "evolution_chain": [
+    "skwovet",
+    "greedent"
+  ],
+  "flavor_texts": [
+    "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
+    "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries."
+  ],
+  "text": "Skwovet is the Cheeky Pokémon. It is a normal-type Pokémon. Abilities: cheek-pouch, gluttony (hidden). Base stats — HP: 70, Attack: 55, Defense: 55, Sp. Atk: 35, Sp. Def: 35, Speed: 25. Evolution line: skwovet → greedent. Lore: Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries. It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries."
+}

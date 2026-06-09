@@ -1,0 +1,105 @@
+{
+  "id": 568,
+  "name": "trubbish",
+  "genus": "Trash Bag Pokémon",
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "stench",
+      "hidden": false
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": false
+    },
+    {
+      "name": "aftermath",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "sand-attack",
+    "take-down",
+    "toxic",
+    "double-team",
+    "haze",
+    "self-destruct",
+    "sludge",
+    "amnesia",
+    "poison-gas",
+    "explosion",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "stockpile",
+    "swallow",
+    "facade",
+    "recycle",
+    "secret-power",
+    "mud-sport",
+    "rock-blast",
+    "payback",
+    "toxic-spikes",
+    "dark-pulse",
+    "seed-bomb",
+    "drain-punch",
+    "gunk-shot",
+    "venoshock",
+    "autotomize",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "clear-smog",
+    "belch",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "corrosive-gas"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "special-attack": 40,
+    "special-defense": 62,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "trubbish",
+    "garbodor"
+  ],
+  "flavor_texts": [
+    "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+    "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+    "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+    "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+    "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+    "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+    "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
+    "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+  ],
+  "text": "Trubbish is the Trash Bag Pokémon. It is a poison-type Pokémon. Abilities: stench, sticky-hold, aftermath (hidden). Base stats — HP: 50, Attack: 50, Defense: 62, Sp. Atk: 40, Sp. Def: 62, Speed: 65. Evolution line: trubbish → garbodor. Lore: Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places. The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon. Wanting more garbage, they follow people who litter. They always belch poison gas. Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit. It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital."
+}

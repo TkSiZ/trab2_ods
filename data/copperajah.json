@@ -1,0 +1,101 @@
+{
+  "id": 879,
+  "name": "copperajah",
+  "genus": "Copperderm Pokémon",
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "sheer-force",
+      "hidden": false
+    },
+    {
+      "name": "heavy-metal",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "stomp",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "dig",
+    "screech",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "attract",
+    "sleep-talk",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "payback",
+    "fling",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "power-whip",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "work-up",
+    "heat-crash",
+    "snarl",
+    "play-rough",
+    "high-horsepower",
+    "brutal-swing",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "steel-roller",
+    "tera-blast",
+    "hard-press",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 122,
+    "attack": 130,
+    "defense": 69,
+    "special-attack": 80,
+    "special-defense": 69,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "cufant",
+    "copperajah"
+  ],
+  "flavor_texts": [
+    "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+    "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
+  ],
+  "text": "Copperajah is the Copperderm Pokémon. It is a steel-type Pokémon. Abilities: sheer-force, heavy-metal (hidden). Base stats — HP: 122, Attack: 130, Defense: 69, Sp. Atk: 80, Sp. Def: 69, Speed: 30. Evolution line: cufant → copperajah. Lore: They came over from another region long ago and worked together with humans. Their green skin is resistant to water. These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
+}

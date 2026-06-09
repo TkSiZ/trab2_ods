@@ -1,0 +1,107 @@
+{
+  "id": 522,
+  "name": "blitzle",
+  "genus": "Electrified Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "lightning-rod",
+      "hidden": false
+    },
+    {
+      "name": "motor-drive",
+      "hidden": false
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "sand-attack",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "low-kick",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "rage",
+    "screech",
+    "double-team",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "signal-beam",
+    "bounce",
+    "shock-wave",
+    "feint",
+    "me-first",
+    "magnet-rise",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "flame-charge",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "smart-strike",
+    "tera-blast",
+    "trailblaze",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "special-attack": 50,
+    "special-defense": 32,
+    "speed": 76
+  },
+  "evolution_chain": [
+    "blitzle",
+    "zebstrika"
+  ],
+  "flavor_texts": [
+    "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+    "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+    "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+  ],
+  "text": "Blitzle is the Electrified Pokémon. It is a electric-type Pokémon. Abilities: lightning-rod, motor-drive, sap-sipper (hidden). Base stats — HP: 45, Attack: 60, Defense: 32, Sp. Atk: 50, Sp. Def: 32, Speed: 76. Evolution line: blitzle → zebstrika. Lore: When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity. Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another. Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+}

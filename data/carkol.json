@@ -1,0 +1,98 @@
+{
+  "id": 838,
+  "name": "carkol",
+  "genus": "Coal Pokémon",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "steam-engine",
+      "hidden": false
+    },
+    {
+      "name": "flame-body",
+      "hidden": false
+    },
+    {
+      "name": "flash-fire",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "flamethrower",
+    "fire-spin",
+    "dig",
+    "smokescreen",
+    "reflect",
+    "self-destruct",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "rapid-spin",
+    "sunny-day",
+    "ancient-power",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "overheat",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "rock-blast",
+    "gyro-ball",
+    "flare-blitz",
+    "rock-polish",
+    "power-gem",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "scald",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "high-horsepower",
+    "burn-up",
+    "body-press",
+    "meteor-beam",
+    "scorching-sands",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 60,
+    "defense": 90,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "flavor_texts": [
+    "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
+    "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit."
+  ],
+  "text": "Carkol is the Coal Pokémon. It is a rock and fire-type Pokémon. Abilities: steam-engine, flame-body, flash-fire (hidden). Base stats — HP: 80, Attack: 60, Defense: 90, Sp. Atk: 60, Sp. Def: 70, Speed: 50. Evolution line: rolycoly → carkol → coalossal. Lore: It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region. By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit."
+}

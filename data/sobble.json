@@ -1,0 +1,84 @@
+{
+  "id": 816,
+  "name": "sobble",
+  "genus": "Water Lizard Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false
+    },
+    {
+      "name": "sniper",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "bind",
+    "take-down",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "double-team",
+    "light-screen",
+    "haze",
+    "reflect",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "rain-dance",
+    "whirlpool",
+    "facade",
+    "dive",
+    "weather-ball",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "u-turn",
+    "sucker-punch",
+    "aqua-ring",
+    "ice-shard",
+    "aqua-jet",
+    "soak",
+    "round",
+    "water-pledge",
+    "work-up",
+    "fell-stinger",
+    "liquidation",
+    "tearful-look",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 40,
+    "special-attack": 70,
+    "special-defense": 40,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "sobble",
+    "drizzile",
+    "inteleon"
+  ],
+  "flavor_texts": [
+    "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+    "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+  ],
+  "text": "Sobble is the Water Lizard Pokémon. It is a water-type Pokémon. Abilities: torrent, sniper (hidden). Base stats — HP: 50, Attack: 40, Defense: 40, Sp. Atk: 70, Sp. Def: 40, Speed: 70. Evolution line: sobble → drizzile → inteleon. Lore: When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping. When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+}

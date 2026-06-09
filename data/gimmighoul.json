@@ -1,0 +1,51 @@
+{
+  "id": 999,
+  "name": "gimmighoul",
+  "genus": "Coin Chest Pokémon",
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "rattled",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "tackle",
+    "take-down",
+    "night-shade",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "shadow-ball",
+    "astonish",
+    "power-gem",
+    "nasty-plot",
+    "hex",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 70,
+    "special-attack": 75,
+    "special-defense": 70,
+    "speed": 10
+  },
+  "evolution_chain": [
+    "gimmighoul",
+    "gholdengo"
+  ],
+  "flavor_texts": [
+    "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+  ],
+  "text": "Gimmighoul is the Coin Chest Pokémon. It is a ghost-type Pokémon. Abilities: rattled. Base stats — HP: 45, Attack: 30, Defense: 70, Sp. Atk: 75, Sp. Def: 70, Speed: 10. Evolution line: gimmighoul → gholdengo. Lore: This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure. It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+}

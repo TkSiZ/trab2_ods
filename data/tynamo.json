@@ -1,0 +1,43 @@
+{
+  "id": 602,
+  "name": "tynamo",
+  "genus": "EleFish Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "tackle",
+    "thunder-wave",
+    "spark",
+    "charge",
+    "knock-off",
+    "magnet-rise",
+    "charge-beam",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "special-attack": 45,
+    "special-defense": 40,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "tynamo",
+    "eelektrik",
+    "eelektross"
+  ],
+  "flavor_texts": [
+    "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+    "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+  ],
+  "text": "Tynamo is the EleFish Pokémon. It is a electric-type Pokémon. Abilities: levitate. Base stats — HP: 35, Attack: 55, Defense: 40, Sp. Atk: 45, Sp. Def: 40, Speed: 60. Evolution line: tynamo → eelektrik → eelektross. Lore: While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning. These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger. One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+}

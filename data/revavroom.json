@@ -1,0 +1,93 @@
+{
+  "id": 966,
+  "name": "revavroom",
+  "genus": "Multi-Cyl Pokémon",
+  "types": [
+    "steel",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "overcoat",
+      "hidden": false
+    },
+    {
+      "name": "filter",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "toxic",
+    "screech",
+    "haze",
+    "lick",
+    "smog",
+    "sludge",
+    "poison-gas",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "taunt",
+    "endeavor",
+    "overheat",
+    "metal-sound",
+    "iron-defense",
+    "gyro-ball",
+    "assurance",
+    "toxic-spikes",
+    "magnet-rise",
+    "poison-jab",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "gunk-shot",
+    "iron-head",
+    "venoshock",
+    "sludge-wave",
+    "heavy-slam",
+    "acid-spray",
+    "shift-gear",
+    "bulldoze",
+    "high-horsepower",
+    "steel-beam",
+    "lash-out",
+    "tera-blast",
+    "spin-out",
+    "hard-press",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 119,
+    "defense": 90,
+    "special-attack": 54,
+    "special-defense": 67,
+    "speed": 90
+  },
+  "evolution_chain": [
+    "varoom",
+    "revavroom"
+  ],
+  "flavor_texts": [
+    "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.",
+    "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+  ],
+  "text": "Revavroom is the Multi-Cyl Pokémon. It is a steel and poison-type Pokémon. Abilities: overcoat, filter (hidden). Base stats — HP: 80, Attack: 119, Defense: 90, Sp. Atk: 54, Sp. Def: 67, Speed: 90. Evolution line: varoom → revavroom. Lore: It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy. Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+}

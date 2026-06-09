@@ -1,0 +1,95 @@
+{
+  "id": 902,
+  "name": "basculegion-male",
+  "genus": "Big Fish Pokémon",
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false
+    },
+    {
+      "name": "adaptability",
+      "hidden": false
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "agility",
+    "night-shade",
+    "confuse-ray",
+    "waterfall",
+    "rest",
+    "substitute",
+    "flail",
+    "spite",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "outrage",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "crunch",
+    "shadow-ball",
+    "whirlpool",
+    "uproar",
+    "facade",
+    "endeavor",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "giga-impact",
+    "ice-fang",
+    "zen-headbutt",
+    "aqua-jet",
+    "head-smash",
+    "soak",
+    "hex",
+    "phantom-force",
+    "psychic-fangs",
+    "liquidation",
+    "scale-shot",
+    "flip-turn",
+    "wave-crash",
+    "tera-blast",
+    "last-respects",
+    "snowscape",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 120,
+    "attack": 112,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 75,
+    "speed": 78
+  },
+  "evolution_chain": [
+    "basculin",
+    "basculegion"
+  ],
+  "flavor_texts": [
+    "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
+  ],
+  "text": "Basculegion-male is the Big Fish Pokémon. It is a water and ghost-type Pokémon. Abilities: swift-swim, adaptability, mold-breaker (hidden). Base stats — HP: 120, Attack: 112, Defense: 65, Sp. Atk: 80, Sp. Def: 75, Speed: 78. Evolution line: basculin → basculegion. Lore: Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
+}

@@ -1,0 +1,69 @@
+{
+  "id": 885,
+  "name": "dreepy",
+  "genus": "Lingering Pokémon",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false
+    },
+    {
+      "name": "cursed-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "bite",
+    "disable",
+    "thunder-wave",
+    "quick-attack",
+    "double-team",
+    "confuse-ray",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "facade",
+    "helping-hand",
+    "grudge",
+    "astonish",
+    "sucker-punch",
+    "draco-meteor",
+    "round",
+    "dragon-tail",
+    "infestation",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 28,
+    "attack": 60,
+    "defense": 30,
+    "special-attack": 40,
+    "special-defense": 30,
+    "speed": 82
+  },
+  "evolution_chain": [
+    "dreepy",
+    "drakloak",
+    "dragapult"
+  ],
+  "flavor_texts": [
+    "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+    "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+  ],
+  "text": "Dreepy is the Lingering Pokémon. It is a dragon and ghost-type Pokémon. Abilities: clear-body, infiltrator, cursed-body (hidden). Base stats — HP: 28, Attack: 60, Defense: 30, Sp. Atk: 40, Sp. Def: 30, Speed: 82. Evolution line: dreepy → drakloak → dragapult. Lore: After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas. If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+}

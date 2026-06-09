@@ -1,0 +1,104 @@
+{
+  "id": 904,
+  "name": "overqwil",
+  "genus": "Pin Cluster Pokémon",
+  "types": [
+    "dark",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "hidden": false
+    },
+    {
+      "name": "swift-swim",
+      "hidden": false
+    },
+    {
+      "name": "intimidate",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "pin-missile",
+    "bite",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "toxic",
+    "agility",
+    "harden",
+    "minimize",
+    "haze",
+    "self-destruct",
+    "waterfall",
+    "rest",
+    "substitute",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "spikes",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "crunch",
+    "shadow-ball",
+    "stockpile",
+    "spit-up",
+    "facade",
+    "taunt",
+    "mud-shot",
+    "poison-tail",
+    "water-pulse",
+    "gyro-ball",
+    "brine",
+    "acupressure",
+    "toxic-spikes",
+    "poison-jab",
+    "dark-pulse",
+    "aqua-tail",
+    "giga-impact",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "fell-stinger",
+    "throat-chop",
+    "smart-strike",
+    "liquidation",
+    "scale-shot",
+    "lash-out",
+    "barb-barrage",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 95,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "evolution_chain": [
+    "qwilfish",
+    "overqwil"
+  ],
+  "flavor_texts": [
+    "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself."
+  ],
+  "text": "Overqwil is the Pin Cluster Pokémon. It is a dark and poison-type Pokémon. Abilities: poison-point, swift-swim, intimidate (hidden). Base stats — HP: 85, Attack: 115, Defense: 95, Sp. Atk: 65, Sp. Def: 65, Speed: 85. Evolution line: qwilfish → overqwil. Lore: Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself."
+}

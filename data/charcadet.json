@@ -1,0 +1,66 @@
+{
+  "id": 935,
+  "name": "charcadet",
+  "genus": "Fire Child Pokémon",
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "hidden": false
+    },
+    {
+      "name": "flame-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "leer",
+    "disable",
+    "ember",
+    "flamethrower",
+    "fire-spin",
+    "night-shade",
+    "confuse-ray",
+    "fire-blast",
+    "substitute",
+    "spite",
+    "protect",
+    "destiny-bond",
+    "endure",
+    "sleep-talk",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "astonish",
+    "overheat",
+    "flare-blitz",
+    "lava-plume",
+    "flame-charge",
+    "clear-smog",
+    "incinerate",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 40,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "charcadet",
+    "armarouge",
+    "ceruledge"
+  ],
+  "flavor_texts": [
+    "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+  ],
+  "text": "Charcadet is the Fire Child Pokémon. It is a fire-type Pokémon. Abilities: flash-fire, flame-body (hidden). Base stats — HP: 40, Attack: 50, Defense: 40, Sp. Atk: 50, Sp. Def: 40, Speed: 35. Evolution line: charcadet → armarouge → ceruledge. Lore: Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents. Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+}

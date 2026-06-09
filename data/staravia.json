@@ -1,0 +1,103 @@
+{
+  "id": 397,
+  "name": "staravia",
+  "genus": "Starling Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false
+    },
+    {
+      "name": "reckless",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "retaliate",
+    "final-gambit",
+    "work-up",
+    "hurricane",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 80
+  },
+  "evolution_chain": [
+    "starly",
+    "staravia",
+    "staraptor"
+  ],
+  "flavor_texts": [
+    "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+    "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
+    "Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.",
+    "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+    "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+    "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones."
+  ],
+  "text": "Staravia is the Starling Pokémon. It is a normal and flying-type Pokémon. Abilities: intimidate, reckless (hidden). Base stats — HP: 55, Attack: 75, Defense: 50, Sp. Atk: 40, Sp. Def: 40, Speed: 80. Evolution line: starly → staravia → staraptor. Lore: It flies around forests and fields in search of bug Pokémon. It stays within a huge flock. It lives in forests and fields. Squabbles over territory occur when flocks collide. Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily. They maintain huge flocks, although fierce scuffles break out between various flocks. Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily."
+}

@@ -1,0 +1,103 @@
+{
+  "id": 661,
+  "name": "fletchling",
+  "genus": "Tiny Robin Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "gale-wings",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "fly",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ember",
+    "peck",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "snatch",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "overheat",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "me-first",
+    "flare-blitz",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "flame-charge",
+    "round",
+    "quick-guard",
+    "acrobatics",
+    "work-up",
+    "hurricane",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "special-attack": 40,
+    "special-defense": 38,
+    "speed": 62
+  },
+  "evolution_chain": [
+    "fletchling",
+    "fletchinder",
+    "talonflame"
+  ],
+  "flavor_texts": [
+    "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+    "Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory.",
+    "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+    "When it’s excited, its temperature can double, spiking hormone production in its body.",
+    "While it’s an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you’ll be burned.",
+    "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
+    "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+    "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned."
+  ],
+  "text": "Fletchling is the Tiny Robin Pokémon. It is a normal and flying-type Pokémon. Abilities: big-pecks, gale-wings (hidden). Base stats — HP: 45, Attack: 50, Defense: 43, Sp. Atk: 40, Sp. Def: 38, Speed: 62. Evolution line: fletchling → fletchinder → talonflame. Lore: These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements. Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory. This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side. When it’s excited, its temperature can double, spiking hormone production in its body. While it’s an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you’ll be burned."
+}

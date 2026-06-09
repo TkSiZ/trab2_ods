@@ -1,0 +1,91 @@
+{
+  "id": 984,
+  "name": "great-tusk",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "ground",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "horn-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "earthquake",
+    "dig",
+    "defense-curl",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "megahorn",
+    "rapid-spin",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "bulk-up",
+    "mud-shot",
+    "close-combat",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "head-smash",
+    "psyshock",
+    "smack-down",
+    "heavy-slam",
+    "bulldoze",
+    "play-rough",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "headlong-rush",
+    "tera-blast",
+    "ice-spinner",
+    "temper-flare",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 115,
+    "attack": 131,
+    "defense": 131,
+    "special-attack": 53,
+    "special-defense": 53,
+    "speed": 87
+  },
+  "evolution_chain": [
+    "great-tusk"
+  ],
+  "flavor_texts": [
+    "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+    "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+  ],
+  "text": "Great-tusk is the Paradox Pokémon. It is a ground and fighting-type Pokémon. Abilities: protosynthesis. Base stats — HP: 115, Attack: 131, Defense: 131, Sp. Atk: 53, Sp. Def: 53, Speed: 87. Evolution line: great-tusk. Lore: Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book. This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+}

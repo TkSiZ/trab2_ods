@@ -1,0 +1,77 @@
+{
+  "id": 912,
+  "name": "quaxly",
+  "genus": "Duckling Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false
+    },
+    {
+      "name": "moxie",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "wing-attack",
+    "take-down",
+    "growl",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "low-kick",
+    "focus-energy",
+    "swift",
+    "rest",
+    "protect",
+    "detect",
+    "endure",
+    "baton-pass",
+    "encore",
+    "rapid-spin",
+    "rain-dance",
+    "psych-up",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "last-resort",
+    "air-slash",
+    "brave-bird",
+    "aqua-jet",
+    "double-hit",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "misty-terrain",
+    "liquidation",
+    "tera-blast",
+    "chilling-water",
+    "aqua-cutter"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 50,
+    "special-defense": 45,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "quaxly",
+    "quaxwell",
+    "quaquaval"
+  ],
+  "flavor_texts": [
+    "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+    "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+  ],
+  "text": "Quaxly is the Duckling Pokémon. It is a water-type Pokémon. Abilities: torrent, moxie (hidden). Base stats — HP: 55, Attack: 65, Defense: 45, Sp. Atk: 50, Sp. Def: 45, Speed: 50. Evolution line: quaxly → quaxwell → quaquaval. Lore: This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime. Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+}

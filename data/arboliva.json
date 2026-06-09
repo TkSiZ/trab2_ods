@@ -1,0 +1,88 @@
+{
+  "id": 930,
+  "name": "arboliva",
+  "genus": "Olive Pokémon",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "seed-sower",
+      "hidden": false
+    },
+    {
+      "name": "harvest",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "petal-dance",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "safeguard",
+    "encore",
+    "sweet-scent",
+    "sunny-day",
+    "mirror-coat",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "hyper-voice",
+    "weather-ball",
+    "bullet-seed",
+    "magical-leaf",
+    "fling",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "leaf-storm",
+    "grass-knot",
+    "petal-blizzard",
+    "grassy-terrain",
+    "dazzling-gleam",
+    "solar-blade",
+    "pollen-puff",
+    "terrain-pulse",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 78,
+    "attack": 69,
+    "defense": 90,
+    "special-attack": 125,
+    "special-defense": 109,
+    "speed": 39
+  },
+  "evolution_chain": [
+    "smoliv",
+    "dolliv",
+    "arboliva"
+  ],
+  "flavor_texts": [
+    "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+    "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+  ],
+  "text": "Arboliva is the Olive Pokémon. It is a grass and normal-type Pokémon. Abilities: seed-sower, harvest (hidden). Base stats — HP: 78, Attack: 69, Defense: 90, Sp. Atk: 125, Sp. Def: 109, Speed: 39. Evolution line: smoliv → dolliv → arboliva. Lore: This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon. This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+}

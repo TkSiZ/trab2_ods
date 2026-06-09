@@ -1,0 +1,77 @@
+{
+  "id": 963,
+  "name": "finizen",
+  "genus": "Dolphin Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "water-veil",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "supersonic",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "counter",
+    "agility",
+    "haze",
+    "focus-energy",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "protect",
+    "icy-wind",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "encore",
+    "rain-dance",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "dive",
+    "astonish",
+    "tickle",
+    "bounce",
+    "water-pulse",
+    "fling",
+    "aqua-tail",
+    "zen-headbutt",
+    "aqua-jet",
+    "double-hit",
+    "acrobatics",
+    "disarming-voice",
+    "draining-kiss",
+    "boomburst",
+    "liquidation",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 45,
+    "special-defense": 40,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "finizen",
+    "palafin"
+  ],
+  "flavor_texts": [
+    "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+    "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+  ],
+  "text": "Finizen is the Dolphin Pokémon. It is a water-type Pokémon. Abilities: water-veil. Base stats — HP: 70, Attack: 45, Defense: 40, Sp. Atk: 45, Sp. Def: 40, Speed: 75. Evolution line: finizen → palafin. Lore: It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures. Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+}

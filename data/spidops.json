@@ -1,0 +1,92 @@
+{
+  "id": 918,
+  "name": "spidops",
+  "genus": "Trap Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "hidden": false
+    },
+    {
+      "name": "stakeout",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "low-kick",
+    "counter",
+    "string-shot",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "protect",
+    "scary-face",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "brick-break",
+    "knock-off",
+    "rock-tomb",
+    "bullet-seed",
+    "aerial-ace",
+    "block",
+    "feint",
+    "u-turn",
+    "assurance",
+    "fling",
+    "gastro-acid",
+    "toxic-spikes",
+    "poison-jab",
+    "x-scissor",
+    "bug-buzz",
+    "giga-impact",
+    "shadow-claw",
+    "grass-knot",
+    "bug-bite",
+    "circle-throw",
+    "struggle-bug",
+    "electroweb",
+    "sticky-web",
+    "throat-chop",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "silk-trap",
+    "pounce",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 79,
+    "defense": 92,
+    "special-attack": 52,
+    "special-defense": 86,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "tarountula",
+    "spidops"
+  ],
+  "flavor_texts": [
+    "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+    "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+  ],
+  "text": "Spidops is the Trap Pokémon. It is a bug-type Pokémon. Abilities: insomnia, stakeout (hidden). Base stats — HP: 60, Attack: 79, Defense: 92, Sp. Atk: 52, Sp. Def: 86, Speed: 35. Evolution line: tarountula → spidops. Lore: It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it. Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+}

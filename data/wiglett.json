@@ -1,0 +1,80 @@
+{
+  "id": 960,
+  "name": "wiglett",
+  "genus": "Garden Eel Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "gooey",
+      "hidden": false
+    },
+    {
+      "name": "rattled",
+      "hidden": false
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "slam",
+    "sand-attack",
+    "headbutt",
+    "wrap",
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "dig",
+    "agility",
+    "swift",
+    "rest",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "whirlpool",
+    "memento",
+    "facade",
+    "helping-hand",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "sucker-punch",
+    "earth-power",
+    "aqua-jet",
+    "foul-play",
+    "final-gambit",
+    "bulldoze",
+    "throat-chop",
+    "stomping-tantrum",
+    "liquidation",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "special-attack": 35,
+    "special-defense": 25,
+    "speed": 95
+  },
+  "evolution_chain": [
+    "wiglett",
+    "wugtrio"
+  ],
+  "flavor_texts": [
+    "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+  ],
+  "text": "Wiglett is the Garden Eel Pokémon. It is a water-type Pokémon. Abilities: gooey, rattled, sand-veil (hidden). Base stats — HP: 10, Attack: 55, Defense: 25, Sp. Atk: 35, Sp. Def: 25, Speed: 95. Evolution line: wiglett → wugtrio. Lore: This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand. Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+}

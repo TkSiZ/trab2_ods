@@ -1,0 +1,63 @@
+{
+  "id": 415,
+  "name": "combee",
+  "genus": "Tiny Bee Pokémon",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "honey-gather",
+      "hidden": false
+    },
+    {
+      "name": "hustle",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "string-shot",
+    "swift",
+    "snore",
+    "mud-slap",
+    "sleep-talk",
+    "sweet-scent",
+    "endeavor",
+    "air-cutter",
+    "tailwind",
+    "bug-buzz",
+    "bug-bite",
+    "ominous-wind",
+    "struggle-bug",
+    "lunge",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "special-attack": 30,
+    "special-defense": 42,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "combee",
+    "vespiquen"
+  ],
+  "flavor_texts": [
+    "A Pokémon formed by three others. It busily carries sweet floral honey to VESPIQUEN.",
+    "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
+    "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+    "At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump.",
+    "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+    "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
+    "The members of the trio spend all their time together. Each one has a slightly different taste in nectar.",
+    "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
+    "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey."
+  ],
+  "text": "Combee is the Tiny Bee Pokémon. It is a bug and flying-type Pokémon. Abilities: honey-gather, hustle (hidden). Base stats — HP: 30, Attack: 30, Defense: 42, Sp. Atk: 30, Sp. Def: 42, Speed: 70. Evolution line: combee → vespiquen. Lore: A Pokémon formed by three others. It busily carries sweet floral honey to VESPIQUEN. It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep. The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN. At night, COMBEE sleep in a group of about a thousand, packed closely together in a lump. The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen."
+}

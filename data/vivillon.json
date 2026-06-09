@@ -1,0 +1,110 @@
+{
+  "id": 666,
+  "name": "vivillon",
+  "genus": "Scale Pokémon",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false
+    },
+    {
+      "name": "compound-eyes",
+      "hidden": false
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "supersonic",
+    "psybeam",
+    "hyper-beam",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "toxic",
+    "psychic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "facade",
+    "endeavor",
+    "secret-power",
+    "weather-ball",
+    "aromatherapy",
+    "air-cutter",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "calm-mind",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "bug-buzz",
+    "energy-ball",
+    "giga-impact",
+    "defog",
+    "bug-bite",
+    "quiver-dance",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "electroweb",
+    "hurricane",
+    "draining-kiss",
+    "confide",
+    "powder",
+    "infestation",
+    "laser-focus",
+    "pollen-puff",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "special-attack": 90,
+    "special-defense": 50,
+    "speed": 89
+  },
+  "evolution_chain": [
+    "scatterbug",
+    "spewpa",
+    "vivillon"
+  ],
+  "flavor_texts": [
+    "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+    "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+  ],
+  "text": "Vivillon is the Scale Pokémon. It is a bug and flying-type Pokémon. Abilities: shield-dust, compound-eyes, friend-guard (hidden). Base stats — HP: 80, Attack: 52, Defense: 50, Sp. Atk: 90, Sp. Def: 50, Speed: 89. Evolution line: scatterbug → spewpa → vivillon. Lore: Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat. The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+}

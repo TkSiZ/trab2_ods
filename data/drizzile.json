@@ -1,0 +1,85 @@
+{
+  "id": 817,
+  "name": "drizzile",
+  "genus": "Water Lizard Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false
+    },
+    {
+      "name": "sniper",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "bind",
+    "take-down",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "double-team",
+    "light-screen",
+    "haze",
+    "reflect",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "rain-dance",
+    "whirlpool",
+    "facade",
+    "dive",
+    "weather-ball",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "u-turn",
+    "fling",
+    "sucker-punch",
+    "aqua-ring",
+    "ice-shard",
+    "aqua-jet",
+    "soak",
+    "round",
+    "water-pledge",
+    "work-up",
+    "fell-stinger",
+    "liquidation",
+    "tearful-look",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 55,
+    "special-attack": 95,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "evolution_chain": [
+    "sobble",
+    "drizzile",
+    "inteleon"
+  ],
+  "flavor_texts": [
+    "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+    "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+  ],
+  "text": "Drizzile is the Water Lizard Pokémon. It is a water-type Pokémon. Abilities: torrent, sniper (hidden). Base stats — HP: 65, Attack: 60, Defense: 55, Sp. Atk: 95, Sp. Def: 55, Speed: 90. Evolution line: sobble → drizzile → inteleon. Lore: A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms. Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+}

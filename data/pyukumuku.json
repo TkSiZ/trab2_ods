@@ -1,0 +1,80 @@
+{
+  "id": 771,
+  "name": "pyukumuku",
+  "genus": "Sea Cucumber Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "innards-out",
+      "hidden": false
+    },
+    {
+      "name": "unaware",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "counter",
+    "toxic",
+    "screech",
+    "double-team",
+    "recover",
+    "harden",
+    "light-screen",
+    "reflect",
+    "bide",
+    "rest",
+    "substitute",
+    "curse",
+    "spite",
+    "protect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "pain-split",
+    "baton-pass",
+    "rain-dance",
+    "mirror-coat",
+    "psych-up",
+    "hail",
+    "memento",
+    "taunt",
+    "helping-hand",
+    "recycle",
+    "mud-sport",
+    "tickle",
+    "block",
+    "water-sport",
+    "gastro-acid",
+    "soak",
+    "quash",
+    "bestow",
+    "confide",
+    "venom-drench",
+    "purify"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "special-attack": 30,
+    "special-defense": 130,
+    "speed": 5
+  },
+  "evolution_chain": [
+    "pyukumuku"
+  ],
+  "flavor_texts": [
+    "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+    "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
+    "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+    "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!",
+    "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them."
+  ],
+  "text": "Pyukumuku is the Sea Cucumber Pokémon. It is a water-type Pokémon. Abilities: innards-out, unaware (hidden). Base stats — HP: 55, Attack: 60, Defense: 130, Sp. Atk: 30, Sp. Def: 130, Speed: 5. Evolution line: pyukumuku. Lore: It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up. It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies. These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient! The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore. Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!"
+}

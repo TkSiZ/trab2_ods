@@ -1,0 +1,105 @@
+{
+  "id": 842,
+  "name": "appletun",
+  "genus": "Apple Nectar Pokémon",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "ripen",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "thick-fat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "stomp",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "earthquake",
+    "recover",
+    "withdraw",
+    "light-screen",
+    "reflect",
+    "amnesia",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "sweet-scent",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "recycle",
+    "astonish",
+    "bullet-seed",
+    "iron-defense",
+    "magical-leaf",
+    "gyro-ball",
+    "payback",
+    "seed-bomb",
+    "dragon-pulse",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "draco-meteor",
+    "leaf-storm",
+    "iron-head",
+    "grass-knot",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "dragon-tail",
+    "grassy-terrain",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "apple-acid",
+    "grassy-glide",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 80,
+    "special-attack": 100,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "flavor_texts": [
+    "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+    "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
+  ],
+  "text": "Appletun is the Apple Nectar Pokémon. It is a grass and dragon-type Pokémon. Abilities: ripen, gluttony, thick-fat (hidden). Base stats — HP: 110, Attack: 85, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 30. Evolution line: applin → flapple → appletun → dipplin → hydrapple. Lore: Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on. Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
+}

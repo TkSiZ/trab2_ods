@@ -1,0 +1,70 @@
+{
+  "id": 953,
+  "name": "rellor",
+  "genus": "Rolling Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "compound-eyes",
+      "hidden": false
+    },
+    {
+      "name": "shed-skin",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "tackle",
+    "take-down",
+    "dig",
+    "recover",
+    "defense-curl",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "memento",
+    "facade",
+    "weather-ball",
+    "rock-tomb",
+    "cosmic-power",
+    "iron-defense",
+    "mud-shot",
+    "fling",
+    "x-scissor",
+    "bug-buzz",
+    "gunk-shot",
+    "bug-bite",
+    "struggle-bug",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 60,
+    "special-attack": 31,
+    "special-defense": 58,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "rellor",
+    "rabsca"
+  ],
+  "flavor_texts": [
+    "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+    "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+  ],
+  "text": "Rellor is the Rolling Pokémon. It is a bug-type Pokémon. Abilities: compound-eyes, shed-skin (hidden). Base stats — HP: 41, Attack: 50, Defense: 60, Sp. Atk: 31, Sp. Def: 58, Speed: 30. Evolution line: rellor → rabsca. Lore: This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life. It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+}

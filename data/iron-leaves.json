@@ -1,0 +1,90 @@
+{
+  "id": 1010,
+  "name": "iron-leaves",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "solar-beam",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "substitute",
+    "reversal",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "megahorn",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "brick-break",
+    "imprison",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "magical-leaf",
+    "calm-mind",
+    "leaf-blade",
+    "gravity",
+    "close-combat",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "leaf-storm",
+    "grass-knot",
+    "quick-guard",
+    "ally-switch",
+    "quash",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "sacred-sword",
+    "grassy-terrain",
+    "electric-terrain",
+    "solar-blade",
+    "throat-chop",
+    "psychic-terrain",
+    "smart-strike",
+    "coaching",
+    "tera-blast",
+    "psyblade",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 88,
+    "special-attack": 70,
+    "special-defense": 108,
+    "speed": 104
+  },
+  "evolution_chain": [
+    "iron-leaves"
+  ],
+  "flavor_texts": [
+    "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+    "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders."
+  ],
+  "text": "Iron-leaves is the Paradox Pokémon. It is a grass and psychic-type Pokémon. Abilities: quark-drive. Base stats — HP: 90, Attack: 130, Defense: 88, Sp. Atk: 70, Sp. Def: 108, Speed: 104. Evolution line: iron-leaves. Lore: Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine. According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders."
+}

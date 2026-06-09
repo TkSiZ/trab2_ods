@@ -1,0 +1,81 @@
+{
+  "id": 891,
+  "name": "kubfu",
+  "genus": "Wushu Pokémon",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "counter",
+    "dig",
+    "focus-energy",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "detect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "dynamic-punch",
+    "metal-claw",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "aerial-ace",
+    "bulk-up",
+    "u-turn",
+    "close-combat",
+    "fling",
+    "zen-headbutt",
+    "iron-head",
+    "low-sweep",
+    "round",
+    "acrobatics",
+    "retaliate",
+    "work-up",
+    "coaching",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 60,
+    "special-attack": 53,
+    "special-defense": 50,
+    "speed": 72
+  },
+  "evolution_chain": [
+    "kubfu",
+    "urshifu"
+  ],
+  "flavor_texts": [
+    "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+    "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+  ],
+  "text": "Kubfu is the Wushu Pokémon. It is a fighting-type Pokémon. Abilities: inner-focus. Base stats — HP: 60, Attack: 90, Defense: 60, Sp. Atk: 53, Sp. Def: 50, Speed: 72. Evolution line: kubfu → urshifu. Lore: Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves. If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1011,
+  "name": "dipplin",
+  "genus": "Candy Apple Pokémon",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "supersweet-syrup",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "growth",
+    "solar-beam",
+    "recover",
+    "withdraw",
+    "defense-curl",
+    "reflect",
+    "rest",
+    "substitute",
+    "protect",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "dragon-breath",
+    "sweet-scent",
+    "sunny-day",
+    "facade",
+    "recycle",
+    "astonish",
+    "bullet-seed",
+    "gyro-ball",
+    "sucker-punch",
+    "seed-bomb",
+    "dragon-pulse",
+    "energy-ball",
+    "giga-impact",
+    "draco-meteor",
+    "leaf-storm",
+    "grass-knot",
+    "bug-bite",
+    "double-hit",
+    "dragon-tail",
+    "grassy-terrain",
+    "infestation",
+    "pollen-puff",
+    "grassy-glide",
+    "tera-blast",
+    "pounce",
+    "syrup-bomb",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 110,
+    "special-attack": 95,
+    "special-defense": 80,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "flavor_texts": [
+    "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+    "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
+  ],
+  "text": "Dipplin is the Candy Apple Pokémon. It is a grass and dragon-type Pokémon. Abilities: supersweet-syrup, gluttony, sticky-hold (hidden). Base stats — HP: 80, Attack: 80, Defense: 110, Sp. Atk: 95, Sp. Def: 80, Speed: 40. Evolution line: applin → flapple → appletun → dipplin → hydrapple. Lore: Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place. The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
+}

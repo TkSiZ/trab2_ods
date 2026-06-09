@@ -1,0 +1,98 @@
+{
+  "id": 590,
+  "name": "foongus",
+  "genus": "Mushroom Pokémon",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "hidden": false
+    },
+    {
+      "name": "regenerator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "double-team",
+    "defense-curl",
+    "bide",
+    "spore",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "feint-attack",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "secret-power",
+    "astonish",
+    "bullet-seed",
+    "magical-leaf",
+    "payback",
+    "gastro-acid",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "grass-knot",
+    "venoshock",
+    "rage-powder",
+    "foul-play",
+    "after-you",
+    "round",
+    "clear-smog",
+    "grassy-terrain",
+    "confide",
+    "pollen-puff",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 15
+  },
+  "evolution_chain": [
+    "foongus",
+    "amoonguss"
+  ],
+  "flavor_texts": [
+    "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+    "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+    "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+    "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+    "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.",
+    "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine."
+  ],
+  "text": "Foongus is the Mushroom Pokémon. It is a grass and poison-type Pokémon. Abilities: effect-spore, regenerator (hidden). Base stats — HP: 69, Attack: 55, Defense: 45, Sp. Atk: 55, Sp. Def: 55, Speed: 15. Evolution line: foongus → amoonguss. Lore: It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown. For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them. It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores. It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores. No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it."
+}

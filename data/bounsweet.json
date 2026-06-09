@@ -1,0 +1,104 @@
+{
+  "id": 761,
+  "name": "bounsweet",
+  "genus": "Fruit Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "hidden": false
+    },
+    {
+      "name": "oblivious",
+      "hidden": false
+    },
+    {
+      "name": "sweet-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "splash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "endeavor",
+    "teeter-dance",
+    "aromatherapy",
+    "grass-whistle",
+    "bullet-seed",
+    "bounce",
+    "covet",
+    "magical-leaf",
+    "feint",
+    "acupressure",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "round",
+    "draining-kiss",
+    "grassy-terrain",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "special-attack": 30,
+    "special-defense": 38,
+    "speed": 32
+  },
+  "evolution_chain": [
+    "bounsweet",
+    "steenee",
+    "tsareena"
+  ],
+  "flavor_texts": [
+    "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+    "Although it’s too sugary for human consumption, Bounsweet’s sweat can be watered down into a juice with just the right amount of sweetness.",
+    "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it’s not intelligent enough to care.",
+    "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It’s usually a fruitless attempt.",
+    "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
+    "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it."
+  ],
+  "text": "Bounsweet is the Fruit Pokémon. It is a grass-type Pokémon. Abilities: leaf-guard, oblivious, sweet-veil (hidden). Base stats — HP: 42, Attack: 30, Defense: 38, Sp. Atk: 30, Sp. Def: 38, Speed: 32. Evolution line: bounsweet → steenee → tsareena. Lore: A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness. Although it’s too sugary for human consumption, Bounsweet’s sweat can be watered down into a juice with just the right amount of sweetness. Because of its sweet, delicious aroma, bird Pokémon are always after it, but it’s not intelligent enough to care. It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It’s usually a fruitless attempt. Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon."
+}

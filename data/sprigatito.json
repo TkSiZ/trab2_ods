@@ -1,0 +1,84 @@
+{
+  "id": 906,
+  "name": "sprigatito",
+  "genus": "Grass Cat Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false
+    },
+    {
+      "name": "protean",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "take-down",
+    "tail-whip",
+    "bite",
+    "leech-seed",
+    "solar-beam",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "fake-tears",
+    "bullet-seed",
+    "magical-leaf",
+    "u-turn",
+    "copycat",
+    "worry-seed",
+    "sucker-punch",
+    "seed-bomb",
+    "energy-ball",
+    "nasty-plot",
+    "shadow-claw",
+    "leaf-storm",
+    "grass-knot",
+    "hone-claws",
+    "ally-switch",
+    "acrobatics",
+    "grass-pledge",
+    "petal-blizzard",
+    "disarming-voice",
+    "grassy-terrain",
+    "play-rough",
+    "leafage",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 61,
+    "defense": 54,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "sprigatito",
+    "floragato",
+    "meowscarada"
+  ],
+  "flavor_texts": [
+    "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+  ],
+  "text": "Sprigatito is the Grass Cat Pokémon. It is a grass-type Pokémon. Abilities: overgrow, protean (hidden). Base stats — HP: 40, Attack: 61, Defense: 54, Sp. Atk: 45, Sp. Def: 45, Speed: 65. Evolution line: sprigatito → floragato → meowscarada. Lore: Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out. The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+}

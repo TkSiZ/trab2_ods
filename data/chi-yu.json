@@ -1,0 +1,79 @@
+{
+  "id": 1004,
+  "name": "chi-yu",
+  "genus": "Ruinous Pokémon",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "beads-of-ruin",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "take-down",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "fire-spin",
+    "psychic",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "spite",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "mean-look",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "overheat",
+    "bounce",
+    "payback",
+    "flare-blitz",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "lava-plume",
+    "flame-charge",
+    "hex",
+    "incinerate",
+    "inferno",
+    "snarl",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "ruination",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 135,
+    "special-defense": 120,
+    "speed": 100
+  },
+  "evolution_chain": [
+    "chi-yu"
+  ],
+  "flavor_texts": [
+    "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+    "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+  ],
+  "text": "Chi-yu is the Ruinous Pokémon. It is a dark and fire-type Pokémon. Abilities: beads-of-ruin. Base stats — HP: 55, Attack: 80, Defense: 80, Sp. Atk: 135, Sp. Def: 120, Speed: 100. Evolution line: chi-yu. Lore: It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand. The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+}

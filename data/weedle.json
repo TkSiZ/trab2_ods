@@ -1,0 +1,52 @@
+{
+  "id": 13,
+  "name": "weedle",
+  "genus": "Hairy Bug Pokémon",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "poison-sting",
+    "string-shot",
+    "bug-bite",
+    "electroweb"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 20,
+    "special-defense": 20,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "weedle",
+    "kakuna",
+    "beedrill"
+  ],
+  "flavor_texts": [
+    "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+    "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+    "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
+    "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
+    "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+    "A WEEDLE has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+    "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.",
+    "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+    "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose)."
+  ],
+  "text": "Weedle is the Hairy Bug Pokémon. It is a bug and poison-type Pokémon. Abilities: shield-dust, run-away (hidden). Base stats — HP: 40, Attack: 35, Defense: 30, Sp. Atk: 20, Sp. Def: 20, Speed: 50. Evolution line: weedle → kakuna → beedrill. Lore: Often found in forests, eating leaves. It has a sharp venomous stinger on its head. Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves. Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies. It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats. The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself."
+}

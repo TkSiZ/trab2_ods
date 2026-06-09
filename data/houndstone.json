@@ -1,0 +1,87 @@
+{
+  "id": 972,
+  "name": "houndstone",
+  "genus": "Ghost Dog Pokémon",
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "sand-rush",
+      "hidden": false
+    },
+    {
+      "name": "fluffy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "hyper-beam",
+    "dig",
+    "night-shade",
+    "confuse-ray",
+    "lick",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "uproar",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "trick",
+    "endeavor",
+    "mud-shot",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "hex",
+    "bulldoze",
+    "snarl",
+    "phantom-force",
+    "play-rough",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "body-press",
+    "poltergeist",
+    "tera-blast",
+    "last-respects"
+  ],
+  "stats": {
+    "hp": 72,
+    "attack": 101,
+    "defense": 100,
+    "special-attack": 50,
+    "special-defense": 97,
+    "speed": 68
+  },
+  "evolution_chain": [
+    "greavard",
+    "houndstone"
+  ],
+  "flavor_texts": [
+    "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+    "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+  ],
+  "text": "Houndstone is the Ghost Dog Pokémon. It is a ghost-type Pokémon. Abilities: sand-rush, fluffy (hidden). Base stats — HP: 72, Attack: 101, Defense: 100, Sp. Atk: 50, Sp. Def: 97, Speed: 68. Evolution line: greavard → houndstone. Lore: Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master. A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+}

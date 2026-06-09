@@ -1,0 +1,112 @@
+{
+  "id": 589,
+  "name": "escavalier",
+  "genus": "Cavalry Pokémon",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "overcoat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "headbutt",
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "twineedle",
+    "leer",
+    "hyper-beam",
+    "peck",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "rest",
+    "slash",
+    "substitute",
+    "snore",
+    "flail",
+    "reversal",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "revenge",
+    "knock-off",
+    "secret-power",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "metal-burst",
+    "close-combat",
+    "poison-jab",
+    "x-scissor",
+    "bug-buzz",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "iron-head",
+    "bug-bite",
+    "acid-spray",
+    "round",
+    "quick-guard",
+    "struggle-bug",
+    "drill-run",
+    "razor-shell",
+    "fell-stinger",
+    "confide",
+    "infestation",
+    "laser-focus",
+    "smart-strike",
+    "brutal-swing",
+    "steel-beam"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 135,
+    "defense": 105,
+    "special-attack": 60,
+    "special-defense": 105,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "karrablast",
+    "escavalier"
+  ],
+  "flavor_texts": [
+    "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+    "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region.",
+    "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d."
+  ],
+  "text": "Escavalier is the Cavalry Pokémon. It is a bug and steel-type Pokémon. Abilities: swarm, shell-armor, overcoat (hidden). Base stats — HP: 70, Attack: 135, Defense: 105, Sp. Atk: 60, Sp. Def: 105, Speed: 20. Evolution line: karrablast → escavalier. Lore: They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely. These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body. Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances. They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region. It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d."
+}

@@ -1,0 +1,81 @@
+{
+  "id": 938,
+  "name": "tadbulb",
+  "genus": "EleTadpole Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false
+    },
+    {
+      "name": "static",
+      "hidden": false
+    },
+    {
+      "name": "damp",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "water-gun",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "endure",
+    "spark",
+    "sleep-talk",
+    "rain-dance",
+    "charge",
+    "hyper-voice",
+    "weather-ball",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "sucker-punch",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "soak",
+    "acid-spray",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "parabolic-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 61,
+    "attack": 31,
+    "defense": 41,
+    "special-attack": 59,
+    "special-defense": 35,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "tadbulb",
+    "bellibolt"
+  ],
+  "flavor_texts": [
+    "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+    "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+  ],
+  "text": "Tadbulb is the EleTadpole Pokémon. It is a electric-type Pokémon. Abilities: own-tempo, static, damp (hidden). Base stats — HP: 61, Attack: 31, Defense: 41, Sp. Atk: 59, Sp. Def: 35, Speed: 45. Evolution line: tadbulb → bellibolt. Lore: Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies. It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+}

@@ -1,0 +1,86 @@
+{
+  "id": 977,
+  "name": "dondozo",
+  "genus": "Big Catfish Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "unaware",
+      "hidden": false
+    },
+    {
+      "name": "oblivious",
+      "hidden": false
+    },
+    {
+      "name": "water-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "supersonic",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "earthquake",
+    "fissure",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "flail",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "yawn",
+    "dive",
+    "tickle",
+    "water-pulse",
+    "aqua-tail",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "zen-headbutt",
+    "heavy-slam",
+    "soak",
+    "bulldoze",
+    "noble-roar",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "wave-crash",
+    "tera-blast",
+    "order-up",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 115,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "dondozo"
+  ],
+  "flavor_texts": [
+    "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+  ],
+  "text": "Dondozo is the Big Catfish Pokémon. It is a water-type Pokémon. Abilities: unaware, oblivious, water-veil (hidden). Base stats — HP: 150, Attack: 100, Defense: 115, Sp. Atk: 65, Sp. Def: 65, Speed: 35. Evolution line: dondozo. Lore: This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey. It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+}

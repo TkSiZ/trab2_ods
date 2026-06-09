@@ -1,0 +1,88 @@
+{
+  "id": 920,
+  "name": "lokix",
+  "genus": "Grasshopper Pokémon",
+  "types": [
+    "bug",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "double-kick",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "agility",
+    "screech",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "detect",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "brick-break",
+    "knock-off",
+    "astonish",
+    "aerial-ace",
+    "bounce",
+    "feint",
+    "u-turn",
+    "assurance",
+    "fling",
+    "sucker-punch",
+    "dark-pulse",
+    "x-scissor",
+    "bug-buzz",
+    "giga-impact",
+    "bug-bite",
+    "low-sweep",
+    "struggle-bug",
+    "first-impression",
+    "throat-chop",
+    "lunge",
+    "skitter-smack",
+    "lash-out",
+    "tera-blast",
+    "axe-kick",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 71,
+    "attack": 102,
+    "defense": 78,
+    "special-attack": 52,
+    "special-defense": 55,
+    "speed": 92
+  },
+  "evolution_chain": [
+    "nymble",
+    "lokix"
+  ],
+  "flavor_texts": [
+    "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+    "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+  ],
+  "text": "Lokix is the Grasshopper Pokémon. It is a bug and dark-type Pokémon. Abilities: swarm, tinted-lens (hidden). Base stats — HP: 71, Attack: 102, Defense: 78, Sp. Atk: 52, Sp. Def: 55, Speed: 92. Evolution line: nymble → lokix. Lore: When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order. It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+}

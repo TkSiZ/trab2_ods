@@ -1,0 +1,51 @@
+{
+  "id": 664,
+  "name": "scatterbug",
+  "genus": "Scatterdust Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false
+    },
+    {
+      "name": "compound-eyes",
+      "hidden": false
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "poison-powder",
+    "stun-spore",
+    "string-shot",
+    "bug-bite",
+    "rage-powder",
+    "struggle-bug",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "special-attack": 27,
+    "special-defense": 25,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "scatterbug",
+    "spewpa",
+    "vivillon"
+  ],
+  "flavor_texts": [
+    "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+    "The powder that covers its body regulates its temperature, so it can live in any region or climate."
+  ],
+  "text": "Scatterbug is the Scatterdust Pokémon. It is a bug-type Pokémon. Abilities: shield-dust, compound-eyes, friend-guard (hidden). Base stats — HP: 38, Attack: 35, Defense: 40, Sp. Atk: 27, Sp. Def: 25, Speed: 35. Evolution line: scatterbug → spewpa → vivillon. Lore: When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact. The powder that covers its body regulates its temperature, so it can live in any region or climate."
+}

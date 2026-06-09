@@ -1,0 +1,68 @@
+{
+  "id": 919,
+  "name": "nymble",
+  "genus": "Grasshopper Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "double-kick",
+    "tackle",
+    "take-down",
+    "leer",
+    "counter",
+    "agility",
+    "screech",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "astonish",
+    "feint",
+    "u-turn",
+    "assurance",
+    "sucker-punch",
+    "x-scissor",
+    "bug-buzz",
+    "bug-bite",
+    "struggle-bug",
+    "first-impression",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 33,
+    "attack": 46,
+    "defense": 40,
+    "special-attack": 21,
+    "special-defense": 25,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "nymble",
+    "lokix"
+  ],
+  "flavor_texts": [
+    "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
+    "It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+  ],
+  "text": "Nymble is the Grasshopper Pokémon. It is a bug-type Pokémon. Abilities: swarm, tinted-lens (hidden). Base stats — HP: 33, Attack: 46, Defense: 40, Sp. Atk: 21, Sp. Def: 25, Speed: 45. Evolution line: nymble → lokix. Lore: It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs. It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+}

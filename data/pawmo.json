@@ -1,0 +1,96 @@
+{
+  "id": 922,
+  "name": "pawmo",
+  "genus": "Mouse Pokémon",
+  "types": [
+    "electric",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "hidden": false
+    },
+    {
+      "name": "natural-cure",
+      "hidden": false
+    },
+    {
+      "name": "iron-fist",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "scratch",
+    "slam",
+    "take-down",
+    "bite",
+    "growl",
+    "low-kick",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "endure",
+    "charm",
+    "spark",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "focus-punch",
+    "charge",
+    "helping-hand",
+    "knock-off",
+    "arm-thrust",
+    "fling",
+    "thunder-fang",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "low-sweep",
+    "entrainment",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "play-rough",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "coaching",
+    "tera-blast",
+    "upper-hand"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 40,
+    "speed": 85
+  },
+  "evolution_chain": [
+    "pawmi",
+    "pawmo",
+    "pawmot"
+  ],
+  "flavor_texts": [
+    "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+  ],
+  "text": "Pawmo is the Mouse Pokémon. It is a electric and fighting-type Pokémon. Abilities: volt-absorb, natural-cure, iron-fist (hidden). Base stats — HP: 60, Attack: 75, Defense: 40, Sp. Atk: 50, Sp. Def: 40, Speed: 85. Evolution line: pawmi → pawmo → pawmot. Lore: When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks. Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+}

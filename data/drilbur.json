@@ -1,0 +1,107 @@
+{
+  "id": 529,
+  "name": "drilbur",
+  "genus": "Mole Pokémon",
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    {
+      "name": "sand-rush",
+      "hidden": false
+    },
+    {
+      "name": "sand-force",
+      "hidden": false
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "cut",
+    "take-down",
+    "double-edge",
+    "submission",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "double-team",
+    "skull-bash",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "rapid-spin",
+    "metal-claw",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "secret-power",
+    "mud-sport",
+    "crush-claw",
+    "rock-tomb",
+    "metal-sound",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "mud-shot",
+    "fling",
+    "poison-jab",
+    "x-scissor",
+    "earth-power",
+    "shadow-claw",
+    "rock-climb",
+    "stealth-rock",
+    "hone-claws",
+    "round",
+    "bulldoze",
+    "drill-run",
+    "confide",
+    "high-horsepower",
+    "stomping-tantrum",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "special-attack": 30,
+    "special-defense": 45,
+    "speed": 68
+  },
+  "evolution_chain": [
+    "drilbur",
+    "excadrill"
+  ],
+  "flavor_texts": [
+    "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+    "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+    "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+    "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+    "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it."
+  ],
+  "text": "Drilbur is the Mole Pokémon. It is a ground-type Pokémon. Abilities: sand-rush, sand-force, mold-breaker (hidden). Base stats — HP: 60, Attack: 85, Defense: 40, Sp. Atk: 30, Sp. Def: 45, Speed: 68. Evolution line: drilbur → excadrill. Lore: It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race. It makes its way swiftly through the soil by putting both claws together and rotating at high speed. By spinning its body, it can dig straight through the ground at a speed of 30 mph. It brings its claws together and whirls around at high speed before rushing toward its prey. It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it."
+}

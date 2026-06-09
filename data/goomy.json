@@ -1,0 +1,102 @@
+{
+  "id": 704,
+  "name": "goomy",
+  "genus": "Soft Tissue Pokémon",
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "sap-sipper",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "gooey",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "counter",
+    "absorb",
+    "thunderbolt",
+    "toxic",
+    "double-team",
+    "bide",
+    "bubble",
+    "acid-armor",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "secret-power",
+    "muddy-water",
+    "mud-shot",
+    "poison-tail",
+    "shock-wave",
+    "water-pulse",
+    "dragon-pulse",
+    "draco-meteor",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "confide",
+    "infestation",
+    "life-dew",
+    "skitter-smack",
+    "shelter",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "special-attack": 55,
+    "special-defense": 75,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "goomy",
+    "sliggoo",
+    "goodra"
+  ],
+  "flavor_texts": [
+    "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out.",
+    "It’s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
+    "The weakest of all Dragon-type Pokémon, it’s unable to breathe if its skin dries out, so it sticks to shady places.",
+    "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
+    "It uses its horns to check out its surroundings. They’re very sensitive, so if you grab them, it will feel a strong shock and be unable to move.",
+    "Its body is mostly water. If it dries out, it will die, so it’s always sitting with perfect stillness in the shade.",
+    "Because most of its body is water, it will dry up if the weather becomes too arid. It’s considered the weakest dragon Pokémon.",
+    "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived.",
+    "Goomy hides away in the shade of trees, where it's nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic."
+  ],
+  "text": "Goomy is the Soft Tissue Pokémon. It is a dragon-type Pokémon. Abilities: sap-sipper, hydration, gooey (hidden). Base stats — HP: 45, Attack: 50, Defense: 35, Sp. Atk: 55, Sp. Def: 75, Speed: 40. Evolution line: goomy → sliggoo → goodra. Lore: The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out. It’s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly. The weakest of all Dragon-type Pokémon, it’s unable to breathe if its skin dries out, so it sticks to shady places. Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing. It uses its horns to check out its surroundings. They’re very sensitive, so if you grab them, it will feel a strong shock and be unable to move."
+}

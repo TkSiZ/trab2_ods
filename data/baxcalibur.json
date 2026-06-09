@@ -1,0 +1,92 @@
+{
+  "id": 998,
+  "name": "baxcalibur",
+  "genus": "Ice Dragon Pokémon",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "thermal-exchange",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "earthquake",
+    "dig",
+    "focus-energy",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "dragon-breath",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "aerial-ace",
+    "icicle-spear",
+    "dragon-claw",
+    "dragon-dance",
+    "dragon-pulse",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "thunder-fang",
+    "ice-fang",
+    "zen-headbutt",
+    "draco-meteor",
+    "iron-head",
+    "bulldoze",
+    "dragon-tail",
+    "icicle-crash",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "breaking-swipe",
+    "scale-shot",
+    "tera-blast",
+    "glaive-rush",
+    "snowscape",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 115,
+    "attack": 145,
+    "defense": 92,
+    "special-attack": 75,
+    "special-defense": 86,
+    "speed": 87
+  },
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "flavor_texts": [
+    "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+    "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+  ],
+  "text": "Baxcalibur is the Ice Dragon Pokémon. It is a dragon and ice-type Pokémon. Abilities: thermal-exchange, ice-body (hidden). Base stats — HP: 115, Attack: 145, Defense: 92, Sp. Atk: 75, Sp. Def: 86, Speed: 87. Evolution line: frigibax → arctibax → baxcalibur. Lore: This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava. It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+}

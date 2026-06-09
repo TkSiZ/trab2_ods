@@ -1,0 +1,95 @@
+{
+  "id": 881,
+  "name": "arctozolt",
+  "genus": "Fossil Pokémon",
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "hidden": false
+    },
+    {
+      "name": "static",
+      "hidden": false
+    },
+    {
+      "name": "slush-rush",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "thunder-punch",
+    "slam",
+    "mega-kick",
+    "body-slam",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "low-kick",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "iron-tail",
+    "rain-dance",
+    "ancient-power",
+    "hail",
+    "facade",
+    "charge",
+    "taunt",
+    "hyper-voice",
+    "rock-tomb",
+    "icicle-spear",
+    "rock-blast",
+    "pluck",
+    "payback",
+    "giga-impact",
+    "avalanche",
+    "thunder-fang",
+    "ice-fang",
+    "discharge",
+    "stone-edge",
+    "electro-ball",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "wild-charge",
+    "icicle-crash",
+    "freeze-dry",
+    "stomping-tantrum",
+    "bolt-beak",
+    "meteor-beam",
+    "rising-voltage"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "special-attack": 90,
+    "special-defense": 80,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "arctozolt"
+  ],
+  "flavor_texts": [
+    "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+    "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+  ],
+  "text": "Arctozolt is the Fossil Pokémon. It is a electric and ice-type Pokémon. Abilities: volt-absorb, static, slush-rush (hidden). Base stats — HP: 90, Attack: 100, Defense: 90, Sp. Atk: 90, Sp. Def: 80, Speed: 55. Evolution line: arctozolt. Lore: The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around. This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+}

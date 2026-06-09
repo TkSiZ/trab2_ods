@@ -1,0 +1,108 @@
+{
+  "id": 581,
+  "name": "swanna",
+  "genus": "White Bird Pokémon",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "fly",
+    "double-edge",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "bubble-beam",
+    "hyper-beam",
+    "toxic",
+    "double-team",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "dive",
+    "feather-dance",
+    "weather-ball",
+    "air-cutter",
+    "aerial-ace",
+    "water-sport",
+    "water-pulse",
+    "roost",
+    "brine",
+    "pluck",
+    "tailwind",
+    "aqua-ring",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "aqua-jet",
+    "round",
+    "scald",
+    "acrobatics",
+    "hurricane",
+    "disarming-voice",
+    "confide",
+    "liquidation",
+    "flip-turn",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "special-attack": 87,
+    "special-defense": 63,
+    "speed": 98
+  },
+  "evolution_chain": [
+    "ducklett",
+    "swanna"
+  ],
+  "flavor_texts": [
+    "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+    "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+    "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+  ],
+  "text": "Swanna is the White Bird Pokémon. It is a water and flying-type Pokémon. Abilities: keen-eye, big-pecks, hydration (hidden). Base stats — HP: 75, Attack: 87, Defense: 63, Sp. Atk: 87, Sp. Def: 63, Speed: 98. Evolution line: ducklett → swanna. Lore: Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock. It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes. Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+}

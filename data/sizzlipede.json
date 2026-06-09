@@ -1,0 +1,79 @@
+{
+  "id": 850,
+  "name": "sizzlipede",
+  "genus": "Radiator Pokémon",
+  "types": [
+    "fire",
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "hidden": false
+    },
+    {
+      "name": "white-smoke",
+      "hidden": false
+    },
+    {
+      "name": "flame-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "slam",
+    "wrap",
+    "bite",
+    "ember",
+    "fire-spin",
+    "smokescreen",
+    "defense-curl",
+    "leech-life",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "protect",
+    "endure",
+    "rollout",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "facade",
+    "knock-off",
+    "bug-buzz",
+    "power-whip",
+    "bug-bite",
+    "venoshock",
+    "coil",
+    "round",
+    "scald",
+    "struggle-bug",
+    "heat-crash",
+    "lunge",
+    "fire-lash",
+    "burn-up",
+    "brutal-swing",
+    "skitter-smack",
+    "scorching-sands"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "sizzlipede",
+    "centiskorch"
+  ],
+  "flavor_texts": [
+    "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+    "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+  ],
+  "text": "Sizzlipede is the Radiator Pokémon. It is a fire and bug-type Pokémon. Abilities: flash-fire, white-smoke, flame-body (hidden). Base stats — HP: 50, Attack: 65, Defense: 45, Sp. Atk: 50, Sp. Def: 50, Speed: 45. Evolution line: sizzlipede → centiskorch. Lore: It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot. It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+}

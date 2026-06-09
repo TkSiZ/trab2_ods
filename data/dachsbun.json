@@ -1,0 +1,85 @@
+{
+  "id": 927,
+  "name": "dachsbun",
+  "genus": "Dog Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "well-baked-body",
+      "hidden": false
+    },
+    {
+      "name": "aroma-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "hyper-beam",
+    "dig",
+    "agility",
+    "lick",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "baton-pass",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "mud-shot",
+    "covet",
+    "last-resort",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "work-up",
+    "snarl",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "body-press",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 115,
+    "special-attack": 50,
+    "special-defense": 80,
+    "speed": 95
+  },
+  "evolution_chain": [
+    "fidough",
+    "dachsbun"
+  ],
+  "flavor_texts": [
+    "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+    "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+  ],
+  "text": "Dachsbun is the Dog Pokémon. It is a fairy-type Pokémon. Abilities: well-baked-body, aroma-veil (hidden). Base stats — HP: 57, Attack: 80, Defense: 115, Sp. Atk: 50, Sp. Def: 80, Speed: 95. Evolution line: fidough → dachsbun. Lore: The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages. The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+}

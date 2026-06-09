@@ -1,0 +1,97 @@
+{
+  "id": 820,
+  "name": "greedent",
+  "genus": "Greedy Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "cheek-pouch",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "hyper-beam",
+    "counter",
+    "earthquake",
+    "dig",
+    "amnesia",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "iron-tail",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "uproar",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "superpower",
+    "knock-off",
+    "endeavor",
+    "hyper-voice",
+    "bullet-seed",
+    "mud-shot",
+    "covet",
+    "gyro-ball",
+    "payback",
+    "assurance",
+    "fling",
+    "seed-bomb",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "round",
+    "bulldoze",
+    "wild-charge",
+    "tail-slap",
+    "belch",
+    "high-horsepower",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "stuff-cheeks",
+    "body-press",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 120,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 55,
+    "special-defense": 75,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "skwovet",
+    "greedent"
+  ],
+  "flavor_texts": [
+    "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.",
+    "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+  ],
+  "text": "Greedent is the Greedy Pokémon. It is a normal-type Pokémon. Abilities: cheek-pouch, gluttony (hidden). Base stats — HP: 120, Attack: 95, Defense: 95, Sp. Atk: 55, Sp. Def: 75, Speed: 20. Evolution line: skwovet → greedent. Lore: It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss. Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+}

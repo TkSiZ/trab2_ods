@@ -1,0 +1,89 @@
+{
+  "id": 952,
+  "name": "scovillain",
+  "genus": "Spicy Pepper Pokémon",
+  "types": [
+    "grass",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false
+    },
+    {
+      "name": "insomnia",
+      "hidden": false
+    },
+    {
+      "name": "moody",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "take-down",
+    "leer",
+    "bite",
+    "flamethrower",
+    "hyper-beam",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "fire-blast",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "overheat",
+    "bullet-seed",
+    "magical-leaf",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "fire-fang",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "grassy-terrain",
+    "leafage",
+    "stomping-tantrum",
+    "grassy-glide",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "spicy-extract",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 108,
+    "defense": 65,
+    "special-attack": 108,
+    "special-defense": 65,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "capsakid",
+    "scovillain"
+  ],
+  "flavor_texts": [
+    "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+    "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+  ],
+  "text": "Scovillain is the Spicy Pepper Pokémon. It is a grass and fire-type Pokémon. Abilities: chlorophyll, insomnia, moody (hidden). Base stats — HP: 65, Attack: 108, Defense: 65, Sp. Atk: 108, Sp. Def: 65, Speed: 75. Evolution line: capsakid → scovillain. Lore: The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame. The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+}

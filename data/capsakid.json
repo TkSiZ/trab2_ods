@@ -1,0 +1,80 @@
+{
+  "id": 951,
+  "name": "capsakid",
+  "genus": "Spicy Pepper Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false
+    },
+    {
+      "name": "insomnia",
+      "hidden": false
+    },
+    {
+      "name": "klutz",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "take-down",
+    "leer",
+    "bite",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "helping-hand",
+    "ingrain",
+    "endeavor",
+    "bullet-seed",
+    "magical-leaf",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "rage-powder",
+    "grassy-terrain",
+    "leafage",
+    "stomping-tantrum",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 62,
+    "defense": 40,
+    "special-attack": 62,
+    "special-defense": 40,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "capsakid",
+    "scovillain"
+  ],
+  "flavor_texts": [
+    "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+    "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+  ],
+  "text": "Capsakid is the Spicy Pepper Pokémon. It is a grass-type Pokémon. Abilities: chlorophyll, insomnia, klutz (hidden). Base stats — HP: 50, Attack: 62, Defense: 40, Sp. Atk: 62, Sp. Def: 40, Speed: 50. Evolution line: capsakid → scovillain. Lore: The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become. Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+}

@@ -1,0 +1,80 @@
+{
+  "id": 809,
+  "name": "melmetal",
+  "genus": "Hex Nut Pokémon",
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "iron-fist",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "tail-whip",
+    "ice-beam",
+    "hyper-beam",
+    "solar-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "harden",
+    "self-destruct",
+    "acid-armor",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "dynamic-punch",
+    "facade",
+    "superpower",
+    "brick-break",
+    "rock-tomb",
+    "iron-defense",
+    "gyro-ball",
+    "giga-impact",
+    "flash-cannon",
+    "discharge",
+    "iron-head",
+    "heavy-slam",
+    "round",
+    "electric-terrain",
+    "darkest-lariat",
+    "high-horsepower",
+    "brutal-swing",
+    "double-iron-bash",
+    "body-press",
+    "steel-beam",
+    "steel-roller"
+  ],
+  "stats": {
+    "hp": 135,
+    "attack": 143,
+    "defense": 143,
+    "special-attack": 80,
+    "special-defense": 65,
+    "speed": 34
+  },
+  "evolution_chain": [
+    "melmetal"
+  ],
+  "flavor_texts": [
+    "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
+  ],
+  "text": "Melmetal is the Hex Nut Pokémon. It is a steel-type Pokémon. Abilities: iron-fist. Base stats — HP: 135, Attack: 143, Defense: 143, Sp. Atk: 80, Sp. Def: 65, Speed: 34. Evolution line: melmetal. Lore: Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years. At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan. Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
+}

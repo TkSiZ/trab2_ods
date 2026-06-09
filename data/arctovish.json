@@ -1,0 +1,86 @@
+{
+  "id": 883,
+  "name": "arctovish",
+  "genus": "Fossil Pokémon",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": false
+    },
+    {
+      "name": "slush-rush",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "whirlpool",
+    "hail",
+    "facade",
+    "dive",
+    "rock-tomb",
+    "icicle-spear",
+    "iron-defense",
+    "rock-blast",
+    "brine",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "round",
+    "icicle-crash",
+    "freeze-dry",
+    "aurora-veil",
+    "psychic-fangs",
+    "liquidation",
+    "fishious-rend",
+    "meteor-beam"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "special-attack": 80,
+    "special-defense": 90,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "arctovish"
+  ],
+  "flavor_texts": [
+    "Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+    "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+  ],
+  "text": "Arctovish is the Fossil Pokémon. It is a water and ice-type Pokémon. Abilities: water-absorb, ice-body, slush-rush (hidden). Base stats — HP: 90, Attack: 90, Defense: 100, Sp. Atk: 80, Sp. Def: 90, Speed: 55. Evolution line: arctovish. Lore: Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head. The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+}

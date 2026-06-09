@@ -1,0 +1,83 @@
+{
+  "id": 854,
+  "name": "sinistea",
+  "genus": "Black Tea Pokémon",
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "weak-armor",
+      "hidden": false
+    },
+    {
+      "name": "cursed-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "psybeam",
+    "mega-drain",
+    "psychic",
+    "night-shade",
+    "confuse-ray",
+    "withdraw",
+    "metronome",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "sweet-scent",
+    "shadow-ball",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "astonish",
+    "aromatherapy",
+    "magical-leaf",
+    "calm-mind",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "nasty-plot",
+    "trick-room",
+    "wonder-room",
+    "psyshock",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "shell-smash",
+    "hex",
+    "phantom-force",
+    "aromatic-mist",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 45,
+    "special-attack": 74,
+    "special-defense": 54,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "sinistea",
+    "polteageist"
+  ],
+  "flavor_texts": [
+    "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
+    "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
+  ],
+  "text": "Sinistea is the Black Tea Pokémon. It is a ghost-type Pokémon. Abilities: weak-armor, cursed-body (hidden). Base stats — HP: 40, Attack: 45, Defense: 45, Sp. Atk: 74, Sp. Def: 54, Speed: 50. Evolution line: sinistea → polteageist. Lore: This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea. The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
+}

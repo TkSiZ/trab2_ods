@@ -1,0 +1,46 @@
+{
+  "id": 665,
+  "name": "spewpa",
+  "genus": "Scatterdust Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "hidden": false
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "harden",
+    "protect",
+    "iron-defense",
+    "bug-bite",
+    "struggle-bug",
+    "electroweb",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "special-attack": 27,
+    "special-defense": 30,
+    "speed": 29
+  },
+  "evolution_chain": [
+    "scatterbug",
+    "spewpa",
+    "vivillon"
+  ],
+  "flavor_texts": [
+    "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+    "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder."
+  ],
+  "text": "Spewpa is the Scatterdust Pokémon. It is a bug-type Pokémon. Abilities: shed-skin, friend-guard (hidden). Base stats — HP: 45, Attack: 22, Defense: 60, Sp. Atk: 27, Sp. Def: 30, Speed: 29. Evolution line: scatterbug → spewpa → vivillon. Lore: It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them. The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder."
+}

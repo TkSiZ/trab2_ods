@@ -1,0 +1,97 @@
+{
+  "id": 841,
+  "name": "flapple",
+  "genus": "Apple Wing Pokémon",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "ripen",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "hustle",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "wing-attack",
+    "fly",
+    "take-down",
+    "hyper-beam",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "withdraw",
+    "focus-energy",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "dragon-breath",
+    "twister",
+    "sunny-day",
+    "facade",
+    "recycle",
+    "endeavor",
+    "astonish",
+    "bullet-seed",
+    "aerial-ace",
+    "iron-defense",
+    "magical-leaf",
+    "dragon-dance",
+    "u-turn",
+    "seed-bomb",
+    "air-slash",
+    "dragon-pulse",
+    "dragon-rush",
+    "energy-ball",
+    "giga-impact",
+    "draco-meteor",
+    "leaf-storm",
+    "grass-knot",
+    "heavy-slam",
+    "acid-spray",
+    "round",
+    "acrobatics",
+    "grassy-terrain",
+    "grav-apple",
+    "grassy-glide",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "special-attack": 95,
+    "special-defense": 60,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "flavor_texts": [
+    "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+    "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
+  ],
+  "text": "Flapple is the Apple Wing Pokémon. It is a grass and dragon-type Pokémon. Abilities: ripen, gluttony, hustle (hidden). Base stats — HP: 70, Attack: 110, Defense: 80, Sp. Atk: 95, Sp. Def: 60, Speed: 70. Evolution line: applin → flapple → appletun → dipplin → hydrapple. Lore: It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns. It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
+}

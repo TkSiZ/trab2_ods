@@ -1,0 +1,55 @@
+{
+  "id": 401,
+  "name": "kricketot",
+  "genus": "Cricket Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "tackle",
+    "growl",
+    "absorb",
+    "string-shot",
+    "bide",
+    "snore",
+    "mud-slap",
+    "uproar",
+    "endeavor",
+    "bug-bite",
+    "struggle-bug",
+    "lunge",
+    "skitter-smack",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "special-attack": 25,
+    "special-defense": 41,
+    "speed": 25
+  },
+  "evolution_chain": [
+    "kricketot",
+    "kricketune"
+  ],
+  "flavor_texts": [
+    "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+    "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+    "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+    "When its antennae hit each other, it sounds like the music of a xylophone.",
+    "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+  ],
+  "text": "Kricketot is the Cricket Pokémon. It is a bug-type Pokémon. Abilities: shed-skin, run-away (hidden). Base stats — HP: 37, Attack: 25, Defense: 41, Sp. Atk: 25, Sp. Def: 41, Speed: 25. Evolution line: kricketot → kricketune. Lore: It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone. It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks. Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound. When its antennae hit each other, it sounds like the music of a xylophone. When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+}

@@ -1,0 +1,59 @@
+{
+  "id": 872,
+  "name": "snom",
+  "genus": "Worm Pokémon",
+  "types": [
+    "ice",
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false
+    },
+    {
+      "name": "ice-scales",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "rest",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "mirror-coat",
+    "facade",
+    "icicle-spear",
+    "bug-buzz",
+    "bug-bite",
+    "round",
+    "struggle-bug",
+    "fairy-wind",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 25,
+    "defense": 35,
+    "special-attack": 45,
+    "special-defense": 30,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "snom",
+    "frosmoth"
+  ],
+  "flavor_texts": [
+    "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+    "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow."
+  ],
+  "text": "Snom is the Worm Pokémon. It is a ice and bug-type Pokémon. Abilities: shield-dust, ice-scales (hidden). Base stats — HP: 30, Attack: 25, Defense: 35, Sp. Atk: 45, Sp. Def: 30, Speed: 20. Evolution line: snom → frosmoth. Lore: It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps. It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow."
+}

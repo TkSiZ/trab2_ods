@@ -1,0 +1,100 @@
+{
+  "id": 911,
+  "name": "skeledirge",
+  "genus": "Singer Pokémon",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false
+    },
+    {
+      "name": "unaware",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "roar",
+    "sing",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "night-shade",
+    "lick",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "curse",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "encore",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "imprison",
+    "hyper-voice",
+    "blast-burn",
+    "overheat",
+    "flare-blitz",
+    "seed-bomb",
+    "earth-power",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flame-charge",
+    "round",
+    "hex",
+    "incinerate",
+    "fire-pledge",
+    "heat-crash",
+    "snarl",
+    "disarming-voice",
+    "stomping-tantrum",
+    "poltergeist",
+    "scorching-sands",
+    "tera-blast",
+    "torch-song",
+    "alluring-voice",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 104,
+    "attack": 75,
+    "defense": 100,
+    "special-attack": 110,
+    "special-defense": 75,
+    "speed": 66
+  },
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "flavor_texts": [
+    "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
+    "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+  ],
+  "text": "Skeledirge is the Singer Pokémon. It is a fire and ghost-type Pokémon. Abilities: blaze, unaware (hidden). Base stats — HP: 104, Attack: 75, Defense: 100, Sp. Atk: 110, Sp. Def: 75, Speed: 66. Evolution line: fuecoco → crocalor → skeledirge. Lore: The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul. Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+}

@@ -1,0 +1,72 @@
+{
+  "id": 929,
+  "name": "dolliv",
+  "genus": "Olive Pokémon",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "early-bird",
+      "hidden": false
+    },
+    {
+      "name": "harvest",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "sweet-scent",
+    "sunny-day",
+    "facade",
+    "helping-hand",
+    "weather-ball",
+    "bullet-seed",
+    "magical-leaf",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "leaf-storm",
+    "grass-knot",
+    "grassy-terrain",
+    "solar-blade",
+    "terrain-pulse",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 52,
+    "attack": 53,
+    "defense": 60,
+    "special-attack": 78,
+    "special-defense": 78,
+    "speed": 33
+  },
+  "evolution_chain": [
+    "smoliv",
+    "dolliv",
+    "arboliva"
+  ],
+  "flavor_texts": [
+    "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+    "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+  ],
+  "text": "Dolliv is the Olive Pokémon. It is a grass and normal-type Pokémon. Abilities: early-bird, harvest (hidden). Base stats — HP: 52, Attack: 53, Defense: 60, Sp. Atk: 78, Sp. Def: 78, Speed: 33. Evolution line: smoliv → dolliv → arboliva. Lore: Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone. It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+}

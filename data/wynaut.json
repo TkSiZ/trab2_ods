@@ -1,0 +1,51 @@
+{
+  "id": 360,
+  "name": "wynaut",
+  "genus": "Bright Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "hidden": false
+    },
+    {
+      "name": "telepathy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "counter",
+    "amnesia",
+    "splash",
+    "destiny-bond",
+    "charm",
+    "safeguard",
+    "encore",
+    "mirror-coat"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "special-attack": 23,
+    "special-defense": 48,
+    "speed": 23
+  },
+  "evolution_chain": [
+    "wynaut",
+    "wobbuffet"
+  ],
+  "flavor_texts": [
+    "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
+    "WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this POKéMON gains endurance and is trained to dole out powerful counterattacks.",
+    "A WYNAUT loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+    "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+    "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+    "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
+    "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks."
+  ],
+  "text": "Wynaut is the Bright Pokémon. It is a psychic-type Pokémon. Abilities: shadow-tag, telepathy (hidden). Base stats — HP: 95, Attack: 23, Defense: 48, Sp. Atk: 23, Sp. Def: 48, Speed: 23. Evolution line: wynaut → wobbuffet. Lore: WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail. WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this POKéMON gains endurance and is trained to dole out powerful counterattacks. A WYNAUT loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance. It tends to move in a pack with others. They cluster in a tight group to sleep in a cave. It grows strong by pushing up against others en masse. It loves eating sweet fruit."
+}

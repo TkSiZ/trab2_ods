@@ -1,0 +1,101 @@
+{
+  "id": 962,
+  "name": "bombirdier",
+  "genus": "Item Drop Pokémon",
+  "types": [
+    "flying",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "rocky-payload",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "take-down",
+    "leer",
+    "hyper-beam",
+    "peck",
+    "rock-throw",
+    "sky-attack",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "heat-wave",
+    "torment",
+    "memento",
+    "facade",
+    "taunt",
+    "knock-off",
+    "endeavor",
+    "feather-dance",
+    "hyper-voice",
+    "air-cutter",
+    "rock-tomb",
+    "aerial-ace",
+    "rock-blast",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "air-slash",
+    "power-gem",
+    "brave-bird",
+    "giga-impact",
+    "nasty-plot",
+    "stone-edge",
+    "stealth-rock",
+    "hone-claws",
+    "foul-play",
+    "acrobatics",
+    "drill-run",
+    "hurricane",
+    "snarl",
+    "parting-shot",
+    "power-trip",
+    "lash-out",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 103,
+    "defense": 85,
+    "special-attack": 60,
+    "special-defense": 85,
+    "speed": 82
+  },
+  "evolution_chain": [
+    "bombirdier"
+  ],
+  "flavor_texts": [
+    "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.",
+    "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+  ],
+  "text": "Bombirdier is the Item Drop Pokémon. It is a flying and dark-type Pokémon. Abilities: big-pecks, keen-eye, rocky-payload (hidden). Base stats — HP: 70, Attack: 103, Defense: 85, Sp. Atk: 60, Sp. Def: 85, Speed: 82. Evolution line: bombirdier. Lore: It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun. Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+}

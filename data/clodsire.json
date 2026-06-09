@@ -1,0 +1,101 @@
+{
+  "id": 980,
+  "name": "clodsire",
+  "genus": "Spiny Fish Pokémon",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "hidden": false
+    },
+    {
+      "name": "water-absorb",
+      "hidden": false
+    },
+    {
+      "name": "unaware",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "slam",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "poison-sting",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "earthquake",
+    "dig",
+    "toxic",
+    "haze",
+    "waterfall",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "megahorn",
+    "rain-dance",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "rock-tomb",
+    "muddy-water",
+    "mud-shot",
+    "poison-tail",
+    "water-pulse",
+    "toxic-spikes",
+    "poison-jab",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "gunk-shot",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "venoshock",
+    "sludge-wave",
+    "heavy-slam",
+    "acid-spray",
+    "bulldoze",
+    "high-horsepower",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 130,
+    "attack": 75,
+    "defense": 60,
+    "special-attack": 45,
+    "special-defense": 100,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "wooper",
+    "quagsire",
+    "clodsire"
+  ],
+  "flavor_texts": [
+    "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+    "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+  ],
+  "text": "Clodsire is the Spiny Fish Pokémon. It is a poison and ground-type Pokémon. Abilities: poison-point, water-absorb, unaware (hidden). Base stats — HP: 130, Attack: 75, Defense: 60, Sp. Atk: 45, Sp. Def: 100, Speed: 20. Evolution line: wooper → quagsire → clodsire. Lore: When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line. It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+}

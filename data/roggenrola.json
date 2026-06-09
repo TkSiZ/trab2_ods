@@ -1,0 +1,100 @@
+{
+  "id": 524,
+  "name": "roggenrola",
+  "genus": "Mantle Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": false
+    },
+    {
+      "name": "sand-force",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "strength",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "harden",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "lock-on",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "magnitude",
+    "hidden-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "gravity",
+    "rock-polish",
+    "earth-power",
+    "flash-cannon",
+    "stone-edge",
+    "stealth-rock",
+    "wide-guard",
+    "autotomize",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "confide",
+    "body-press",
+    "meteor-beam"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 85,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 15
+  },
+  "evolution_chain": [
+    "roggenrola",
+    "boldore",
+    "gigalith"
+  ],
+  "flavor_texts": [
+    "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+    "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+    "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+    "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
+    "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+    "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
+    "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
+    "It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+    "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch."
+  ],
+  "text": "Roggenrola is the Mantle Pokémon. It is a rock-type Pokémon. Abilities: sturdy, weak-armor, sand-force (hidden). Base stats — HP: 55, Attack: 75, Defense: 85, Sp. Atk: 25, Sp. Def: 25, Speed: 15. Evolution line: roggenrola → boldore → gigalith. Lore: Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel. They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core. The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from. Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body. The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over."
+}

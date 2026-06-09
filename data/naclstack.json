@@ -1,0 +1,84 @@
+{
+  "id": 933,
+  "name": "naclstack",
+  "genus": "Rock Salt Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "purifying-salt",
+      "hidden": false
+    },
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "clear-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "recover",
+    "harden",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "protect",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "helping-hand",
+    "iron-defense",
+    "mud-shot",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "bulldoze",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "tera-blast",
+    "salt-cure"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "special-attack": 35,
+    "special-defense": 65,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "nacli",
+    "naclstack",
+    "garganacl"
+  ],
+  "flavor_texts": [
+    "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
+    "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+  ],
+  "text": "Naclstack is the Rock Salt Pokémon. It is a rock-type Pokémon. Abilities: purifying-salt, sturdy, clear-body (hidden). Base stats — HP: 60, Attack: 60, Defense: 100, Sp. Atk: 35, Sp. Def: 65, Speed: 35. Evolution line: nacli → naclstack → garganacl. Lore: This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body. It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+}

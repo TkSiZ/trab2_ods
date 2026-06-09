@@ -1,0 +1,64 @@
+{
+  "id": 868,
+  "name": "milcery",
+  "genus": "Cream Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "hidden": false
+    },
+    {
+      "name": "aroma-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "recover",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "sweet-scent",
+    "facade",
+    "helping-hand",
+    "aromatherapy",
+    "fling",
+    "last-resort",
+    "entrainment",
+    "round",
+    "stored-power",
+    "draining-kiss",
+    "misty-terrain",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 61,
+    "speed": 34
+  },
+  "evolution_chain": [
+    "milcery",
+    "alcremie"
+  ],
+  "flavor_texts": [
+    "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+  ],
+  "text": "Milcery is the Cream Pokémon. It is a fairy-type Pokémon. Abilities: sweet-veil, aroma-veil (hidden). Base stats — HP: 45, Attack: 40, Defense: 40, Sp. Atk: 50, Sp. Def: 61, Speed: 34. Evolution line: milcery → alcremie. Lore: This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream. They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+}

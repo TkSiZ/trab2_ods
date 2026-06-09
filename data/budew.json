@@ -1,0 +1,112 @@
+{
+  "id": 406,
+  "name": "budew",
+  "genus": "Bud Pokémon",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false
+    },
+    {
+      "name": "poison-point",
+      "hidden": false
+    },
+    {
+      "name": "leaf-guard",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "poison-sting",
+    "pin-missile",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "petal-dance",
+    "toxic",
+    "double-team",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "nature-power",
+    "secret-power",
+    "weather-ball",
+    "grass-whistle",
+    "extrasensory",
+    "bullet-seed",
+    "covet",
+    "water-sport",
+    "natural-gift",
+    "worry-seed",
+    "poison-jab",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "round",
+    "confide",
+    "dazzling-gleam",
+    "life-dew",
+    "grassy-glide"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "budew",
+    "roselia",
+    "roserade"
+  ],
+  "flavor_texts": [
+    "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+    "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+    "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.",
+    "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+    "Sensitive to changing temperatures, the bud blooms when it’s warm, releasing toxic pollen.",
+    "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison’s toxicity is increased.",
+    "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+    "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun."
+  ],
+  "text": "Budew is the Bud Pokémon. It is a grass and poison-type Pokémon. Abilities: natural-cure, poison-point, leaf-guard (hidden). Base stats — HP: 40, Attack: 30, Defense: 35, Sp. Atk: 50, Sp. Def: 70, Speed: 55. Evolution line: budew → roselia → roserade. Lore: Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen. It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses. Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch. When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools. Sensitive to changing temperatures, the bud blooms when it’s warm, releasing toxic pollen."
+}

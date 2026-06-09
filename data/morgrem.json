@@ -1,0 +1,95 @@
+{
+  "id": 860,
+  "name": "morgrem",
+  "genus": "Devious Pokémon",
+  "types": [
+    "dark",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false
+    },
+    {
+      "name": "frisk",
+      "hidden": false
+    },
+    {
+      "name": "pickpocket",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "mega-kick",
+    "take-down",
+    "bite",
+    "low-kick",
+    "thunder-wave",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "fake-out",
+    "uproar",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "trick",
+    "revenge",
+    "imprison",
+    "fake-tears",
+    "assurance",
+    "fling",
+    "sucker-punch",
+    "dark-pulse",
+    "drain-punch",
+    "nasty-plot",
+    "shadow-claw",
+    "foul-play",
+    "round",
+    "retaliate",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "throat-chop",
+    "false-surrender",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 45,
+    "special-attack": 75,
+    "special-defense": 55,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "impidimp",
+    "morgrem",
+    "grimmsnarl"
+  ],
+  "flavor_texts": [
+    "When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair.",
+    "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+  ],
+  "text": "Morgrem is the Devious Pokémon. It is a dark and fairy-type Pokémon. Abilities: prankster, frisk, pickpocket (hidden). Base stats — HP: 65, Attack: 60, Defense: 45, Sp. Atk: 75, Sp. Def: 55, Speed: 70. Evolution line: impidimp → morgrem → grimmsnarl. Lore: When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair. With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+}

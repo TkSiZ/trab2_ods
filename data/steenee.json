@@ -1,0 +1,110 @@
+{
+  "id": 762,
+  "name": "steenee",
+  "genus": "Fruit Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "hidden": false
+    },
+    {
+      "name": "oblivious",
+      "hidden": false
+    },
+    {
+      "name": "sweet-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "double-slap",
+    "stomp",
+    "take-down",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "splash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "teeter-dance",
+    "aromatherapy",
+    "bullet-seed",
+    "bounce",
+    "covet",
+    "magical-leaf",
+    "payback",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "zen-headbutt",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "low-sweep",
+    "round",
+    "petal-blizzard",
+    "draining-kiss",
+    "grassy-terrain",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "grassy-glide",
+    "triple-axel",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 52,
+    "attack": 40,
+    "defense": 48,
+    "special-attack": 40,
+    "special-defense": 48,
+    "speed": 62
+  },
+  "evolution_chain": [
+    "bounsweet",
+    "steenee",
+    "tsareena"
+  ],
+  "flavor_texts": [
+    "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
+    "This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma.",
+    "It’s protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn’t care.",
+    "It bounces around, swinging the sepals on its head with abandon. They’re quite painful when they smack you!",
+    "As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.",
+    "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick."
+  ],
+  "text": "Steenee is the Fruit Pokémon. It is a grass-type Pokémon. Abilities: leaf-guard, oblivious, sweet-veil (hidden). Base stats — HP: 52, Attack: 40, Defense: 48, Sp. Atk: 40, Sp. Def: 48, Speed: 62. Evolution line: bounsweet → steenee → tsareena. Lore: The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine. This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma. It’s protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn’t care. It bounces around, swinging the sepals on its head with abandon. They’re quite painful when they smack you! As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness."
+}

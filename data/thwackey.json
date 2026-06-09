@@ -1,0 +1,98 @@
+{
+  "id": 811,
+  "name": "thwackey",
+  "genus": "Beat Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false
+    },
+    {
+      "name": "grassy-surge",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "scratch",
+    "swords-dance",
+    "slam",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "screech",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "fake-out",
+    "uproar",
+    "facade",
+    "taunt",
+    "knock-off",
+    "endeavor",
+    "bullet-seed",
+    "magical-leaf",
+    "hammer-arm",
+    "u-turn",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "double-hit",
+    "round",
+    "acrobatics",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "solar-blade",
+    "branch-poke",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "special-attack": 55,
+    "special-defense": 60,
+    "speed": 80
+  },
+  "evolution_chain": [
+    "grookey",
+    "thwackey",
+    "rillaboom"
+  ],
+  "flavor_texts": [
+    "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+    "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+  ],
+  "text": "Thwackey is the Beat Pokémon. It is a grass-type Pokémon. Abilities: overgrow, grassy-surge (hidden). Base stats — HP: 70, Attack: 85, Defense: 70, Sp. Atk: 55, Sp. Def: 60, Speed: 80. Evolution line: grookey → thwackey → rillaboom. Lore: The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers. When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+}

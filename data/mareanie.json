@@ -1,0 +1,112 @@
+{
+  "id": 747,
+  "name": "mareanie",
+  "genus": "Brutal Star Pokémon",
+  "types": [
+    "poison",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "merciless",
+      "hidden": false
+    },
+    {
+      "name": "limber",
+      "hidden": false
+    },
+    {
+      "name": "regenerator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "poison-sting",
+    "pin-missile",
+    "bite",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "peck",
+    "toxic",
+    "double-team",
+    "recover",
+    "haze",
+    "spike-cannon",
+    "rest",
+    "substitute",
+    "snore",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "hail",
+    "facade",
+    "magic-coat",
+    "knock-off",
+    "snatch",
+    "muddy-water",
+    "iron-defense",
+    "mud-shot",
+    "covet",
+    "water-pulse",
+    "brine",
+    "payback",
+    "gastro-acid",
+    "toxic-spikes",
+    "poison-jab",
+    "gunk-shot",
+    "wide-guard",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "after-you",
+    "round",
+    "scald",
+    "frost-breath",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "lunge",
+    "liquidation",
+    "tera-blast",
+    "ice-spinner",
+    "pounce",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special-attack": 43,
+    "special-defense": 52,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "mareanie",
+    "toxapex"
+  ],
+  "flavor_texts": [
+    "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+    "It’s found crawling on beaches and seafloors. The coral that grows on Corsola’s head is as good as a five-star banquet to this Pokémon.",
+    "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
+    "Aside from its head, its body parts regenerate quickly if they’re cut off. After a good night’s sleep, Mareanie is back to normal.",
+    "The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin.",
+    "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious."
+  ],
+  "text": "Mareanie is the Brutal Star Pokémon. It is a poison and water-type Pokémon. Abilities: merciless, limber, regenerator (hidden). Base stats — HP: 50, Attack: 53, Defense: 62, Sp. Atk: 43, Sp. Def: 52, Speed: 45. Evolution line: mareanie → toxapex. Lore: It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles. It’s found crawling on beaches and seafloors. The coral that grows on Corsola’s head is as good as a five-star banquet to this Pokémon. They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off. Aside from its head, its body parts regenerate quickly if they’re cut off. After a good night’s sleep, Mareanie is back to normal. The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin."
+}

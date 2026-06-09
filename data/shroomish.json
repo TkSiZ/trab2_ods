@@ -1,0 +1,110 @@
+{
+  "id": 285,
+  "name": "shroomish",
+  "genus": "Mushroom Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "hidden": false
+    },
+    {
+      "name": "poison-heal",
+      "hidden": false
+    },
+    {
+      "name": "quick-feet",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "mimic",
+    "double-team",
+    "swift",
+    "spore",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "charm",
+    "false-swipe",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "refresh",
+    "snatch",
+    "secret-power",
+    "fake-tears",
+    "bullet-seed",
+    "magical-leaf",
+    "wake-up-slap",
+    "natural-gift",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "zen-headbutt",
+    "gunk-shot",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "round",
+    "grassy-terrain",
+    "confide",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 60,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "shroomish",
+    "breloom"
+  ],
+  "flavor_texts": [
+    "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",
+    "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON’s spores are so toxic, they make trees and weeds wilt.",
+    "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil.",
+    "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+    "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+    "If it senses danger, it scatters spores from the top of its head to protect itself.",
+    "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.",
+    "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt."
+  ],
+  "text": "Shroomish is the Mushroom Pokémon. It is a grass-type Pokémon. Abilities: effect-spore, poison-heal, quick-feet (hidden). Base stats — HP: 60, Attack: 40, Defense: 60, Sp. Atk: 40, Sp. Def: 60, Speed: 35. Evolution line: shroomish → breloom. Lore: SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves. If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON’s spores are so toxic, they make trees and weeds wilt. It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil. It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head. It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+}

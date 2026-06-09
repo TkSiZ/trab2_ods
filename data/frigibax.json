@@ -1,0 +1,74 @@
+{
+  "id": 996,
+  "name": "frigibax",
+  "genus": "Ice Fin Pokémon",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "thermal-exchange",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "ice-beam",
+    "blizzard",
+    "dig",
+    "focus-energy",
+    "rest",
+    "substitute",
+    "protect",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "helping-hand",
+    "icicle-spear",
+    "dragon-claw",
+    "aqua-tail",
+    "dragon-pulse",
+    "dragon-rush",
+    "avalanche",
+    "ice-fang",
+    "draco-meteor",
+    "dragon-tail",
+    "icicle-crash",
+    "freeze-dry",
+    "tera-blast",
+    "snowscape"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 45,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "flavor_texts": [
+    "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+  ],
+  "text": "Frigibax is the Ice Fin Pokémon. It is a dragon and ice-type Pokémon. Abilities: thermal-exchange, ice-body (hidden). Base stats — HP: 65, Attack: 75, Defense: 45, Sp. Atk: 35, Sp. Def: 45, Speed: 55. Evolution line: frigibax → arctibax → baxcalibur. Lore: Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores. This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+}

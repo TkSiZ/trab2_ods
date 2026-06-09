@@ -1,0 +1,80 @@
+{
+  "id": 836,
+  "name": "boltund",
+  "genus": "Dog Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "strong-jaw",
+      "hidden": false
+    },
+    {
+      "name": "competitive",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "tail-whip",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "agility",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "crunch",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "hyper-voice",
+    "bulk-up",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "wild-charge",
+    "snarl",
+    "electrify",
+    "play-rough",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "psychic-fangs",
+    "rising-voltage"
+  ],
+  "stats": {
+    "hp": 69,
+    "attack": 90,
+    "defense": 60,
+    "special-attack": 90,
+    "special-defense": 60,
+    "speed": 121
+  },
+  "evolution_chain": [
+    "yamper",
+    "boltund"
+  ],
+  "flavor_texts": [
+    "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+    "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
+  ],
+  "text": "Boltund is the Dog Pokémon. It is a electric-type Pokémon. Abilities: strong-jaw, competitive (hidden). Base stats — HP: 69, Attack: 90, Defense: 60, Sp. Atk: 90, Sp. Def: 60, Speed: 121. Evolution line: yamper → boltund. Lore: This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days. It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
+}

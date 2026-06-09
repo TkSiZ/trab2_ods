@@ -1,0 +1,90 @@
+{
+  "id": 949,
+  "name": "toedscruel",
+  "genus": "Woodear Pokémon",
+  "types": [
+    "ground",
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "mycelium-might",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "tackle",
+    "wrap",
+    "supersonic",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "screech",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "spore",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "taunt",
+    "knock-off",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "toxic-spikes",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "trick-room",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "venoshock",
+    "acid-spray",
+    "foul-play",
+    "hex",
+    "reflect-type",
+    "grassy-terrain",
+    "dazzling-gleam",
+    "lunge",
+    "grassy-glide",
+    "skitter-smack",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 120,
+    "speed": 100
+  },
+  "evolution_chain": [
+    "toedscool",
+    "toedscruel"
+  ],
+  "flavor_texts": [
+    "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+    "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+  ],
+  "text": "Toedscruel is the Woodear Pokémon. It is a ground and grass-type Pokémon. Abilities: mycelium-might. Base stats — HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100. Evolution line: toedscool → toedscruel. Lore: These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach. It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+}

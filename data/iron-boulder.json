@@ -1,0 +1,82 @@
+{
+  "id": 1022,
+  "name": "iron-boulder",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "horn-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "counter",
+    "rock-throw",
+    "earthquake",
+    "psychic",
+    "agility",
+    "quick-attack",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "megahorn",
+    "facade",
+    "taunt",
+    "brick-break",
+    "rock-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "rock-blast",
+    "close-combat",
+    "poison-jab",
+    "air-slash",
+    "x-scissor",
+    "giga-impact",
+    "psycho-cut",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "psyshock",
+    "quick-guard",
+    "bulldoze",
+    "wild-charge",
+    "sacred-sword",
+    "electric-terrain",
+    "solar-blade",
+    "throat-chop",
+    "meteor-beam",
+    "tera-blast",
+    "mighty-cleave"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 80,
+    "special-attack": 68,
+    "special-defense": 108,
+    "speed": 124
+  },
+  "evolution_chain": [
+    "iron-boulder"
+  ],
+  "flavor_texts": [
+    "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+    "It was named after a mysterious object recorded in an old book. Its body seems to be metallic."
+  ],
+  "text": "Iron-boulder is the Paradox Pokémon. It is a rock and psychic-type Pokémon. Abilities: quark-drive. Base stats — HP: 90, Attack: 120, Defense: 80, Sp. Atk: 68, Sp. Def: 108, Speed: 124. Evolution line: iron-boulder. Lore: It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization. It was named after a mysterious object recorded in an old book. Its body seems to be metallic."
+}

@@ -1,0 +1,94 @@
+{
+  "id": 873,
+  "name": "frosmoth",
+  "genus": "Frost Moth Pokémon",
+  "types": [
+    "ice",
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false
+    },
+    {
+      "name": "ice-scales",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "hyper-beam",
+    "stun-spore",
+    "light-screen",
+    "reflect",
+    "swift",
+    "leech-life",
+    "rest",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "hail",
+    "facade",
+    "helping-hand",
+    "imprison",
+    "feather-dance",
+    "weather-ball",
+    "icicle-spear",
+    "calm-mind",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "bug-buzz",
+    "giga-impact",
+    "avalanche",
+    "defog",
+    "bug-bite",
+    "wide-guard",
+    "quiver-dance",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "hurricane",
+    "play-rough",
+    "dazzling-gleam",
+    "infestation",
+    "lunge",
+    "aurora-veil",
+    "skitter-smack",
+    "triple-axel",
+    "dual-wingbeat",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 125,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "snom",
+    "frosmoth"
+  ],
+  "flavor_texts": [
+    "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
+    "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
+  ],
+  "text": "Frosmoth is the Frost Moth Pokémon. It is a ice and bug-type Pokémon. Abilities: shield-dust, ice-scales (hidden). Base stats — HP: 70, Attack: 65, Defense: 60, Sp. Atk: 125, Sp. Def: 90, Speed: 65. Evolution line: snom → frosmoth. Lore: Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit. It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
+}

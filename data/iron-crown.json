@@ -1,0 +1,82 @@
+{
+  "id": 1023,
+  "name": "iron-crown",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "confusion",
+    "psychic",
+    "agility",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "scary-face",
+    "endure",
+    "sleep-talk",
+    "metal-claw",
+    "future-sight",
+    "facade",
+    "brick-break",
+    "metal-sound",
+    "iron-defense",
+    "calm-mind",
+    "gravity",
+    "metal-burst",
+    "air-slash",
+    "x-scissor",
+    "focus-blast",
+    "giga-impact",
+    "psycho-cut",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "psyshock",
+    "heavy-slam",
+    "stored-power",
+    "quick-guard",
+    "volt-switch",
+    "bulldoze",
+    "sacred-sword",
+    "electric-terrain",
+    "solar-blade",
+    "smart-strike",
+    "steel-beam",
+    "expanding-force",
+    "tera-blast",
+    "tachyon-cutter",
+    "supercell-slam",
+    "psychic-noise"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 72,
+    "defense": 100,
+    "special-attack": 122,
+    "special-defense": 108,
+    "speed": 98
+  },
+  "evolution_chain": [
+    "iron-crown"
+  ],
+  "flavor_texts": [
+    "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+    "There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it."
+  ],
+  "text": "Iron-crown is the Paradox Pokémon. It is a steel and psychic-type Pokémon. Abilities: quark-drive. Base stats — HP: 90, Attack: 72, Defense: 100, Sp. Atk: 122, Sp. Def: 108, Speed: 98. Evolution line: iron-crown. Lore: It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion. There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it."
+}

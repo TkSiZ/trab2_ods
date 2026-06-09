@@ -1,0 +1,99 @@
+{
+  "id": 600,
+  "name": "klang",
+  "genus": "Gear Pokémon",
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "plus",
+      "hidden": false
+    },
+    {
+      "name": "minus",
+      "hidden": false
+    },
+    {
+      "name": "clear-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "bind",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "toxic",
+    "screech",
+    "double-team",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "zap-cannon",
+    "lock-on",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "charge",
+    "magic-coat",
+    "recycle",
+    "secret-power",
+    "metal-sound",
+    "signal-beam",
+    "iron-defense",
+    "shock-wave",
+    "gravity",
+    "assurance",
+    "magnet-rise",
+    "rock-polish",
+    "power-gem",
+    "mirror-shot",
+    "flash-cannon",
+    "discharge",
+    "charge-beam",
+    "autotomize",
+    "telekinesis",
+    "round",
+    "ally-switch",
+    "shift-gear",
+    "volt-switch",
+    "wild-charge",
+    "gear-grind",
+    "confide",
+    "steel-beam",
+    "steel-roller",
+    "rising-voltage"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 95,
+    "special-attack": 70,
+    "special-defense": 85,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "klink",
+    "klang",
+    "klinklang"
+  ],
+  "flavor_texts": [
+    "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+    "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don’t return.",
+    "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn’t return, it will die.",
+    "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon’s rotation speed increases sharply.",
+    "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+  ],
+  "text": "Klang is the Gear Pokémon. It is a steel-type Pokémon. Abilities: plus, minus, clear-body (hidden). Base stats — HP: 60, Attack: 80, Defense: 95, Sp. Atk: 70, Sp. Def: 85, Speed: 50. Evolution line: klink → klang → klinklang. Lore: By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster. Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don’t return. A minigear and big gear comprise its body. If the minigear it launches at a foe doesn’t return, it will die. When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon’s rotation speed increases sharply. Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+}

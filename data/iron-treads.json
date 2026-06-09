@@ -1,0 +1,84 @@
+{
+  "id": 990,
+  "name": "iron-treads",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "horn-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "thunder",
+    "earthquake",
+    "defense-curl",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "rollout",
+    "megahorn",
+    "rapid-spin",
+    "facade",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "metal-sound",
+    "iron-defense",
+    "mud-shot",
+    "gyro-ball",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "heavy-slam",
+    "electro-ball",
+    "volt-switch",
+    "bulldoze",
+    "wild-charge",
+    "electric-terrain",
+    "high-horsepower",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "steel-roller",
+    "tera-blast",
+    "ice-spinner",
+    "hard-press",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 112,
+    "defense": 120,
+    "special-attack": 72,
+    "special-defense": 70,
+    "speed": 106
+  },
+  "evolution_chain": [
+    "iron-treads"
+  ],
+  "flavor_texts": [
+    "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+    "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+  ],
+  "text": "Iron-treads is the Paradox Pokémon. It is a ground and steel-type Pokémon. Abilities: quark-drive. Base stats — HP: 90, Attack: 112, Defense: 120, Sp. Atk: 72, Sp. Def: 70, Speed: 106. Evolution line: iron-treads. Lore: This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens. Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+}

@@ -1,0 +1,81 @@
+{
+  "id": 910,
+  "name": "crocalor",
+  "genus": "Fire Croc Pokémon",
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false
+    },
+    {
+      "name": "unaware",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "fire-spin",
+    "dig",
+    "lick",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "curse",
+    "protect",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "hyper-voice",
+    "overheat",
+    "flare-blitz",
+    "seed-bomb",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "fire-pledge",
+    "snarl",
+    "disarming-voice",
+    "stomping-tantrum",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 81,
+    "attack": 55,
+    "defense": 78,
+    "special-attack": 90,
+    "special-defense": 58,
+    "speed": 49
+  },
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "flavor_texts": [
+    "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
+    "The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+  ],
+  "text": "Crocalor is the Fire Croc Pokémon. It is a fire-type Pokémon. Abilities: blaze, unaware (hidden). Base stats — HP: 81, Attack: 55, Defense: 78, Sp. Atk: 90, Sp. Def: 58, Speed: 49. Evolution line: fuecoco → crocalor → skeledirge. Lore: The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head. The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+}

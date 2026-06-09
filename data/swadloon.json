@@ -1,0 +1,104 @@
+{
+  "id": 541,
+  "name": "swadloon",
+  "genus": "Leaf-Wrapped Pokémon",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "hidden": false
+    },
+    {
+      "name": "chlorophyll",
+      "hidden": false
+    },
+    {
+      "name": "overcoat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "cut",
+    "tackle",
+    "take-down",
+    "razor-leaf",
+    "solar-beam",
+    "string-shot",
+    "toxic",
+    "screech",
+    "double-team",
+    "light-screen",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "magic-coat",
+    "secret-power",
+    "grass-whistle",
+    "signal-beam",
+    "iron-defense",
+    "magical-leaf",
+    "calm-mind",
+    "payback",
+    "worry-seed",
+    "seed-bomb",
+    "bug-buzz",
+    "energy-ball",
+    "switcheroo",
+    "grass-knot",
+    "bug-bite",
+    "round",
+    "struggle-bug",
+    "electroweb",
+    "sticky-web",
+    "grassy-terrain",
+    "confide",
+    "lunge",
+    "grassy-glide",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 63,
+    "defense": 90,
+    "special-attack": 50,
+    "special-defense": 80,
+    "speed": 42
+  },
+  "evolution_chain": [
+    "sewaddle",
+    "swadloon",
+    "leavanny"
+  ],
+  "flavor_texts": [
+    "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+    "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+    "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+  ],
+  "text": "Swadloon is the Leaf-Wrapped Pokémon. It is a bug and grass-type Pokémon. Abilities: leaf-guard, chlorophyll, overcoat (hidden). Base stats — HP: 55, Attack: 63, Defense: 90, Sp. Atk: 50, Sp. Def: 80, Speed: 42. Evolution line: sewaddle → swadloon → leavanny. Lore: Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life. It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests. Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+}

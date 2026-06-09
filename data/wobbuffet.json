@@ -1,0 +1,55 @@
+{
+  "id": 202,
+  "name": "wobbuffet",
+  "genus": "Patient Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "hidden": false
+    },
+    {
+      "name": "telepathy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "counter",
+    "amnesia",
+    "splash",
+    "destiny-bond",
+    "charm",
+    "safeguard",
+    "encore",
+    "mirror-coat"
+  ],
+  "stats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "special-attack": 33,
+    "special-defense": 58,
+    "speed": 33
+  },
+  "evolution_chain": [
+    "wynaut",
+    "wobbuffet"
+  ],
+  "flavor_texts": [
+    "It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike.",
+    "To keep its pitch- black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+    "In order to con­ ceal its black tail, it lives in a dark cave and only moves about at night.",
+    "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
+    "WOBBUFFET does nothing but endure attacks - it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
+    "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+    "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+    "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+    "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+    "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+    "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+    "Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond."
+  ],
+  "text": "Wobbuffet is the Patient Pokémon. It is a psychic-type Pokémon. Abilities: shadow-tag, telepathy (hidden). Base stats — HP: 190, Attack: 33, Defense: 58, Sp. Atk: 33, Sp. Def: 58, Speed: 33. Evolution line: wynaut → wobbuffet. Lore: It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike. To keep its pitch- black tail hidden, it lives quietly in the darkness. It is never first to attack. In order to con­ ceal its black tail, it lives in a dark cave and only moves about at night. If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit. WOBBUFFET does nothing but endure attacks - it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND."
+}

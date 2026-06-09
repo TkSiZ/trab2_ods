@@ -1,0 +1,86 @@
+{
+  "id": 822,
+  "name": "corvisquire",
+  "genus": "Raven Pokémon",
+  "types": [
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "unnerve",
+      "hidden": false
+    },
+    {
+      "name": "big-pecks",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "take-down",
+    "leer",
+    "peck",
+    "drill-peck",
+    "agility",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "revenge",
+    "fake-tears",
+    "air-cutter",
+    "aerial-ace",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "assurance",
+    "air-slash",
+    "brave-bird",
+    "nasty-plot",
+    "hone-claws",
+    "round",
+    "retaliate",
+    "work-up",
+    "hurricane",
+    "power-trip",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 68,
+    "attack": 67,
+    "defense": 55,
+    "special-attack": 43,
+    "special-defense": 55,
+    "speed": 77
+  },
+  "evolution_chain": [
+    "rookidee",
+    "corvisquire",
+    "corviknight"
+  ],
+  "flavor_texts": [
+    "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+    "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength."
+  ],
+  "text": "Corvisquire is the Raven Pokémon. It is a flying-type Pokémon. Abilities: keen-eye, unnerve, big-pecks (hidden). Base stats — HP: 68, Attack: 67, Defense: 55, Sp. Atk: 43, Sp. Def: 55, Speed: 77. Evolution line: rookidee → corvisquire → corviknight. Lore: Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies. The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength."
+}

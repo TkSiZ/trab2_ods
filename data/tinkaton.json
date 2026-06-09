@@ -1,0 +1,92 @@
+{
+  "id": 959,
+  "name": "tinkaton",
+  "genus": "Hammer Pokémon",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "hidden": false
+    },
+    {
+      "name": "own-tempo",
+      "hidden": false
+    },
+    {
+      "name": "pickpocket",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "slam",
+    "thunder-wave",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "protect",
+    "sweet-kiss",
+    "endure",
+    "sleep-talk",
+    "encore",
+    "metal-claw",
+    "rock-smash",
+    "fake-out",
+    "flatter",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "skill-swap",
+    "astonish",
+    "fake-tears",
+    "rock-tomb",
+    "metal-sound",
+    "covet",
+    "fling",
+    "flash-cannon",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "foul-play",
+    "bulldoze",
+    "draining-kiss",
+    "play-rough",
+    "fairy-wind",
+    "baby-doll-eyes",
+    "brutal-swing",
+    "steel-beam",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "gigaton-hammer",
+    "hard-press"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 75,
+    "defense": 77,
+    "special-attack": 70,
+    "special-defense": 105,
+    "speed": 94
+  },
+  "evolution_chain": [
+    "tinkatink",
+    "tinkatuff",
+    "tinkaton"
+  ],
+  "flavor_texts": [
+    "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+    "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+  ],
+  "text": "Tinkaton is the Hammer Pokémon. It is a fairy and steel-type Pokémon. Abilities: mold-breaker, own-tempo, pickpocket (hidden). Base stats — HP: 85, Attack: 75, Defense: 77, Sp. Atk: 70, Sp. Def: 105, Speed: 94. Evolution line: tinkatink → tinkatuff → tinkaton. Lore: This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight. The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+}

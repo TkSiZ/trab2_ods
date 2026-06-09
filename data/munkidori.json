@@ -1,0 +1,93 @@
+{
+  "id": 1015,
+  "name": "munkidori",
+  "genus": "Retainer Pokémon",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "toxic-chain",
+      "hidden": false
+    },
+    {
+      "name": "frisk",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "psybeam",
+    "hyper-beam",
+    "toxic",
+    "confusion",
+    "psychic",
+    "night-shade",
+    "confuse-ray",
+    "light-screen",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "fake-out",
+    "uproar",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "imprison",
+    "calm-mind",
+    "u-turn",
+    "fling",
+    "poison-jab",
+    "focus-blast",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "gunk-shot",
+    "grass-knot",
+    "psyshock",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "clear-smog",
+    "stored-power",
+    "hex",
+    "parting-shot",
+    "psychic-terrain",
+    "lash-out",
+    "poltergeist",
+    "tera-blast",
+    "trailblaze",
+    "psychic-noise"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 75,
+    "defense": 66,
+    "special-attack": 130,
+    "special-defense": 90,
+    "speed": 106
+  },
+  "evolution_chain": [
+    "munkidori"
+  ],
+  "flavor_texts": [
+    "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
+    "Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness."
+  ],
+  "text": "Munkidori is the Retainer Pokémon. It is a poison and psychic-type Pokémon. Abilities: toxic-chain, frisk (hidden). Base stats — HP: 88, Attack: 75, Defense: 66, Sp. Atk: 130, Sp. Def: 90, Speed: 106. Evolution line: munkidori. Lore: The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom. Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness."
+}

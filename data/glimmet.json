@@ -1,0 +1,79 @@
+{
+  "id": 969,
+  "name": "glimmet",
+  "genus": "Ore Pokémon",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "toxic-debris",
+      "hidden": false
+    },
+    {
+      "name": "corrosion",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "rock-throw",
+    "toxic",
+    "harden",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "acid-armor",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "memento",
+    "facade",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "toxic-spikes",
+    "rock-polish",
+    "power-gem",
+    "gunk-shot",
+    "stone-edge",
+    "stealth-rock",
+    "venoshock",
+    "smack-down",
+    "sludge-wave",
+    "acid-spray",
+    "dazzling-gleam",
+    "meteor-beam",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 48,
+    "attack": 35,
+    "defense": 42,
+    "special-attack": 105,
+    "special-defense": 60,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "glimmet",
+    "glimmora"
+  ],
+  "flavor_texts": [
+    "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+    "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+  ],
+  "text": "Glimmet is the Ore Pokémon. It is a rock and poison-type Pokémon. Abilities: toxic-debris, corrosion (hidden). Base stats — HP: 48, Attack: 35, Defense: 42, Sp. Atk: 105, Sp. Def: 60, Speed: 60. Evolution line: glimmet → glimmora. Lore: It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison. Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+}

@@ -1,0 +1,84 @@
+{
+  "id": 965,
+  "name": "varoom",
+  "genus": "Single-Cyl Pokémon",
+  "types": [
+    "steel",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "overcoat",
+      "hidden": false
+    },
+    {
+      "name": "slow-start",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "toxic",
+    "screech",
+    "haze",
+    "self-destruct",
+    "lick",
+    "smog",
+    "sludge",
+    "poison-gas",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "torment",
+    "facade",
+    "taunt",
+    "metal-sound",
+    "iron-defense",
+    "gyro-ball",
+    "assurance",
+    "toxic-spikes",
+    "poison-jab",
+    "zen-headbutt",
+    "flash-cannon",
+    "gunk-shot",
+    "iron-head",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "bulldoze",
+    "parting-shot",
+    "steel-beam",
+    "tera-blast",
+    "spin-out"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 70,
+    "defense": 63,
+    "special-attack": 30,
+    "special-defense": 45,
+    "speed": 47
+  },
+  "evolution_chain": [
+    "varoom",
+    "revavroom"
+  ],
+  "flavor_texts": [
+    "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+  ],
+  "text": "Varoom is the Single-Cyl Pokémon. It is a steel and poison-type Pokémon. Abilities: overcoat, slow-start (hidden). Base stats — HP: 45, Attack: 70, Defense: 63, Sp. Atk: 30, Sp. Def: 45, Speed: 47. Evolution line: varoom → revavroom. Lore: It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory. The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+}

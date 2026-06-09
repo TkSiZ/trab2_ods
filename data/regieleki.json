@@ -1,0 +1,79 @@
+{
+  "id": 894,
+  "name": "regieleki",
+  "genus": "Electron Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "transistor",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "thrash",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "screech",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "swift",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "zap-cannon",
+    "lock-on",
+    "endure",
+    "sleep-talk",
+    "rapid-spin",
+    "rain-dance",
+    "extreme-speed",
+    "ancient-power",
+    "facade",
+    "charge",
+    "bounce",
+    "shock-wave",
+    "assurance",
+    "magnet-rise",
+    "giga-impact",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "acrobatics",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "rising-voltage",
+    "thunder-cage",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 50,
+    "special-attack": 100,
+    "special-defense": 50,
+    "speed": 200
+  },
+  "evolution_chain": [
+    "regieleki"
+  ],
+  "flavor_texts": [
+    "This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.",
+    "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity."
+  ],
+  "text": "Regieleki is the Electron Pokémon. It is a electric-type Pokémon. Abilities: transistor. Base stats — HP: 80, Attack: 100, Defense: 50, Sp. Atk: 100, Sp. Def: 50, Speed: 200. Evolution line: regieleki. Lore: This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power. Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity."
+}

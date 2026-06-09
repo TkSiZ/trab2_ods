@@ -1,0 +1,79 @@
+{
+  "id": 1013,
+  "name": "sinistcha",
+  "genus": "Matcha Pokémon",
+  "types": [
+    "grass",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "hospitality",
+      "hidden": false
+    },
+    {
+      "name": "heatproof",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "solar-beam",
+    "stun-spore",
+    "night-shade",
+    "withdraw",
+    "reflect",
+    "rest",
+    "substitute",
+    "curse",
+    "spite",
+    "protect",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "memento",
+    "imprison",
+    "astonish",
+    "iron-defense",
+    "magical-leaf",
+    "calm-mind",
+    "energy-ball",
+    "nasty-plot",
+    "trick-room",
+    "leaf-storm",
+    "rage-powder",
+    "foul-play",
+    "scald",
+    "hex",
+    "phantom-force",
+    "grassy-terrain",
+    "strength-sap",
+    "life-dew",
+    "poltergeist",
+    "tera-blast",
+    "matcha-gotcha"
+  ],
+  "stats": {
+    "hp": 71,
+    "attack": 60,
+    "defense": 106,
+    "special-attack": 121,
+    "special-defense": 80,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "poltchageist",
+    "sinistcha"
+  ],
+  "flavor_texts": [
+    "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
+    "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
+  ],
+  "text": "Sinistcha is the Matcha Pokémon. It is a grass and ghost-type Pokémon. Abilities: hospitality, heatproof (hidden). Base stats — HP: 71, Attack: 60, Defense: 106, Sp. Atk: 121, Sp. Def: 80, Speed: 70. Evolution line: poltchageist → sinistcha. Lore: It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful. It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
+}

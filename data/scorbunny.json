@@ -1,0 +1,94 @@
+{
+  "id": 813,
+  "name": "scorbunny",
+  "genus": "Rabbit Pokémon",
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false
+    },
+    {
+      "name": "libero",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "double-kick",
+    "mega-kick",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ember",
+    "flamethrower",
+    "low-kick",
+    "counter",
+    "fire-spin",
+    "agility",
+    "quick-attack",
+    "focus-energy",
+    "fire-blast",
+    "swift",
+    "high-jump-kick",
+    "rest",
+    "super-fang",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "sunny-day",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "blaze-kick",
+    "overheat",
+    "bounce",
+    "mud-shot",
+    "u-turn",
+    "assurance",
+    "sucker-punch",
+    "flare-blitz",
+    "fire-fang",
+    "gunk-shot",
+    "electro-ball",
+    "flame-charge",
+    "low-sweep",
+    "round",
+    "ally-switch",
+    "acrobatics",
+    "fire-pledge",
+    "work-up",
+    "burning-jealousy",
+    "tera-blast",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 71,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 69
+  },
+  "evolution_chain": [
+    "scorbunny",
+    "raboot",
+    "cinderace"
+  ],
+  "flavor_texts": [
+    "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+    "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+  ],
+  "text": "Scorbunny is the Rabbit Pokémon. It is a fire-type Pokémon. Abilities: blaze, libero (hidden). Base stats — HP: 50, Attack: 71, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 69. Evolution line: scorbunny → raboot → cinderace. Lore: A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power. It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+}

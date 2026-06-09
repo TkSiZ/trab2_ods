@@ -1,0 +1,81 @@
+{
+  "id": 917,
+  "name": "tarountula",
+  "genus": "String Ball Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "hidden": false
+    },
+    {
+      "name": "stakeout",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "counter",
+    "string-shot",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "memento",
+    "facade",
+    "knock-off",
+    "bullet-seed",
+    "block",
+    "feint",
+    "assurance",
+    "gastro-acid",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "x-scissor",
+    "bug-buzz",
+    "shadow-claw",
+    "grass-knot",
+    "bug-bite",
+    "circle-throw",
+    "struggle-bug",
+    "sticky-web",
+    "first-impression",
+    "throat-chop",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 41,
+    "defense": 45,
+    "special-attack": 29,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "tarountula",
+    "spidops"
+  ],
+  "flavor_texts": [
+    "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+    "The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+  ],
+  "text": "Tarountula is the String Ball Pokémon. It is a bug-type Pokémon. Abilities: insomnia, stakeout (hidden). Base stats — HP: 35, Attack: 41, Defense: 45, Sp. Atk: 29, Sp. Def: 40, Speed: 20. Evolution line: tarountula → spidops. Lore: The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy. The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+}

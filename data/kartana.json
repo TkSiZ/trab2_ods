@@ -1,0 +1,80 @@
+{
+  "id": 798,
+  "name": "kartana",
+  "genus": "Drawn Sword Pokémon",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "guillotine",
+    "swords-dance",
+    "cut",
+    "razor-leaf",
+    "toxic",
+    "screech",
+    "double-team",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "detect",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "synthesis",
+    "hidden-power",
+    "brick-break",
+    "knock-off",
+    "air-cutter",
+    "aerial-ace",
+    "iron-defense",
+    "calm-mind",
+    "leaf-blade",
+    "tailwind",
+    "last-resort",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "vacuum-wave",
+    "giga-impact",
+    "psycho-cut",
+    "defog",
+    "round",
+    "sacred-sword",
+    "confide",
+    "solar-blade",
+    "laser-focus",
+    "smart-strike",
+    "steel-beam"
+  ],
+  "stats": {
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "special-attack": 59,
+    "special-defense": 31,
+    "speed": 109
+  },
+  "evolution_chain": [
+    "kartana"
+  ],
+  "flavor_texts": [
+    "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+    "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
+    "This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",
+    "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+  ],
+  "text": "Kartana is the Drawn Sword Pokémon. It is a grass and steel-type Pokémon. Abilities: beast-boost. Base stats — HP: 59, Attack: 181, Defense: 131, Sp. Atk: 59, Sp. Def: 31, Speed: 109. Evolution line: kartana. Lore: This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself. One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade. This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword. Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+}

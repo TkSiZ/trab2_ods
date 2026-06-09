@@ -1,0 +1,89 @@
+{
+  "id": 993,
+  "name": "iron-jugulis",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "fly",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "flamethrower",
+    "hydro-pump",
+    "hyper-beam",
+    "focus-energy",
+    "fire-blast",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "knock-off",
+    "hyper-voice",
+    "air-cutter",
+    "rock-tomb",
+    "metal-sound",
+    "tailwind",
+    "u-turn",
+    "assurance",
+    "dark-pulse",
+    "air-slash",
+    "dragon-pulse",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "fire-fang",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "charge-beam",
+    "acrobatics",
+    "dragon-tail",
+    "work-up",
+    "hurricane",
+    "snarl",
+    "electric-terrain",
+    "throat-chop",
+    "meteor-beam",
+    "lash-out",
+    "dual-wingbeat",
+    "tera-blast",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 94,
+    "attack": 80,
+    "defense": 86,
+    "special-attack": 122,
+    "special-defense": 80,
+    "speed": 108
+  },
+  "evolution_chain": [
+    "iron-jugulis"
+  ],
+  "flavor_texts": [
+    "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+    "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+  ],
+  "text": "Iron-jugulis is the Paradox Pokémon. It is a dark and flying-type Pokémon. Abilities: quark-drive. Base stats — HP: 94, Attack: 80, Defense: 86, Sp. Atk: 122, Sp. Def: 80, Speed: 108. Evolution line: iron-jugulis. Lore: It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot. It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+}

@@ -1,0 +1,91 @@
+{
+  "id": 366,
+  "name": "clamperl",
+  "genus": "Bivalve Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "rattled",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "double-edge",
+    "supersonic",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "barrier",
+    "waterfall",
+    "clamp",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "hail",
+    "facade",
+    "refresh",
+    "secret-power",
+    "dive",
+    "mud-sport",
+    "muddy-water",
+    "iron-defense",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "aqua-ring",
+    "captivate",
+    "round",
+    "scald",
+    "shell-smash",
+    "confide"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "special-attack": 74,
+    "special-defense": 55,
+    "speed": 32
+  },
+  "evolution_chain": [
+    "clamperl",
+    "huntail",
+    "gorebyss"
+  ],
+  "flavor_texts": [
+    "CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over.",
+    "CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this POKéMON is getting close to evolution.",
+    "A CLAMPERL slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+    "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+    "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+    "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it’s held.",
+    "Clamperl’s sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl’s shell will be scored with nicks and scratches all over.",
+    "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
+    "Despite its appearance, it’s carnivorous. It clamps down on its prey with both sides of its shell and doesn’t let go until they stop moving.",
+    "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls."
+  ],
+  "text": "Clamperl is the Bivalve Pokémon. It is a water-type Pokémon. Abilities: shell-armor, rattled (hidden). Base stats — HP: 35, Attack: 64, Defense: 85, Sp. Atk: 74, Sp. Def: 55, Speed: 32. Evolution line: clamperl → huntail → gorebyss. Lore: CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over. CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this POKéMON is getting close to evolution. A CLAMPERL slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy. It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl. It makes a single pearl during its lifetime. The pearl is said to amplify psychic power."
+}

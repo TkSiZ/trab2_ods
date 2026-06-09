@@ -1,0 +1,112 @@
+{
+  "id": 782,
+  "name": "jangmo-o",
+  "genus": "Scaly Pokémon",
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "bulletproof",
+      "hidden": false
+    },
+    {
+      "name": "soundproof",
+      "hidden": false
+    },
+    {
+      "name": "overcoat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "roar",
+    "low-kick",
+    "counter",
+    "earthquake",
+    "toxic",
+    "screech",
+    "double-team",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "brick-break",
+    "rock-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "dragon-claw",
+    "bulk-up",
+    "dragon-dance",
+    "payback",
+    "fling",
+    "aqua-tail",
+    "x-scissor",
+    "dragon-pulse",
+    "focus-blast",
+    "shadow-claw",
+    "draco-meteor",
+    "iron-head",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "dragon-tail",
+    "work-up",
+    "dual-chop",
+    "noble-roar",
+    "confide",
+    "breaking-swipe",
+    "scale-shot",
+    "tera-blast",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 65,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "jangmo-o",
+    "hakamo-o",
+    "kommo-o"
+  ],
+  "flavor_texts": [
+    "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+    "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
+    "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
+    "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
+    "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+    "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal."
+  ],
+  "text": "Jangmo-o is the Scaly Pokémon. It is a dragon-type Pokémon. Abilities: bulletproof, soundproof, overcoat (hidden). Base stats — HP: 45, Attack: 55, Defense: 65, Sp. Atk: 45, Sp. Def: 45, Speed: 45. Evolution line: jangmo-o → hakamo-o → kommo-o. Lore: It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives. They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another. It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises. It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own. They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits."
+}

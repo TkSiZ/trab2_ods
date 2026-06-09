@@ -1,0 +1,90 @@
+{
+  "id": 736,
+  "name": "grubbin",
+  "genus": "Larva Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "take-down",
+    "bite",
+    "string-shot",
+    "thunderbolt",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "screech",
+    "double-team",
+    "harden",
+    "light-screen",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "charge",
+    "mud-shot",
+    "shock-wave",
+    "magnet-rise",
+    "poison-jab",
+    "x-scissor",
+    "discharge",
+    "bug-bite",
+    "charge-beam",
+    "round",
+    "acrobatics",
+    "volt-switch",
+    "struggle-bug",
+    "electroweb",
+    "wild-charge",
+    "sticky-web",
+    "confide",
+    "electric-terrain",
+    "lunge",
+    "rising-voltage",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "special-attack": 55,
+    "special-defense": 45,
+    "speed": 46
+  },
+  "evolution_chain": [
+    "grubbin",
+    "charjabug",
+    "vikavolt"
+  ],
+  "flavor_texts": [
+    "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+    "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+    "If you find its nest, you shouldn’t stick your hand inside. You’ll get bitten by an irritated Grubbin.",
+    "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+    "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+    "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
+  ],
+  "text": "Grubbin is the Larva Pokémon. It is a bug-type Pokémon. Abilities: swarm. Base stats — HP: 47, Attack: 62, Defense: 45, Sp. Atk: 55, Sp. Def: 45, Speed: 46. Evolution line: grubbin → charjabug → vikavolt. Lore: Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground. They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon. If you find its nest, you shouldn’t stick your hand inside. You’ll get bitten by an irritated Grubbin. It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down. Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches."
+}

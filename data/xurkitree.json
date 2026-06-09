@@ -1,0 +1,92 @@
+{
+  "id": 796,
+  "name": "xurkitree",
+  "genus": "Glowing Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "bind",
+    "wrap",
+    "hyper-beam",
+    "solar-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "hypnosis",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "zap-cannon",
+    "endure",
+    "swagger",
+    "spark",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "charge",
+    "ingrain",
+    "magic-coat",
+    "tail-glow",
+    "signal-beam",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "fling",
+    "magnet-rise",
+    "energy-ball",
+    "giga-impact",
+    "discharge",
+    "power-whip",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "ion-deluge",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "dazzling-gleam",
+    "brutal-swing",
+    "rising-voltage"
+  ],
+  "stats": {
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "special-attack": 173,
+    "special-defense": 71,
+    "speed": 83
+  },
+  "evolution_chain": [
+    "xurkitree"
+  ],
+  "flavor_texts": [
+    "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+    "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
+    "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+    "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+  ],
+  "text": "Xurkitree is the Glowing Pokémon. It is a electric-type Pokémon. Abilities: beast-boost. Base stats — HP: 83, Attack: 89, Defense: 71, Sp. Atk: 173, Sp. Def: 71, Speed: 83. Evolution line: xurkitree. Lore: One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses. It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity. Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives. They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+}

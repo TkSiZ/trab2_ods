@@ -1,0 +1,98 @@
+{
+  "id": 536,
+  "name": "palpitoad",
+  "genus": "Vibration Pokémon",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "water-absorb",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "growl",
+    "supersonic",
+    "acid",
+    "hydro-pump",
+    "surf",
+    "bubble-beam",
+    "toxic",
+    "screech",
+    "double-team",
+    "bubble",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "uproar",
+    "hail",
+    "facade",
+    "focus-punch",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "weather-ball",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "gastro-acid",
+    "aqua-ring",
+    "earth-power",
+    "power-whip",
+    "stealth-rock",
+    "sludge-wave",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "scald",
+    "bulldoze",
+    "confide",
+    "venom-drench",
+    "infestation"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 65,
+    "defense": 55,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 69
+  },
+  "evolution_chain": [
+    "tympole",
+    "palpitoad",
+    "seismitoad"
+  ],
+  "flavor_texts": [
+    "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+    "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+    "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+    "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+    "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+  ],
+  "text": "Palpitoad is the Vibration Pokémon. It is a water and ground-type Pokémon. Abilities: swift-swim, hydration, water-absorb (hidden). Base stats — HP: 75, Attack: 65, Defense: 55, Sp. Atk: 65, Sp. Def: 55, Speed: 69. Evolution line: tympole → palpitoad → seismitoad. Lore: When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land. It lives in the water and on land. It uses its long, sticky tongue to capture prey. It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents. It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue. On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+}

@@ -1,0 +1,98 @@
+{
+  "id": 876,
+  "name": "indeedee-male",
+  "genus": "Emotion Pokémon",
+  "types": [
+    "psychic",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false
+    },
+    {
+      "name": "synchronize",
+      "hidden": false
+    },
+    {
+      "name": "psychic-surge",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pay-day",
+    "body-slam",
+    "take-down",
+    "psybeam",
+    "psychic",
+    "metronome",
+    "swift",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "encore",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "fake-out",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "hyper-voice",
+    "aromatherapy",
+    "extrasensory",
+    "magical-leaf",
+    "calm-mind",
+    "gravity",
+    "healing-wish",
+    "power-swap",
+    "last-resort",
+    "drain-punch",
+    "energy-ball",
+    "zen-headbutt",
+    "trick-room",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "disarming-voice",
+    "draining-kiss",
+    "play-rough",
+    "play-nice",
+    "mystical-fire",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "expanding-force",
+    "terrain-pulse",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "special-attack": 105,
+    "special-defense": 95,
+    "speed": 95
+  },
+  "evolution_chain": [
+    "indeedee"
+  ],
+  "flavor_texts": [
+    "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+    "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength."
+  ],
+  "text": "Indeedee-male is the Emotion Pokémon. It is a psychic and normal-type Pokémon. Abilities: inner-focus, synchronize, psychic-surge (hidden). Base stats — HP: 60, Attack: 65, Defense: 55, Sp. Atk: 105, Sp. Def: 95, Speed: 95. Evolution line: indeedee. Lore: It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need. Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength."
+}

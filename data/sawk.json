@@ -1,0 +1,111 @@
+{
+  "id": 539,
+  "name": "sawk",
+  "genus": "Karate Pokémon",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "inner-focus",
+      "hidden": false
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "karate-chop",
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "double-kick",
+    "mega-kick",
+    "leer",
+    "low-kick",
+    "counter",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "block",
+    "bulk-up",
+    "close-combat",
+    "payback",
+    "fling",
+    "poison-jab",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "stone-edge",
+    "grass-knot",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "throat-chop",
+    "coaching"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 75,
+    "special-attack": 30,
+    "special-defense": 75,
+    "speed": 85
+  },
+  "evolution_chain": [
+    "sawk"
+  ],
+  "flavor_texts": [
+    "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+    "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+    "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+    "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by.",
+    "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself."
+  ],
+  "text": "Sawk is the Karate Pokémon. It is a fighting-type Pokémon. Abilities: sturdy, inner-focus, mold-breaker (hidden). Base stats — HP: 75, Attack: 125, Defense: 75, Sp. Atk: 30, Sp. Def: 75, Speed: 85. Evolution line: sawk. Lore: The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train. Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them. Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping. If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by. The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself."
+}

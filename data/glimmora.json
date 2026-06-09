@@ -1,0 +1,85 @@
+{
+  "id": 970,
+  "name": "glimmora",
+  "genus": "Ore Pokémon",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "toxic-debris",
+      "hidden": false
+    },
+    {
+      "name": "corrosion",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "hyper-beam",
+    "solar-beam",
+    "rock-throw",
+    "toxic",
+    "harden",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "acid-armor",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "facade",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "toxic-spikes",
+    "rock-polish",
+    "power-gem",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "gunk-shot",
+    "stone-edge",
+    "stealth-rock",
+    "venoshock",
+    "smack-down",
+    "sludge-wave",
+    "acid-spray",
+    "spiky-shield",
+    "dazzling-gleam",
+    "meteor-beam",
+    "tera-blast",
+    "mortal-spin"
+  ],
+  "stats": {
+    "hp": 83,
+    "attack": 55,
+    "defense": 90,
+    "special-attack": 130,
+    "special-defense": 81,
+    "speed": 86
+  },
+  "evolution_chain": [
+    "glimmet",
+    "glimmora"
+  ],
+  "flavor_texts": [
+    "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+    "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+  ],
+  "text": "Glimmora is the Ore Pokémon. It is a rock and poison-type Pokémon. Abilities: toxic-debris, corrosion (hidden). Base stats — HP: 83, Attack: 55, Defense: 90, Sp. Atk: 130, Sp. Def: 81, Speed: 86. Evolution line: glimmet → glimmora. Lore: When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body. Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+}

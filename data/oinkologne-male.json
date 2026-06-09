@@ -1,0 +1,88 @@
+{
+  "id": 916,
+  "name": "oinkologne-male",
+  "genus": "Hog Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "lingering-aroma",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "thick-fat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "hyper-beam",
+    "dig",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "mud-slap",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "endeavor",
+    "hyper-voice",
+    "bullet-seed",
+    "mud-shot",
+    "covet",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "echoed-voice",
+    "bulldoze",
+    "work-up",
+    "belch",
+    "disarming-voice",
+    "play-rough",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 110,
+    "attack": 100,
+    "defense": 75,
+    "special-attack": 59,
+    "special-defense": 80,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "lechonk",
+    "oinkologne"
+  ],
+  "flavor_texts": [
+    "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+    "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+  ],
+  "text": "Oinkologne-male is the Hog Pokémon. It is a normal-type Pokémon. Abilities: lingering-aroma, gluttony, thick-fat (hidden). Base stats — HP: 110, Attack: 100, Defense: 75, Sp. Atk: 59, Sp. Def: 80, Speed: 65. Evolution line: lechonk → oinkologne. Lore: Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail. It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+}

@@ -1,0 +1,111 @@
+{
+  "id": 667,
+  "name": "litleo",
+  "genus": "Lion Cub Pokémon",
+  "types": [
+    "fire",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "hidden": false
+    },
+    {
+      "name": "unnerve",
+      "hidden": false
+    },
+    {
+      "name": "moxie",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "ember",
+    "flamethrower",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "double-team",
+    "fire-blast",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "yawn",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "overheat",
+    "payback",
+    "flare-blitz",
+    "dark-pulse",
+    "thunder-fang",
+    "fire-fang",
+    "flame-charge",
+    "entrainment",
+    "round",
+    "echoed-voice",
+    "incinerate",
+    "acrobatics",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "snarl",
+    "noble-roar",
+    "confide",
+    "psychic-fangs",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "special-attack": 73,
+    "special-defense": 54,
+    "speed": 72
+  },
+  "evolution_chain": [
+    "litleo",
+    "pyroar"
+  ],
+  "flavor_texts": [
+    "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+    "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+    "When they’re young, they live with a pride. Once they’re able to hunt prey on their own, they’re kicked out and have to make their own way.",
+    "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot."
+  ],
+  "text": "Litleo is the Lion Cub Pokémon. It is a fire and normal-type Pokémon. Abilities: rivalry, unnerve, moxie (hidden). Base stats — HP: 62, Attack: 50, Defense: 58, Sp. Atk: 73, Sp. Def: 54, Speed: 72. Evolution line: litleo → pyroar. Lore: The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body. They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight. When they’re young, they live with a pride. Once they’re able to hunt prey on their own, they’re kicked out and have to make their own way. This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot."
+}

@@ -1,0 +1,107 @@
+{
+  "id": 558,
+  "name": "crustle",
+  "genus": "Stone Home Pokémon",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "sand-attack",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "withdraw",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "feint-attack",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "rock-polish",
+    "poison-jab",
+    "x-scissor",
+    "giga-impact",
+    "shadow-claw",
+    "rock-wrecker",
+    "stone-edge",
+    "stealth-rock",
+    "bug-bite",
+    "hone-claws",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "shell-smash",
+    "struggle-bug",
+    "bulldoze",
+    "confide",
+    "solar-blade",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 125,
+    "special-attack": 65,
+    "special-defense": 75,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "dwebble",
+    "crustle"
+  ],
+  "flavor_texts": [
+    "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+    "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+    "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+    "This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days.",
+    "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace."
+  ],
+  "text": "Crustle is the Stone Home Pokémon. It is a bug and rock-type Pokémon. Abilities: sturdy, shell-armor, weak-armor (hidden). Base stats — HP: 70, Attack: 105, Defense: 125, Sp. Atk: 65, Sp. Def: 75, Speed: 45. Evolution line: dwebble → crustle. Lore: Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle. It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land. When its boulder is broken in battles for territory, it feels unsure and begins to weaken. This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days. Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace."
+}

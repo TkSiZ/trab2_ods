@@ -1,0 +1,90 @@
+{
+  "id": 988,
+  "name": "slither-wing",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "gust",
+    "whirlwind",
+    "stomp",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "ember",
+    "hyper-beam",
+    "low-kick",
+    "poison-powder",
+    "stun-spore",
+    "earthquake",
+    "leech-life",
+    "rest",
+    "substitute",
+    "curse",
+    "reversal",
+    "protect",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "morning-sun",
+    "rain-dance",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "superpower",
+    "brick-break",
+    "aerial-ace",
+    "bulk-up",
+    "u-turn",
+    "close-combat",
+    "flare-blitz",
+    "bug-buzz",
+    "giga-impact",
+    "zen-headbutt",
+    "bug-bite",
+    "heavy-slam",
+    "flame-charge",
+    "low-sweep",
+    "acrobatics",
+    "wild-charge",
+    "heat-crash",
+    "hurricane",
+    "first-impression",
+    "high-horsepower",
+    "lunge",
+    "stomping-tantrum",
+    "body-press",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 79,
+    "special-attack": 85,
+    "special-defense": 105,
+    "speed": 81
+  },
+  "evolution_chain": [
+    "slither-wing"
+  ],
+  "flavor_texts": [
+    "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+    "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+  ],
+  "text": "Slither-wing is the Paradox Pokémon. It is a bug and fighting-type Pokémon. Abilities: protosynthesis. Base stats — HP: 85, Attack: 135, Defense: 79, Sp. Atk: 85, Sp. Def: 105, Speed: 81. Evolution line: slither-wing. Lore: This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing. This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+}

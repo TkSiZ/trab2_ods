@@ -1,0 +1,84 @@
+{
+  "id": 847,
+  "name": "barraskewda",
+  "genus": "Skewer Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false
+    },
+    {
+      "name": "propeller-tail",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "bite",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "peck",
+    "agility",
+    "focus-energy",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "whirlpool",
+    "facade",
+    "brick-break",
+    "dive",
+    "bounce",
+    "water-pulse",
+    "close-combat",
+    "assurance",
+    "poison-jab",
+    "giga-impact",
+    "ice-fang",
+    "aqua-jet",
+    "round",
+    "scald",
+    "drill-run",
+    "laser-focus",
+    "throat-chop",
+    "psychic-fangs",
+    "liquidation",
+    "scale-shot",
+    "flip-turn",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 61,
+    "attack": 123,
+    "defense": 60,
+    "special-attack": 60,
+    "special-defense": 50,
+    "speed": 136
+  },
+  "evolution_chain": [
+    "arrokuda",
+    "barraskewda"
+  ],
+  "flavor_texts": [
+    "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",
+    "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
+  ],
+  "text": "Barraskewda is the Skewer Pokémon. It is a water-type Pokémon. Abilities: swift-swim, propeller-tail (hidden). Base stats — HP: 61, Attack: 123, Defense: 60, Sp. Atk: 60, Sp. Def: 50, Speed: 136. Evolution line: arrokuda → barraskewda. Lore: This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too. It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
+}

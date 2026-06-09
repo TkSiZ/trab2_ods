@@ -1,0 +1,104 @@
+{
+  "id": 1019,
+  "name": "hydrapple",
+  "genus": "Apple Hydra Pokémon",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "supersweet-syrup",
+      "hidden": false
+    },
+    {
+      "name": "regenerator",
+      "hidden": false
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hydro-pump",
+    "hyper-beam",
+    "growth",
+    "solar-beam",
+    "earthquake",
+    "recover",
+    "withdraw",
+    "defense-curl",
+    "reflect",
+    "rest",
+    "substitute",
+    "curse",
+    "protect",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "dragon-breath",
+    "sweet-scent",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "recycle",
+    "yawn",
+    "astonish",
+    "bullet-seed",
+    "magical-leaf",
+    "gyro-ball",
+    "sucker-punch",
+    "seed-bomb",
+    "dragon-pulse",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "nasty-plot",
+    "draco-meteor",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "bug-bite",
+    "double-hit",
+    "heavy-slam",
+    "dragon-tail",
+    "grassy-terrain",
+    "infestation",
+    "pollen-puff",
+    "body-press",
+    "breaking-swipe",
+    "grassy-glide",
+    "tera-blast",
+    "pounce",
+    "syrup-bomb",
+    "fickle-beam",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 106,
+    "attack": 80,
+    "defense": 110,
+    "special-attack": 120,
+    "special-defense": 80,
+    "speed": 44
+  },
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "flavor_texts": [
+    "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+    "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
+  ],
+  "text": "Hydrapple is the Apple Hydra Pokémon. It is a grass and dragon-type Pokémon. Abilities: supersweet-syrup, regenerator, sticky-hold (hidden). Base stats — HP: 106, Attack: 80, Defense: 110, Sp. Atk: 120, Sp. Def: 80, Speed: 44. Evolution line: applin → flapple → appletun → dipplin → hydrapple. Lore: Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander. These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
+}

@@ -1,0 +1,92 @@
+{
+  "id": 869,
+  "name": "alcremie",
+  "genus": "Cream Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "hidden": false
+    },
+    {
+      "name": "aroma-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "hyper-beam",
+    "solar-beam",
+    "psychic",
+    "recover",
+    "light-screen",
+    "metronome",
+    "acid-armor",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "giga-drain",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "pain-split",
+    "encore",
+    "sweet-scent",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "imprison",
+    "aromatherapy",
+    "fake-tears",
+    "magical-leaf",
+    "calm-mind",
+    "fling",
+    "last-resort",
+    "drain-punch",
+    "energy-ball",
+    "giga-impact",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "entrainment",
+    "round",
+    "stored-power",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "mystical-fire",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "decorate",
+    "misty-explosion",
+    "tera-blast",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "special-attack": 110,
+    "special-defense": 121,
+    "speed": 64
+  },
+  "evolution_chain": [
+    "milcery",
+    "alcremie"
+  ],
+  "flavor_texts": [
+    "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
+    "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
+  ],
+  "text": "Alcremie is the Cream Pokémon. It is a fairy-type Pokémon. Abilities: sweet-veil, aroma-veil (hidden). Base stats — HP: 65, Attack: 60, Defense: 75, Sp. Atk: 110, Sp. Def: 121, Speed: 64. Evolution line: milcery → alcremie. Lore: When it trusts a Trainer, it will treat them to berries it’s decorated with cream. When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
+}

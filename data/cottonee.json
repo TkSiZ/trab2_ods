@@ -1,0 +1,110 @@
+{
+  "id": 546,
+  "name": "cottonee",
+  "genus": "Cotton Puff Pokémon",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false
+    },
+    {
+      "name": "chlorophyll",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "double-team",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "hidden-power",
+    "sunny-day",
+    "beat-up",
+    "memento",
+    "facade",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "fake-tears",
+    "grass-whistle",
+    "tickle",
+    "covet",
+    "natural-gift",
+    "tailwind",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "switcheroo",
+    "defog",
+    "captivate",
+    "grass-knot",
+    "round",
+    "cotton-guard",
+    "grassy-terrain",
+    "misty-terrain",
+    "fairy-wind",
+    "confide",
+    "dazzling-gleam",
+    "grassy-glide",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "special-attack": 37,
+    "special-defense": 50,
+    "speed": 66
+  },
+  "evolution_chain": [
+    "cottonee",
+    "whimsicott"
+  ],
+  "flavor_texts": [
+    "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+    "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+    "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+    "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
+    "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can’t move as well.",
+    "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
+    "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+    "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands."
+  ],
+  "text": "Cottonee is the Cotton Puff Pokémon. It is a grass and fairy-type Pokémon. Abilities: prankster, infiltrator, chlorophyll (hidden). Base stats — HP: 40, Attack: 27, Defense: 60, Sp. Atk: 37, Sp. Def: 50, Speed: 66. Evolution line: cottonee → whimsicott. Lore: When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker. They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees. Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud. When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud. Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality."
+}

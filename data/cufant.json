@@ -1,0 +1,94 @@
+{
+  "id": 878,
+  "name": "cufant",
+  "genus": "Copperderm Pokémon",
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "sheer-force",
+      "hidden": false
+    },
+    {
+      "name": "heavy-metal",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "whirlwind",
+    "slam",
+    "stomp",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "screech",
+    "defense-curl",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "rock-smash",
+    "facade",
+    "superpower",
+    "brick-break",
+    "endeavor",
+    "rock-tomb",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "fling",
+    "earth-power",
+    "zen-headbutt",
+    "flash-cannon",
+    "power-whip",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "work-up",
+    "belch",
+    "play-rough",
+    "high-horsepower",
+    "brutal-swing",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "steel-roller",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 72,
+    "attack": 80,
+    "defense": 49,
+    "special-attack": 40,
+    "special-defense": 49,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "cufant",
+    "copperajah"
+  ],
+  "flavor_texts": [
+    "It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.",
+    "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
+  ],
+  "text": "Cufant is the Copperderm Pokémon. It is a steel-type Pokémon. Abilities: sheer-force, heavy-metal (hidden). Base stats — HP: 72, Attack: 80, Defense: 49, Sp. Atk: 40, Sp. Def: 49, Speed: 40. Evolution line: cufant → copperajah. Lore: It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all. If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
+}

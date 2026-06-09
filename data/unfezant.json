@@ -1,0 +1,97 @@
+{
+  "id": 521,
+  "name": "unfezant",
+  "genus": "Proud Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "super-luck",
+      "hidden": false
+    },
+    {
+      "name": "rivalry",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "fly",
+    "leer",
+    "growl",
+    "hyper-beam",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "focus-energy",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "round",
+    "echoed-voice",
+    "work-up",
+    "hurricane",
+    "confide",
+    "dual-wingbeat"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 93
+  },
+  "evolution_chain": [
+    "pidove",
+    "tranquill",
+    "unfezant"
+  ],
+  "flavor_texts": [
+    "Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males.",
+    "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+    "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+    "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
+    "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one."
+  ],
+  "text": "Unfezant is the Proud Pokémon. It is a normal and flying-type Pokémon. Abilities: big-pecks, super-luck, rivalry (hidden). Base stats — HP: 80, Attack: 115, Defense: 80, Sp. Atk: 65, Sp. Def: 55, Speed: 93. Evolution line: pidove → tranquill → unfezant. Lore: Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males. Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers. Males swing the plumage on their heads to threaten others, but females are better at flying. Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed. This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one."
+}

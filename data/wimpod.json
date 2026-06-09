@@ -1,0 +1,76 @@
+{
+  "id": 767,
+  "name": "wimpod",
+  "genus": "Turn Tail Pokémon",
+  "types": [
+    "bug",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "wimp-out",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "surf",
+    "toxic",
+    "screech",
+    "double-team",
+    "harden",
+    "defense-curl",
+    "waterfall",
+    "swift",
+    "leech-life",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "spikes",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "hail",
+    "facade",
+    "taunt",
+    "mud-shot",
+    "assurance",
+    "bug-buzz",
+    "aqua-jet",
+    "wide-guard",
+    "round",
+    "scald",
+    "struggle-bug",
+    "confide",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 80
+  },
+  "evolution_chain": [
+    "wimpod",
+    "golisopod"
+  ],
+  "flavor_texts": [
+    "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+    "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+    "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+    "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
+    "It’s nature’s cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+    "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy’s presence."
+  ],
+  "text": "Wimpod is the Turn Tail Pokémon. It is a bug and water-type Pokémon. Abilities: wimp-out. Base stats — HP: 25, Attack: 35, Defense: 40, Sp. Atk: 20, Sp. Def: 30, Speed: 80. Evolution line: wimpod → golisopod. Lore: This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake. Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten. It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it. An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it. It’s nature’s cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean."
+}

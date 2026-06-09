@@ -1,0 +1,100 @@
+{
+  "id": 705,
+  "name": "sliggoo",
+  "genus": "Soft Tissue Pokémon",
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "sap-sipper",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "gooey",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "water-gun",
+    "ice-beam",
+    "blizzard",
+    "absorb",
+    "thunderbolt",
+    "thunder",
+    "toxic",
+    "double-team",
+    "bide",
+    "bubble",
+    "acid-armor",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "secret-power",
+    "muddy-water",
+    "mud-shot",
+    "shock-wave",
+    "water-pulse",
+    "dragon-pulse",
+    "draco-meteor",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "confide",
+    "infestation",
+    "skitter-smack",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "special-attack": 83,
+    "special-defense": 113,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "goomy",
+    "sliggoo",
+    "goodra"
+  ],
+  "flavor_texts": [
+    "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
+    "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+    "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+    "This Pokémon’s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they’re nicely dissolved, it slurps them up.",
+    "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
+    "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you’re going to touch it.",
+    "Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
+    "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
+    "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water."
+  ],
+  "text": "Sliggoo is the Soft Tissue Pokémon. It is a dragon-type Pokémon. Abilities: sap-sipper, hydration, gooey (hidden). Base stats — HP: 68, Attack: 75, Defense: 53, Sp. Atk: 83, Sp. Def: 113, Speed: 60. Evolution line: goomy → sliggoo → goodra. Lore: It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything. Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose. It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with. This Pokémon’s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they’re nicely dissolved, it slurps them up. It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs."
+}

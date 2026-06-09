@@ -1,0 +1,85 @@
+{
+  "id": 994,
+  "name": "iron-moth",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "fire",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "gust",
+    "whirlwind",
+    "take-down",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "toxic",
+    "psychic",
+    "agility",
+    "screech",
+    "confuse-ray",
+    "light-screen",
+    "fire-blast",
+    "swift",
+    "rest",
+    "substitute",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "morning-sun",
+    "sunny-day",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "overheat",
+    "metal-sound",
+    "u-turn",
+    "toxic-spikes",
+    "flare-blitz",
+    "air-slash",
+    "bug-buzz",
+    "energy-ball",
+    "giga-impact",
+    "flash-cannon",
+    "discharge",
+    "charge-beam",
+    "venoshock",
+    "sludge-wave",
+    "flame-charge",
+    "acid-spray",
+    "acrobatics",
+    "struggle-bug",
+    "hurricane",
+    "fiery-dance",
+    "electric-terrain",
+    "dazzling-gleam",
+    "lunge",
+    "meteor-beam",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 60,
+    "special-attack": 140,
+    "special-defense": 110,
+    "speed": 110
+  },
+  "evolution_chain": [
+    "iron-moth"
+  ],
+  "flavor_texts": [
+    "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
+    "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+  ],
+  "text": "Iron-moth is the Paradox Pokémon. It is a fire and poison-type Pokémon. Abilities: quark-drive. Base stats — HP: 80, Attack: 70, Defense: 60, Sp. Atk: 140, Sp. Def: 110, Speed: 110. Evolution line: iron-moth. Lore: This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity. No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+}

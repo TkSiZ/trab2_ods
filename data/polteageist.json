@@ -1,0 +1,91 @@
+{
+  "id": 855,
+  "name": "polteageist",
+  "genus": "Black Tea Pokémon",
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "weak-armor",
+      "hidden": false
+    },
+    {
+      "name": "cursed-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "psybeam",
+    "hyper-beam",
+    "mega-drain",
+    "psychic",
+    "night-shade",
+    "confuse-ray",
+    "withdraw",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "self-destruct",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "baton-pass",
+    "sweet-scent",
+    "shadow-ball",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "astonish",
+    "aromatherapy",
+    "magical-leaf",
+    "calm-mind",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "trick-room",
+    "wonder-room",
+    "psyshock",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "shell-smash",
+    "hex",
+    "phantom-force",
+    "aromatic-mist",
+    "strength-sap",
+    "teatime",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 134,
+    "special-defense": 114,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "sinistea",
+    "polteageist"
+  ],
+  "flavor_texts": [
+    "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
+    "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
+  ],
+  "text": "Polteageist is the Black Tea Pokémon. It is a ghost-type Pokémon. Abilities: weak-armor, cursed-body (hidden). Base stats — HP: 60, Attack: 65, Defense: 65, Sp. Atk: 134, Sp. Def: 114, Speed: 70. Evolution line: sinistea → polteageist. Lore: This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found. Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
+}

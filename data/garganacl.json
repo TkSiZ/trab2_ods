@@ -1,0 +1,99 @@
+{
+  "id": 934,
+  "name": "garganacl",
+  "genus": "Rock Salt Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "purifying-salt",
+      "hidden": false
+    },
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "clear-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "recover",
+    "harden",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "protect",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "brick-break",
+    "rock-tomb",
+    "iron-defense",
+    "block",
+    "mud-shot",
+    "rock-blast",
+    "gravity",
+    "hammer-arm",
+    "fling",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "avalanche",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "wide-guard",
+    "smack-down",
+    "heavy-slam",
+    "bulldoze",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "tera-blast",
+    "salt-cure",
+    "hard-press"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 130,
+    "special-attack": 45,
+    "special-defense": 90,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "nacli",
+    "naclstack",
+    "garganacl"
+  ],
+  "flavor_texts": [
+    "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+    "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+  ],
+  "text": "Garganacl is the Rock Salt Pokémon. It is a rock-type Pokémon. Abilities: purifying-salt, sturdy, clear-body (hidden). Base stats — HP: 100, Attack: 100, Defense: 130, Sp. Atk: 45, Sp. Def: 90, Speed: 35. Evolution line: nacli → naclstack → garganacl. Lore: Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward. Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+}

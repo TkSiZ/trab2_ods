@@ -1,0 +1,111 @@
+{
+  "id": 823,
+  "name": "corviknight",
+  "genus": "Raven Pokémon",
+  "types": [
+    "flying",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false
+    },
+    {
+      "name": "unnerve",
+      "hidden": false
+    },
+    {
+      "name": "mirror-armor",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fly",
+    "sand-attack",
+    "fury-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "peck",
+    "drill-peck",
+    "agility",
+    "screech",
+    "light-screen",
+    "reflect",
+    "focus-energy",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "revenge",
+    "fake-tears",
+    "air-cutter",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "bulk-up",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "assurance",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "nasty-plot",
+    "flash-cannon",
+    "defog",
+    "iron-head",
+    "hone-claws",
+    "heavy-slam",
+    "round",
+    "retaliate",
+    "work-up",
+    "hurricane",
+    "power-trip",
+    "body-press",
+    "steel-beam",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 98,
+    "attack": 87,
+    "defense": 105,
+    "special-attack": 53,
+    "special-defense": 85,
+    "speed": 67
+  },
+  "evolution_chain": [
+    "rookidee",
+    "corvisquire",
+    "corviknight"
+  ],
+  "flavor_texts": [
+    "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service."
+  ],
+  "text": "Corviknight is the Raven Pokémon. It is a flying and steel-type Pokémon. Abilities: pressure, unnerve, mirror-armor (hidden). Base stats — HP: 98, Attack: 87, Defense: 105, Sp. Atk: 53, Sp. Def: 85, Speed: 67. Evolution line: rookidee → corvisquire → corviknight. Lore: This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe. With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service."
+}

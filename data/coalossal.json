@@ -1,0 +1,106 @@
+{
+  "id": 839,
+  "name": "coalossal",
+  "genus": "Coal Pokémon",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "steam-engine",
+      "hidden": false
+    },
+    {
+      "name": "flame-body",
+      "hidden": false
+    },
+    {
+      "name": "flash-fire",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "smokescreen",
+    "reflect",
+    "self-destruct",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "rapid-spin",
+    "sunny-day",
+    "ancient-power",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "overheat",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "rock-blast",
+    "gyro-ball",
+    "flare-blitz",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "scald",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "high-horsepower",
+    "burn-up",
+    "tar-shot",
+    "body-press",
+    "meteor-beam",
+    "scorching-sands",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "stats": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 120,
+    "special-attack": 80,
+    "special-defense": 90,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "flavor_texts": [
+    "It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
+    "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
+  ],
+  "text": "Coalossal is the Coal Pokémon. It is a rock and fire-type Pokémon. Abilities: steam-engine, flame-body, flash-fire (hidden). Base stats — HP: 110, Attack: 80, Defense: 120, Sp. Atk: 80, Sp. Def: 90, Speed: 30. Evolution line: rolycoly → carkol → coalossal. Lore: It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit. While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
+}

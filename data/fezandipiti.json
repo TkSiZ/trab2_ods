@@ -1,0 +1,100 @@
+{
+  "id": 1016,
+  "name": "fezandipiti",
+  "genus": "Retainer Pokémon",
+  "types": [
+    "poison",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "toxic-chain",
+      "hidden": false
+    },
+    {
+      "name": "technician",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "wing-attack",
+    "fly",
+    "double-kick",
+    "take-down",
+    "hyper-beam",
+    "peck",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "light-screen",
+    "swift",
+    "poison-gas",
+    "rest",
+    "substitute",
+    "thief",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "psych-up",
+    "shadow-ball",
+    "beat-up",
+    "uproar",
+    "heat-wave",
+    "flatter",
+    "facade",
+    "taunt",
+    "air-cutter",
+    "aerial-ace",
+    "poison-tail",
+    "calm-mind",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "poison-jab",
+    "dark-pulse",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "cross-poison",
+    "gunk-shot",
+    "venoshock",
+    "acid-spray",
+    "hex",
+    "acrobatics",
+    "tail-slap",
+    "hurricane",
+    "disarming-voice",
+    "play-rough",
+    "moonblast",
+    "dazzling-gleam",
+    "lash-out",
+    "dual-wingbeat",
+    "tera-blast",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 91,
+    "defense": 82,
+    "special-attack": 70,
+    "special-defense": 125,
+    "speed": 99
+  },
+  "evolution_chain": [
+    "fezandipiti"
+  ],
+  "flavor_texts": [
+    "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
+    "Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon."
+  ],
+  "text": "Fezandipiti is the Retainer Pokémon. It is a poison and fairy-type Pokémon. Abilities: toxic-chain, technician (hidden). Base stats — HP: 88, Attack: 91, Defense: 82, Sp. Atk: 70, Sp. Def: 125, Speed: 99. Evolution line: fezandipiti. Lore: Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body. Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon."
+}

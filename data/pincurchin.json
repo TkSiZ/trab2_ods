@@ -1,0 +1,96 @@
+{
+  "id": 871,
+  "name": "pincurchin",
+  "genus": "Sea Urchin Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "lightning-rod",
+      "hidden": false
+    },
+    {
+      "name": "electric-surge",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fury-attack",
+    "body-slam",
+    "take-down",
+    "pin-missile",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "bubble-beam",
+    "hyper-beam",
+    "peck",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "recover",
+    "self-destruct",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "spikes",
+    "endure",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "memento",
+    "facade",
+    "charge",
+    "muddy-water",
+    "brine",
+    "acupressure",
+    "payback",
+    "assurance",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "giga-impact",
+    "discharge",
+    "charge-beam",
+    "venoshock",
+    "electro-ball",
+    "round",
+    "scald",
+    "hex",
+    "electroweb",
+    "wild-charge",
+    "venom-drench",
+    "electric-terrain",
+    "throat-chop",
+    "liquidation",
+    "zing-zap",
+    "rising-voltage",
+    "tera-blast",
+    "chilling-water",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 48,
+    "attack": 101,
+    "defense": 95,
+    "special-attack": 91,
+    "special-defense": 85,
+    "speed": 15
+  },
+  "evolution_chain": [
+    "pincurchin"
+  ],
+  "flavor_texts": [
+    "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+    "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
+  ],
+  "text": "Pincurchin is the Sea Urchin Pokémon. It is a electric-type Pokémon. Abilities: lightning-rod, electric-surge (hidden). Base stats — HP: 48, Attack: 101, Defense: 95, Sp. Atk: 91, Sp. Def: 85, Speed: 15. Evolution line: pincurchin. Lore: It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines. It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
+}

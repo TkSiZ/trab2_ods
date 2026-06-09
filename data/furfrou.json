@@ -1,0 +1,91 @@
+{
+  "id": 676,
+  "name": "furfrou",
+  "genus": "Poodle Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "fur-coat",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "surf",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "role-play",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "hyper-voice",
+    "odor-sleuth",
+    "u-turn",
+    "last-resort",
+    "sucker-punch",
+    "dark-pulse",
+    "giga-impact",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "cotton-guard",
+    "snarl",
+    "confide",
+    "baby-doll-eyes"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "special-attack": 65,
+    "special-defense": 90,
+    "speed": 102
+  },
+  "evolution_chain": [
+    "furfrou"
+  ],
+  "flavor_texts": [
+    "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+    "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+    "There was an era when aristocrats would compete to see who could trim their Furfrou’s fur into the most exquisite style.",
+    "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+  ],
+  "text": "Furfrou is the Poodle Pokémon. It is a normal-type Pokémon. Abilities: fur-coat. Base stats — HP: 75, Attack: 80, Defense: 60, Sp. Atk: 65, Sp. Def: 90, Speed: 102. Evolution line: furfrou. Lore: Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements. Historically, in the Kalos region, these Pokémon were the designated guardians of the king. There was an era when aristocrats would compete to see who could trim their Furfrou’s fur into the most exquisite style. Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+}

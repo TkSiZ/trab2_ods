@@ -1,0 +1,41 @@
+{
+  "id": 790,
+  "name": "cosmoem",
+  "genus": "Protostar Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "teleport",
+    "cosmic-power"
+  ],
+  "stats": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "special-attack": 29,
+    "special-defense": 131,
+    "speed": 37
+  },
+  "evolution_chain": [
+    "cosmog",
+    "cosmoem",
+    "solgaleo",
+    "lunala"
+  ],
+  "flavor_texts": [
+    "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+    "There’s something accumulating around the black core within its hard shell. People think this Pokémon may come from another world.",
+    "The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.",
+    "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+    "The absorption of starlight fuels this Pokémon’s growth. The shell that encases it is harder than any known material.",
+    "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+  ],
+  "text": "Cosmoem is the Protostar Pokémon. It is a psychic-type Pokémon. Abilities: sturdy. Base stats — HP: 43, Attack: 29, Defense: 131, Sp. Atk: 29, Sp. Def: 131, Speed: 37. Evolution line: cosmog → cosmoem → solgaleo → lunala. Lore: Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars. There’s something accumulating around the black core within its hard shell. People think this Pokémon may come from another world. The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it. As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid. The absorption of starlight fuels this Pokémon’s growth. The shell that encases it is harder than any known material."
+}

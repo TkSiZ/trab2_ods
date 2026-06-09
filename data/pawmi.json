@@ -1,0 +1,91 @@
+{
+  "id": 921,
+  "name": "pawmi",
+  "genus": "Mouse Pokémon",
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "hidden": false
+    },
+    {
+      "name": "natural-cure",
+      "hidden": false
+    },
+    {
+      "name": "iron-fist",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "slam",
+    "take-down",
+    "bite",
+    "growl",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "mach-punch",
+    "sweet-kiss",
+    "endure",
+    "charm",
+    "spark",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "fake-out",
+    "facade",
+    "charge",
+    "helping-hand",
+    "wish",
+    "fling",
+    "thunder-fang",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "entrainment",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "play-rough",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 20,
+    "special-attack": 40,
+    "special-defense": 25,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "pawmi",
+    "pawmo",
+    "pawmot"
+  ],
+  "flavor_texts": [
+    "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+  ],
+  "text": "Pawmi is the Mouse Pokémon. It is a electric-type Pokémon. Abilities: static, natural-cure, iron-fist (hidden). Base stats — HP: 45, Attack: 50, Defense: 20, Sp. Atk: 40, Sp. Def: 25, Speed: 60. Evolution line: pawmi → pawmo → pawmot. Lore: It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws. The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+}

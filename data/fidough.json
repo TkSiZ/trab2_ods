@@ -1,0 +1,85 @@
+{
+  "id": 926,
+  "name": "fidough",
+  "genus": "Puppy Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false
+    },
+    {
+      "name": "klutz",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "dig",
+    "agility",
+    "lick",
+    "rest",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "baton-pass",
+    "sweet-scent",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "wish",
+    "yawn",
+    "endeavor",
+    "howl",
+    "mud-shot",
+    "covet",
+    "copycat",
+    "last-resort",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "work-up",
+    "snarl",
+    "misty-terrain",
+    "play-rough",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "stats": {
+    "hp": 37,
+    "attack": 55,
+    "defense": 70,
+    "special-attack": 30,
+    "special-defense": 55,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "fidough",
+    "dachsbun"
+  ],
+  "flavor_texts": [
+    "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
+    "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+  ],
+  "text": "Fidough is the Puppy Pokémon. It is a fairy-type Pokémon. Abilities: own-tempo, klutz (hidden). Base stats — HP: 37, Attack: 55, Defense: 70, Sp. Atk: 30, Sp. Def: 55, Speed: 65. Evolution line: fidough → dachsbun. Lore: This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity. The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+}

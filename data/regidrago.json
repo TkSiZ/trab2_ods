@@ -1,0 +1,75 @@
+{
+  "id": 895,
+  "name": "regidrago",
+  "genus": "Dragon Orb Pokémon",
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "dragons-maw",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "bite",
+    "hyper-beam",
+    "earthquake",
+    "light-screen",
+    "reflect",
+    "focus-energy",
+    "self-destruct",
+    "swift",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "twister",
+    "crunch",
+    "ancient-power",
+    "facade",
+    "dragon-claw",
+    "dragon-dance",
+    "hammer-arm",
+    "dragon-pulse",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "draco-meteor",
+    "round",
+    "laser-focus",
+    "breaking-swipe",
+    "scale-shot",
+    "dragon-energy",
+    "tera-blast",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 200,
+    "attack": 100,
+    "defense": 50,
+    "special-attack": 100,
+    "special-defense": 50,
+    "speed": 80
+  },
+  "evolution_chain": [
+    "regidrago"
+  ],
+  "flavor_texts": [
+    "An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
+    "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+  ],
+  "text": "Regidrago is the Dragon Orb Pokémon. It is a dragon-type Pokémon. Abilities: dragons-maw. Base stats — HP: 200, Attack: 100, Defense: 50, Sp. Atk: 100, Sp. Def: 50, Speed: 80. Evolution line: regidrago. Lore: An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven. Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+}

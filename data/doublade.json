@@ -1,0 +1,91 @@
+{
+  "id": 680,
+  "name": "doublade",
+  "genus": "Sword Pokémon",
+  "types": [
+    "steel",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "no-guard",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "tackle",
+    "toxic",
+    "screech",
+    "double-team",
+    "reflect",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "facade",
+    "brick-break",
+    "secret-power",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "shock-wave",
+    "gyro-ball",
+    "close-combat",
+    "power-trick",
+    "magnet-rise",
+    "night-slash",
+    "shadow-claw",
+    "shadow-sneak",
+    "psycho-cut",
+    "flash-cannon",
+    "iron-head",
+    "autotomize",
+    "after-you",
+    "round",
+    "retaliate",
+    "sacred-sword",
+    "confide",
+    "solar-blade",
+    "laser-focus",
+    "brutal-swing",
+    "steel-beam"
+  ],
+  "stats": {
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "special-attack": 45,
+    "special-defense": 49,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "honedge",
+    "doublade",
+    "aegislash"
+  ],
+  "flavor_texts": [
+    "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
+    "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+    "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
+    "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+  ],
+  "text": "Doublade is the Sword Pokémon. It is a steel and ghost-type Pokémon. Abilities: no-guard. Base stats — HP: 59, Attack: 110, Defense: 150, Sp. Atk: 45, Sp. Def: 49, Speed: 35. Evolution line: honedge → doublade → aegislash. Lore: When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons. The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay. Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents. The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+}

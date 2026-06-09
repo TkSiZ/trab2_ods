@@ -1,0 +1,113 @@
+{
+  "id": 538,
+  "name": "throh",
+  "genus": "Judo Pokémon",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "hidden": false
+    },
+    {
+      "name": "inner-focus",
+      "hidden": false
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "bind",
+    "mega-kick",
+    "body-slam",
+    "leer",
+    "low-kick",
+    "seismic-toss",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "vital-throw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "block",
+    "bulk-up",
+    "payback",
+    "fling",
+    "poison-jab",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "stone-edge",
+    "grass-knot",
+    "wide-guard",
+    "storm-throw",
+    "low-sweep",
+    "round",
+    "circle-throw",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "mat-block",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "stomping-tantrum",
+    "coaching"
+  ],
+  "stats": {
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "special-attack": 30,
+    "special-defense": 85,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "throh"
+  ],
+  "flavor_texts": [
+    "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+    "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+    "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+    "It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat.",
+    "They train in groups of five. Any member that can’t keep up will discard its belt and leave the group."
+  ],
+  "text": "Throh is the Judo Pokémon. It is a fighting-type Pokémon. Abilities: guts, inner-focus, mold-breaker (hidden). Base stats — HP: 120, Attack: 100, Defense: 85, Sp. Atk: 30, Sp. Def: 85, Speed: 45. Evolution line: throh. Lore: When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts. When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five. When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger. It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat. They train in groups of five. Any member that can’t keep up will discard its belt and leave the group."
+}

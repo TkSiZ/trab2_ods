@@ -1,0 +1,89 @@
+{
+  "id": 1008,
+  "name": "miraidon",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "electric",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "hadron-engine",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "solar-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "crunch",
+    "mirror-coat",
+    "facade",
+    "charge",
+    "taunt",
+    "helping-hand",
+    "overheat",
+    "metal-sound",
+    "dragon-claw",
+    "calm-mind",
+    "shock-wave",
+    "u-turn",
+    "dragon-pulse",
+    "power-gem",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "draco-meteor",
+    "discharge",
+    "charge-beam",
+    "heavy-slam",
+    "electro-ball",
+    "acrobatics",
+    "volt-switch",
+    "dragon-tail",
+    "wild-charge",
+    "snarl",
+    "parabolic-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "dazzling-gleam",
+    "tera-blast",
+    "electro-drift",
+    "dragon-cheer",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 100,
+    "special-attack": 135,
+    "special-defense": 115,
+    "speed": 135
+  },
+  "evolution_chain": [
+    "miraidon"
+  ],
+  "flavor_texts": [
+    "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
+  ],
+  "text": "Miraidon is the Paradox Pokémon. It is a electric and dragon-type Pokémon. Abilities: hadron-engine. Base stats — HP: 100, Attack: 85, Defense: 100, Sp. Atk: 135, Sp. Def: 115, Speed: 135. Evolution line: miraidon. Lore: Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful. This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
+}

@@ -1,0 +1,93 @@
+{
+  "id": 856,
+  "name": "hatenna",
+  "genus": "Calm Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "healer",
+      "hidden": false
+    },
+    {
+      "name": "anticipation",
+      "hidden": false
+    },
+    {
+      "name": "magic-bounce",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "psybeam",
+    "thunder-wave",
+    "confusion",
+    "psychic",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "psych-up",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "aromatherapy",
+    "magical-leaf",
+    "calm-mind",
+    "healing-wish",
+    "dark-pulse",
+    "trick-room",
+    "psyshock",
+    "after-you",
+    "round",
+    "stored-power",
+    "heal-pulse",
+    "quash",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "play-nice",
+    "mystical-fire",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "nuzzle",
+    "psychic-terrain",
+    "life-dew",
+    "expanding-force",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 45,
+    "special-attack": 56,
+    "special-defense": 53,
+    "speed": 39
+  },
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "flavor_texts": [
+    "Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you.",
+    "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+  ],
+  "text": "Hatenna is the Calm Pokémon. It is a psychic-type Pokémon. Abilities: healer, anticipation, magic-bounce (hidden). Base stats — HP: 42, Attack: 30, Defense: 45, Sp. Atk: 56, Sp. Def: 53, Speed: 39. Evolution line: hatenna → hattrem → hatterene. Lore: Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you. If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+}

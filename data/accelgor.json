@@ -1,0 +1,106 @@
+{
+  "id": 617,
+  "name": "accelgor",
+  "genus": "Shell Out Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": false
+    },
+    {
+      "name": "unburden",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "acid",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "recover",
+    "swift",
+    "leech-life",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "facade",
+    "yawn",
+    "knock-off",
+    "secret-power",
+    "signal-beam",
+    "mud-shot",
+    "u-turn",
+    "gastro-acid",
+    "me-first",
+    "power-swap",
+    "guard-swap",
+    "toxic-spikes",
+    "bug-buzz",
+    "drain-punch",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "bug-bite",
+    "venoshock",
+    "acid-spray",
+    "round",
+    "final-gambit",
+    "struggle-bug",
+    "confide",
+    "water-shuriken",
+    "venom-drench",
+    "infestation",
+    "laser-focus",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "special-attack": 100,
+    "special-defense": 60,
+    "speed": 145
+  },
+  "evolution_chain": [
+    "shelmet",
+    "accelgor"
+  ],
+  "flavor_texts": [
+    "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+    "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+    "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+    "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+    "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+  ],
+  "text": "Accelgor is the Shell Out Pokémon. It is a bug-type Pokémon. Abilities: hydration, sticky-hold, unburden (hidden). Base stats — HP: 80, Attack: 70, Defense: 40, Sp. Atk: 100, Sp. Def: 60, Speed: 145. Evolution line: shelmet → accelgor. Lore: When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane. Having removed its heavy shell, it becomes very light and can fight with ninja-like movements. When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison. It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular. Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+}

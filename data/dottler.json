@@ -1,0 +1,83 @@
+{
+  "id": 825,
+  "name": "dottler",
+  "genus": "Radome Pokémon",
+  "types": [
+    "bug",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "compound-eyes",
+      "hidden": false
+    },
+    {
+      "name": "telepathy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "solar-beam",
+    "confusion",
+    "psychic",
+    "light-screen",
+    "reflect",
+    "leech-life",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "shadow-ball",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "iron-defense",
+    "calm-mind",
+    "payback",
+    "power-swap",
+    "guard-swap",
+    "bug-buzz",
+    "energy-ball",
+    "zen-headbutt",
+    "trick-room",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "struggle-bug",
+    "psychic-terrain",
+    "body-press",
+    "expanding-force"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 80,
+    "special-attack": 50,
+    "special-defense": 90,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "blipbug",
+    "dottler",
+    "orbeetle"
+  ],
+  "flavor_texts": [
+    "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+    "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+  ],
+  "text": "Dottler is the Radome Pokémon. It is a bug and psychic-type Pokémon. Abilities: swarm, compound-eyes, telepathy (hidden). Base stats — HP: 50, Attack: 35, Defense: 80, Sp. Atk: 50, Sp. Def: 90, Speed: 30. Evolution line: blipbug → dottler → orbeetle. Lore: It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers. As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+}

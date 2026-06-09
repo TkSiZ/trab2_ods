@@ -1,0 +1,96 @@
+{
+  "id": 525,
+  "name": "boldore",
+  "genus": "Ore Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": false
+    },
+    {
+      "name": "sand-force",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "strength",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "harden",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "gravity",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "flash-cannon",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "confide",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "special-attack": 50,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "roggenrola",
+    "boldore",
+    "gigalith"
+  ],
+  "flavor_texts": [
+    "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+    "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+    "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+    "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+    "It explores caves in search of underground water. It’s not comfortable around water, so this Pokémon takes great care in lapping it up.",
+    "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+    "Its orange crystals are lumps of powerful energy. They’re valuable, so Boldore is sometimes targeted for them.",
+    "If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy.",
+    "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing."
+  ],
+  "text": "Boldore is the Ore Pokémon. It is a rock-type Pokémon. Abilities: sturdy, weak-armor, sand-force (hidden). Base stats — HP: 70, Attack: 105, Defense: 105, Sp. Atk: 50, Sp. Def: 40, Speed: 20. Evolution line: roggenrola → boldore → gigalith. Lore: When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves. Because its energy was too great to be contained, the energy leaked and formed orange crystals. When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right. Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks. It explores caves in search of underground water. It’s not comfortable around water, so this Pokémon takes great care in lapping it up."
+}

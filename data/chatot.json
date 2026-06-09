@@ -1,0 +1,108 @@
+{
+  "id": 441,
+  "name": "chatot",
+  "genus": "Music Note Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "tangled-feet",
+      "hidden": false
+    },
+    {
+      "name": "big-pecks",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "fly",
+    "fury-attack",
+    "growl",
+    "sing",
+    "supersonic",
+    "peck",
+    "toxic",
+    "agility",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "mirror-move",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "facade",
+    "taunt",
+    "role-play",
+    "secret-power",
+    "feather-dance",
+    "hyper-voice",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "nasty-plot",
+    "defog",
+    "captivate",
+    "chatter",
+    "ominous-wind",
+    "synchronoise",
+    "round",
+    "echoed-voice",
+    "work-up",
+    "hurricane",
+    "parting-shot",
+    "play-rough",
+    "boomburst",
+    "confide"
+  ],
+  "stats": {
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 92,
+    "special-defense": 42,
+    "speed": 91
+  },
+  "evolution_chain": [
+    "chatot"
+  ],
+  "flavor_texts": [
+    "It can learn and speak human words. If they gather, they all learn the same saying.",
+    "It keeps rhythm by flicking its tail feathers like a metronome. It imitates human speech.",
+    "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.",
+    "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.",
+    "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic."
+  ],
+  "text": "Chatot is the Music Note Pokémon. It is a normal and flying-type Pokémon. Abilities: keen-eye, tangled-feet, big-pecks (hidden). Base stats — HP: 76, Attack: 65, Defense: 45, Sp. Atk: 92, Sp. Def: 42, Speed: 91. Evolution line: chatot. Lore: It can learn and speak human words. If they gather, they all learn the same saying. It keeps rhythm by flicking its tail feathers like a metronome. It imitates human speech. Its tongue is just like a human’s. As a result, it can cleverly mimic human speech. It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it. A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic."
+}

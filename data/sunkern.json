@@ -1,0 +1,113 @@
+{
+  "id": 191,
+  "name": "sunkern",
+  "genus": "Seed Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false
+    },
+    {
+      "name": "solar-power",
+      "hidden": false
+    },
+    {
+      "name": "early-bird",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "bide",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "sweet-scent",
+    "morning-sun",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "ingrain",
+    "endeavor",
+    "secret-power",
+    "weather-ball",
+    "grass-whistle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "after-you",
+    "round",
+    "grassy-terrain",
+    "confide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "sunkern",
+    "sunflora"
+  ],
+  "flavor_texts": [
+    "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+    "It lives by drink­ ing only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+    "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+    "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing,  subsisting only on morning dew.",
+    "SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+    "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+    "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+    "It may plummet from the sky. If attacked by a SPEAROW, it will violently shake its leaves.",
+    "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
+    "It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.",
+    "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."
+  ],
+  "text": "Sunkern is the Seed Pokémon. It is a grass-type Pokémon. Abilities: chlorophyll, solar-power, early-bird (hidden). Base stats — HP: 30, Attack: 30, Defense: 30, Sp. Atk: 30, Sp. Def: 30, Speed: 30. Evolution line: sunkern → sunflora. Lore: It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves. It lives by drink­ ing only dewdrops from under the leaves of plants. It is said that it eats nothing else. It is very weak. Its only means of defense is to shake its leaves desperately at its attacker. SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing,  subsisting only on morning dew. SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew."
+}

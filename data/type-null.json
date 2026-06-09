@@ -1,0 +1,93 @@
+{
+  "id": 772,
+  "name": "type-null",
+  "genus": "Synthetic Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "thunder-wave",
+    "toxic",
+    "rage",
+    "double-team",
+    "swift",
+    "rest",
+    "rock-slide",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "hail",
+    "facade",
+    "magic-coat",
+    "imprison",
+    "crush-claw",
+    "metal-sound",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "dragon-claw",
+    "u-turn",
+    "payback",
+    "heal-block",
+    "punishment",
+    "last-resort",
+    "air-slash",
+    "x-scissor",
+    "giga-impact",
+    "shadow-claw",
+    "iron-head",
+    "double-hit",
+    "flame-charge",
+    "round",
+    "work-up",
+    "confide",
+    "terrain-pulse"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 95,
+    "speed": 59
+  },
+  "evolution_chain": [
+    "type-null",
+    "silvally"
+  ],
+  "flavor_texts": [
+    "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+    "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
+    "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+    "There’s danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+    "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
+    "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
+  ],
+  "text": "Type-null is the Synthetic Pokémon. It is a normal-type Pokémon. Abilities: battle-armor. Base stats — HP: 95, Attack: 95, Defense: 95, Sp. Atk: 95, Sp. Def: 95, Speed: 59. Evolution line: type-null → silvally. Lore: The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power. Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power. A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen. There’s danger of its going on a rampage, so its true power is sealed away beneath its control mask. Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region."
+}

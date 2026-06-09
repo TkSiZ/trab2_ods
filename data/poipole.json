@@ -1,0 +1,70 @@
+{
+  "id": 803,
+  "name": "poipole",
+  "genus": "Poison Pin Pokémon",
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "fury-attack",
+    "pin-missile",
+    "growl",
+    "acid",
+    "peck",
+    "toxic",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "snatch",
+    "signal-beam",
+    "covet",
+    "gastro-acid",
+    "toxic-spikes",
+    "poison-jab",
+    "dragon-pulse",
+    "nasty-plot",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "round",
+    "echoed-voice",
+    "fell-stinger",
+    "confide",
+    "venom-drench"
+  ],
+  "stats": {
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "special-attack": 73,
+    "special-defense": 67,
+    "speed": 73
+  },
+  "evolution_chain": [
+    "poipole",
+    "naganadel"
+  ],
+  "flavor_texts": [
+    "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+    "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
+  ],
+  "text": "Poipole is the Poison Pin Pokémon. It is a poison-type Pokémon. Abilities: beast-boost. Base stats — HP: 67, Attack: 73, Defense: 67, Sp. Atk: 73, Sp. Def: 67, Speed: 73. Evolution line: poipole → naganadel. Lore: This Ultra Beast is well enough liked to be chosen as a first partner in its own world. An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
+}

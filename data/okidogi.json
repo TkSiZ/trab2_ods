@@ -1,0 +1,102 @@
+{
+  "id": 1014,
+  "name": "okidogi",
+  "genus": "Retainer Pokémon",
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "toxic-chain",
+      "hidden": false
+    },
+    {
+      "name": "guard-dog",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "dig",
+    "toxic",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "metal-claw",
+    "crunch",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "poison-fang",
+    "rock-tomb",
+    "howl",
+    "bulk-up",
+    "poison-tail",
+    "close-combat",
+    "fling",
+    "force-palm",
+    "poison-jab",
+    "drain-punch",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "gunk-shot",
+    "iron-head",
+    "sludge-wave",
+    "low-sweep",
+    "snarl",
+    "high-horsepower",
+    "throat-chop",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "hard-press",
+    "upper-hand"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 128,
+    "defense": 115,
+    "special-attack": 58,
+    "special-defense": 86,
+    "speed": 80
+  },
+  "evolution_chain": [
+    "okidogi"
+  ],
+  "flavor_texts": [
+    "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
+    "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck."
+  ],
+  "text": "Okidogi is the Retainer Pokémon. It is a poison and fighting-type Pokémon. Abilities: toxic-chain, guard-dog (hidden). Base stats — HP: 88, Attack: 128, Defense: 115, Sp. Atk: 58, Sp. Def: 86, Speed: 80. Evolution line: okidogi. Lore: After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique. Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck."
+}

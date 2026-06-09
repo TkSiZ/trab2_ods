@@ -1,0 +1,109 @@
+{
+  "id": 858,
+  "name": "hatterene",
+  "genus": "Silent Pokémon",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "healer",
+      "hidden": false
+    },
+    {
+      "name": "anticipation",
+      "hidden": false
+    },
+    {
+      "name": "magic-bounce",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "psybeam",
+    "hyper-beam",
+    "thunder-wave",
+    "confusion",
+    "psychic",
+    "agility",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "pain-split",
+    "baton-pass",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "aromatherapy",
+    "magical-leaf",
+    "calm-mind",
+    "gravity",
+    "healing-wish",
+    "power-swap",
+    "guard-swap",
+    "dark-pulse",
+    "giga-impact",
+    "shadow-claw",
+    "psycho-cut",
+    "trick-room",
+    "power-whip",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "round",
+    "stored-power",
+    "heal-pulse",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "play-nice",
+    "mystical-fire",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "brutal-swing",
+    "magic-powder",
+    "life-dew",
+    "expanding-force",
+    "misty-explosion",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "stats": {
+    "hp": 57,
+    "attack": 90,
+    "defense": 95,
+    "special-attack": 136,
+    "special-defense": 103,
+    "speed": 29
+  },
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "flavor_texts": [
+    "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+    "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+  ],
+  "text": "Hatterene is the Silent Pokémon. It is a psychic and fairy-type Pokémon. Abilities: healer, anticipation, magic-bounce (hidden). Base stats — HP: 57, Attack: 90, Defense: 95, Sp. Atk: 136, Sp. Def: 103, Speed: 29. Evolution line: hatenna → hattrem → hatterene. Lore: It emits psychic power strong enough to cause headaches as a deterrent to the approach of others. If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+}

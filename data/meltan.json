@@ -1,0 +1,53 @@
+{
+  "id": 808,
+  "name": "meltan",
+  "genus": "Hex Nut Pokémon",
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "magnet-pull",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tail-whip",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "toxic",
+    "harden",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "facade",
+    "iron-defense",
+    "gyro-ball",
+    "flash-cannon",
+    "round",
+    "steel-beam"
+  ],
+  "stats": {
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 55,
+    "special-defense": 35,
+    "speed": 34
+  },
+  "evolution_chain": [
+    "meltan"
+  ],
+  "flavor_texts": [
+    "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+    "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+    "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+  ],
+  "text": "Meltan is the Hex Nut Pokémon. It is a steel-type Pokémon. Abilities: magnet-pull. Base stats — HP: 46, Attack: 65, Defense: 65, Sp. Atk: 55, Sp. Def: 35, Speed: 34. Evolution line: meltan. Lore: It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel. It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy. They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+}

@@ -1,0 +1,109 @@
+{
+  "id": 506,
+  "name": "lillipup",
+  "genus": "Puppy Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "vital-spirit",
+      "hidden": false
+    },
+    {
+      "name": "pickup",
+      "hidden": false
+    },
+    {
+      "name": "run-away",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "tackle",
+    "take-down",
+    "leer",
+    "bite",
+    "roar",
+    "thunderbolt",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "double-team",
+    "lick",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "secret-power",
+    "hyper-voice",
+    "odor-sleuth",
+    "rock-tomb",
+    "aerial-ace",
+    "howl",
+    "covet",
+    "shock-wave",
+    "payback",
+    "last-resort",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "after-you",
+    "round",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "confide",
+    "baby-doll-eyes",
+    "psychic-fangs"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "special-attack": 25,
+    "special-defense": 45,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "lillipup",
+    "herdier",
+    "stoutland"
+  ],
+  "flavor_texts": [
+    "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+    "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+    "Though it is a very brave Pokémon, it’s also smart enough to check its foe’s strength and avoid battle.",
+    "Because it doesn’t yelp, it’s extremely popular with Trainers who live in apartment buildings.",
+    "The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents.",
+    "This Pokémon has excellent judgment. If it decides it can’t defeat an opponent, it immediately turns tail and vamooses.",
+    "This Pokémon is popular with beginners because it’s intelligent, obedient to its Trainer’s commands, and easy to raise.",
+    "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+    "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers."
+  ],
+  "text": "Lillipup is the Puppy Pokémon. It is a normal-type Pokémon. Abilities: vital-spirit, pickup, run-away (hidden). Base stats — HP: 45, Attack: 60, Defense: 45, Sp. Atk: 25, Sp. Def: 45, Speed: 55. Evolution line: lillipup → herdier → stoutland. Lore: It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees. The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings. Though it is a very brave Pokémon, it’s also smart enough to check its foe’s strength and avoid battle. Because it doesn’t yelp, it’s extremely popular with Trainers who live in apartment buildings. The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents."
+}

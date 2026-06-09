@@ -1,0 +1,101 @@
+{
+  "id": 277,
+  "name": "swellow",
+  "genus": "Swallow Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "hidden": false
+    },
+    {
+      "name": "scrappy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "wing-attack",
+    "fly",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "peck",
+    "counter",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "heat-wave",
+    "facade",
+    "endeavor",
+    "secret-power",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "round",
+    "echoed-voice",
+    "quick-guard",
+    "work-up",
+    "confide",
+    "laser-focus"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "special-attack": 75,
+    "special-defense": 50,
+    "speed": 125
+  },
+  "evolution_chain": [
+    "taillow",
+    "swellow"
+  ],
+  "flavor_texts": [
+    "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
+    "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other’s wings.",
+    "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+    "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+    "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+    "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+    "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape.",
+    "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings."
+  ],
+  "text": "Swellow is the Swallow Pokémon. It is a normal and flying-type Pokémon. Abilities: guts, scrappy (hidden). Base stats — HP: 60, Attack: 85, Defense: 60, Sp. Atk: 75, Sp. Def: 50, Speed: 125. Evolution line: taillow → swellow. Lore: SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape. SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other’s wings. A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate. If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky. It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+}

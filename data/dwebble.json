@@ -1,0 +1,105 @@
+{
+  "id": 557,
+  "name": "dwebble",
+  "genus": "Rock Inn Pokémon",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "sand-attack",
+    "counter",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "withdraw",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "feint-attack",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "rock-polish",
+    "poison-jab",
+    "night-slash",
+    "x-scissor",
+    "shadow-claw",
+    "rock-wrecker",
+    "stone-edge",
+    "stealth-rock",
+    "bug-bite",
+    "hone-claws",
+    "wide-guard",
+    "smack-down",
+    "round",
+    "shell-smash",
+    "struggle-bug",
+    "bulldoze",
+    "rototiller",
+    "confide",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "dwebble",
+    "crustle"
+  ],
+  "flavor_texts": [
+    "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+    "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+    "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+    "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
+    "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+  ],
+  "text": "Dwebble is the Rock Inn Pokémon. It is a bug and rock-type Pokémon. Abilities: sturdy, shell-armor, weak-armor (hidden). Base stats — HP: 50, Attack: 65, Defense: 85, Sp. Atk: 35, Sp. Def: 35, Speed: 55. Evolution line: dwebble → crustle. Lore: This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth. It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement. When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into. When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly. It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+}

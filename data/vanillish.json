@@ -1,0 +1,95 @@
+{
+  "id": 583,
+  "name": "vanillish",
+  "genus": "Icy Snow Pokémon",
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "ice-body",
+      "hidden": false
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": false
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "self-destruct",
+    "acid-armor",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "uproar",
+    "hail",
+    "facade",
+    "taunt",
+    "magic-coat",
+    "imprison",
+    "secret-power",
+    "hyper-voice",
+    "astonish",
+    "signal-beam",
+    "sheer-cold",
+    "icicle-spear",
+    "iron-defense",
+    "water-pulse",
+    "magnet-rise",
+    "avalanche",
+    "mirror-shot",
+    "flash-cannon",
+    "round",
+    "ally-switch",
+    "frost-breath",
+    "confide"
+  ],
+  "stats": {
+    "hp": 51,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 75,
+    "speed": 59
+  },
+  "evolution_chain": [
+    "vanillite",
+    "vanillish",
+    "vanilluxe"
+  ],
+  "flavor_texts": [
+    "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas.",
+    "It conceals itself from enemy eyes by creating many small ice particles and hiding among them.",
+    "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+    "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
+    "This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt.",
+    "It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average.",
+    "This hearty Pokémon survived the Ice Age. It’s incredibly popular in very hot regions.",
+    "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
+    "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon."
+  ],
+  "text": "Vanillish is the Icy Snow Pokémon. It is a ice-type Pokémon. Abilities: ice-body, snow-cloak, weak-armor (hidden). Base stats — HP: 51, Attack: 65, Defense: 65, Sp. Atk: 80, Sp. Def: 75, Speed: 59. Evolution line: vanillite → vanillish → vanilluxe. Lore: Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas. It conceals itself from enemy eyes by creating many small ice particles and hiding among them. They cool down the surrounding air and create ice particles, which they use to freeze their foes. Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped. This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt."
+}

@@ -1,0 +1,89 @@
+{
+  "id": 971,
+  "name": "greavard",
+  "genus": "Ghost Dog Pokémon",
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "hidden": false
+    },
+    {
+      "name": "fluffy",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "disable",
+    "dig",
+    "night-shade",
+    "confuse-ray",
+    "lick",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "destiny-bond",
+    "sandstorm",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "uproar",
+    "memento",
+    "facade",
+    "helping-hand",
+    "trick",
+    "yawn",
+    "endeavor",
+    "howl",
+    "mud-shot",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "shadow-sneak",
+    "ally-switch",
+    "hex",
+    "bulldoze",
+    "snarl",
+    "phantom-force",
+    "play-rough",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 61,
+    "defense": 60,
+    "special-attack": 30,
+    "special-defense": 55,
+    "speed": 34
+  },
+  "evolution_chain": [
+    "greavard",
+    "houndstone"
+  ],
+  "flavor_texts": [
+    "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+    "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+  ],
+  "text": "Greavard is the Ghost Dog Pokémon. It is a ghost-type Pokémon. Abilities: pickup, fluffy (hidden). Base stats — HP: 50, Attack: 61, Defense: 60, Sp. Atk: 30, Sp. Def: 55, Speed: 34. Evolution line: greavard → houndstone. Lore: It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon. This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+}

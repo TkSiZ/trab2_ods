@@ -1,0 +1,82 @@
+{
+  "id": 961,
+  "name": "wugtrio",
+  "genus": "Garden Eel Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "gooey",
+      "hidden": false
+    },
+    {
+      "name": "rattled",
+      "hidden": false
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "slam",
+    "sand-attack",
+    "headbutt",
+    "wrap",
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "dig",
+    "agility",
+    "swift",
+    "rest",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "sucker-punch",
+    "earth-power",
+    "giga-impact",
+    "aqua-jet",
+    "foul-play",
+    "bulldoze",
+    "throat-chop",
+    "stomping-tantrum",
+    "liquidation",
+    "tera-blast",
+    "triple-dive",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 120
+  },
+  "evolution_chain": [
+    "wiglett",
+    "wugtrio"
+  ],
+  "flavor_texts": [
+    "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+    "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+  ],
+  "text": "Wugtrio is the Garden Eel Pokémon. It is a water-type Pokémon. Abilities: gooey, rattled, sand-veil (hidden). Base stats — HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120. Evolution line: wiglett → wugtrio. Lore: It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den. A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+}

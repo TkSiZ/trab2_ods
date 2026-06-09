@@ -1,0 +1,75 @@
+{
+  "id": 997,
+  "name": "arctibax",
+  "genus": "Ice Fin Pokémon",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "thermal-exchange",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "ice-beam",
+    "blizzard",
+    "dig",
+    "focus-energy",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "aerial-ace",
+    "icicle-spear",
+    "dragon-claw",
+    "dragon-pulse",
+    "avalanche",
+    "ice-fang",
+    "draco-meteor",
+    "iron-head",
+    "dragon-tail",
+    "icicle-crash",
+    "tera-blast",
+    "snowscape"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 66,
+    "special-attack": 45,
+    "special-defense": 65,
+    "speed": 62
+  },
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "flavor_texts": [
+    "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+    "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+  ],
+  "text": "Arctibax is the Ice Fin Pokémon. It is a dragon and ice-type Pokémon. Abilities: thermal-exchange, ice-body (hidden). Base stats — HP: 90, Attack: 95, Defense: 66, Sp. Atk: 45, Sp. Def: 65, Speed: 62. Evolution line: frigibax → arctibax → baxcalibur. Lore: Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice. It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+}

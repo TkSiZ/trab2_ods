@@ -1,0 +1,84 @@
+{
+  "id": 833,
+  "name": "chewtle",
+  "genus": "Snapping Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "strong-jaw",
+      "hidden": false
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "swift-swim",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "counter",
+    "waterfall",
+    "skull-bash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "endure",
+    "false-swipe",
+    "attract",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "whirlpool",
+    "facade",
+    "revenge",
+    "dive",
+    "mud-shot",
+    "water-pulse",
+    "payback",
+    "assurance",
+    "gastro-acid",
+    "poison-jab",
+    "ice-fang",
+    "round",
+    "shell-smash",
+    "dragon-tail",
+    "stomping-tantrum",
+    "liquidation",
+    "jaw-lock",
+    "scale-shot",
+    "skitter-smack",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "special-attack": 38,
+    "special-defense": 38,
+    "speed": 44
+  },
+  "evolution_chain": [
+    "chewtle",
+    "drednaw"
+  ],
+  "flavor_texts": [
+    "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+    "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+  ],
+  "text": "Chewtle is the Snapping Pokémon. It is a water-type Pokémon. Abilities: strong-jaw, shell-armor, swift-swim (hidden). Base stats — HP: 50, Attack: 64, Defense: 50, Sp. Atk: 38, Sp. Def: 38, Speed: 44. Evolution line: chewtle → drednaw. Lore: Apparently the itch of its teething impels it to snap its jaws at anything in front of it. It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+}

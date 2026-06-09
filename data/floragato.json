@@ -1,0 +1,85 @@
+{
+  "id": 907,
+  "name": "floragato",
+  "genus": "Grass Cat Pokémon",
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false
+    },
+    {
+      "name": "protean",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "scratch",
+    "take-down",
+    "tail-whip",
+    "bite",
+    "low-kick",
+    "solar-beam",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "fake-tears",
+    "bullet-seed",
+    "aerial-ace",
+    "magical-leaf",
+    "u-turn",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "nasty-plot",
+    "shadow-claw",
+    "leaf-storm",
+    "grass-knot",
+    "hone-claws",
+    "low-sweep",
+    "acrobatics",
+    "grass-pledge",
+    "petal-blizzard",
+    "disarming-voice",
+    "grassy-terrain",
+    "play-rough",
+    "leafage",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 61,
+    "attack": 80,
+    "defense": 63,
+    "special-attack": 60,
+    "special-defense": 63,
+    "speed": 83
+  },
+  "evolution_chain": [
+    "sprigatito",
+    "floragato",
+    "meowscarada"
+  ],
+  "flavor_texts": [
+    "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+  ],
+  "text": "Floragato is the Grass Cat Pokémon. It is a grass-type Pokémon. Abilities: overgrow, protean (hidden). Base stats — HP: 61, Attack: 80, Defense: 63, Sp. Atk: 60, Sp. Def: 63, Speed: 83. Evolution line: sprigatito → floragato → meowscarada. Lore: Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents. The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+}

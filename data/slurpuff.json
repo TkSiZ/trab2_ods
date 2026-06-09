@@ -1,0 +1,99 @@
+{
+  "id": 685,
+  "name": "slurpuff",
+  "genus": "Meringue Pokémon",
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "hidden": false
+    },
+    {
+      "name": "unburden",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "flamethrower",
+    "surf",
+    "hyper-beam",
+    "string-shot",
+    "thunderbolt",
+    "thunder",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "metronome",
+    "amnesia",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "sweet-scent",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "wish",
+    "magic-coat",
+    "endeavor",
+    "secret-power",
+    "aromatherapy",
+    "fake-tears",
+    "covet",
+    "calm-mind",
+    "gastro-acid",
+    "drain-punch",
+    "energy-ball",
+    "giga-impact",
+    "after-you",
+    "round",
+    "cotton-guard",
+    "sticky-web",
+    "draining-kiss",
+    "play-rough",
+    "fairy-wind",
+    "play-nice",
+    "confide",
+    "dazzling-gleam",
+    "misty-explosion"
+  ],
+  "stats": {
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 72
+  },
+  "evolution_chain": [
+    "swirlix",
+    "slurpuff"
+  ],
+  "flavor_texts": [
+    "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
+    "Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose!",
+    "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",
+    "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks."
+  ],
+  "text": "Slurpuff is the Meringue Pokémon. It is a fairy-type Pokémon. Abilities: sweet-veil, unburden (hidden). Base stats — HP: 82, Attack: 80, Defense: 86, Sp. Atk: 85, Sp. Def: 75, Speed: 72. Evolution line: swirlix → slurpuff. Lore: It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work. Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose! By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications. Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks."
+}

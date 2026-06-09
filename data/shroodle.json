@@ -1,0 +1,95 @@
+{
+  "id": 944,
+  "name": "shroodle",
+  "genus": "Toxic Mouse Pokémon",
+  "types": [
+    "poison",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "unburden",
+      "hidden": false
+    },
+    {
+      "name": "pickpocket",
+      "hidden": false
+    },
+    {
+      "name": "prankster",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "dig",
+    "toxic",
+    "metronome",
+    "fury-swipes",
+    "rest",
+    "super-fang",
+    "slash",
+    "substitute",
+    "thief",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "poison-fang",
+    "mud-shot",
+    "u-turn",
+    "fling",
+    "copycat",
+    "poison-jab",
+    "switcheroo",
+    "nasty-plot",
+    "cross-poison",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "foul-play",
+    "acrobatics",
+    "parting-shot",
+    "throat-chop",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 35,
+    "special-attack": 40,
+    "special-defense": 35,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "shroodle",
+    "grafaiai"
+  ],
+  "flavor_texts": [
+    "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+    "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+  ],
+  "text": "Shroodle is the Toxic Mouse Pokémon. It is a poison and normal-type Pokémon. Abilities: unburden, pickpocket, prankster (hidden). Base stats — HP: 40, Attack: 65, Defense: 35, Sp. Atk: 40, Sp. Def: 35, Speed: 75. Evolution line: shroodle → grafaiai. Lore: Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire. To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+}

@@ -1,0 +1,82 @@
+{
+  "id": 946,
+  "name": "bramblin",
+  "genus": "Tumbleweed Pokémon",
+  "types": [
+    "grass",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "wind-rider",
+      "hidden": false
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "disable",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "night-shade",
+    "confuse-ray",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "pain-split",
+    "rapid-spin",
+    "shadow-ball",
+    "beat-up",
+    "facade",
+    "astonish",
+    "bullet-seed",
+    "block",
+    "seed-bomb",
+    "energy-ball",
+    "shadow-sneak",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "hex",
+    "phantom-force",
+    "grassy-terrain",
+    "infestation",
+    "strength-sap",
+    "grassy-glide",
+    "poltergeist",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 30,
+    "special-attack": 45,
+    "special-defense": 35,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "bramblin",
+    "brambleghast"
+  ],
+  "flavor_texts": [
+    "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+    "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+  ],
+  "text": "Bramblin is the Tumbleweed Pokémon. It is a grass and ghost-type Pokémon. Abilities: wind-rider, infiltrator (hidden). Base stats — HP: 40, Attack: 65, Defense: 30, Sp. Atk: 45, Sp. Def: 35, Speed: 60. Evolution line: bramblin → brambleghast. Lore: A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon. Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+}

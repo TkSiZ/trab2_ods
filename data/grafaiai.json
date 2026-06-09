@@ -1,0 +1,98 @@
+{
+  "id": 945,
+  "name": "grafaiai",
+  "genus": "Toxic Monkey Pokémon",
+  "types": [
+    "poison",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "unburden",
+      "hidden": false
+    },
+    {
+      "name": "poison-touch",
+      "hidden": false
+    },
+    {
+      "name": "prankster",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "dig",
+    "toxic",
+    "metronome",
+    "fury-swipes",
+    "rest",
+    "super-fang",
+    "slash",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "poison-fang",
+    "mud-shot",
+    "poison-tail",
+    "u-turn",
+    "fling",
+    "poison-jab",
+    "x-scissor",
+    "switcheroo",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "low-sweep",
+    "acid-spray",
+    "foul-play",
+    "acrobatics",
+    "throat-chop",
+    "skitter-smack",
+    "tera-blast",
+    "doodle",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 63,
+    "attack": 95,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 72,
+    "speed": 110
+  },
+  "evolution_chain": [
+    "shroodle",
+    "grafaiai"
+  ],
+  "flavor_texts": [
+    "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+  ],
+  "text": "Grafaiai is the Toxic Monkey Pokémon. It is a poison and normal-type Pokémon. Abilities: unburden, poison-touch, prankster (hidden). Base stats — HP: 63, Attack: 95, Defense: 65, Sp. Atk: 80, Sp. Def: 72, Speed: 110. Evolution line: shroodle → grafaiai. Lore: The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests. Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+}

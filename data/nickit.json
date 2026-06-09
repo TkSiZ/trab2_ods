@@ -1,0 +1,76 @@
+{
+  "id": 827,
+  "name": "nickit",
+  "genus": "Fox Pokémon",
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "hidden": false
+    },
+    {
+      "name": "unburden",
+      "hidden": false
+    },
+    {
+      "name": "stakeout",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tail-whip",
+    "dig",
+    "agility",
+    "quick-attack",
+    "screech",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "beat-up",
+    "torment",
+    "facade",
+    "taunt",
+    "knock-off",
+    "fake-tears",
+    "howl",
+    "mud-shot",
+    "assurance",
+    "sucker-punch",
+    "night-slash",
+    "nasty-plot",
+    "hone-claws",
+    "foul-play",
+    "round",
+    "quick-guard",
+    "tail-slap",
+    "snarl",
+    "play-rough",
+    "lash-out"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 28,
+    "defense": 28,
+    "special-attack": 47,
+    "special-defense": 52,
+    "speed": 50
+  },
+  "evolution_chain": [
+    "nickit",
+    "thievul"
+  ],
+  "flavor_texts": [
+    "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+    "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+  ],
+  "text": "Nickit is the Fox Pokémon. It is a dark-type Pokémon. Abilities: run-away, unburden, stakeout (hidden). Base stats — HP: 40, Attack: 28, Defense: 28, Sp. Atk: 47, Sp. Def: 52, Speed: 50. Evolution line: nickit → thievul. Lore: Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains. Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+}

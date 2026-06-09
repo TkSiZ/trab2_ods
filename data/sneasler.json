@@ -1,0 +1,107 @@
+{
+  "id": 903,
+  "name": "sneasler",
+  "genus": "Free Climb Pokémon",
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false
+    },
+    {
+      "name": "unburden",
+      "hidden": false
+    },
+    {
+      "name": "poison-touch",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "scratch",
+    "swords-dance",
+    "take-down",
+    "leer",
+    "hyper-beam",
+    "low-kick",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "screech",
+    "swift",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "reversal",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "brick-break",
+    "rock-tomb",
+    "aerial-ace",
+    "bulk-up",
+    "poison-tail",
+    "calm-mind",
+    "u-turn",
+    "close-combat",
+    "fling",
+    "toxic-spikes",
+    "poison-jab",
+    "x-scissor",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "gunk-shot",
+    "grass-knot",
+    "hone-claws",
+    "venoshock",
+    "sludge-wave",
+    "low-sweep",
+    "acid-spray",
+    "acrobatics",
+    "throat-chop",
+    "lash-out",
+    "coaching",
+    "dire-claw",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 130,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 80,
+    "speed": 120
+  },
+  "evolution_chain": [
+    "sneasel",
+    "weavile",
+    "sneasler"
+  ],
+  "flavor_texts": [
+    "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
+  ],
+  "text": "Sneasler is the Free Climb Pokémon. It is a fighting and poison-type Pokémon. Abilities: pressure, unburden, poison-touch (hidden). Base stats — HP: 80, Attack: 130, Defense: 60, Sp. Atk: 40, Sp. Def: 80, Speed: 120. Evolution line: sneasel → weavile → sneasler. Lore: Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
+}

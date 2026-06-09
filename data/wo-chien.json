@@ -1,0 +1,85 @@
+{
+  "id": 1001,
+  "name": "wo-chien",
+  "genus": "Ruinous Pokémon",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "tablets-of-ruin",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "mean-look",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "ingrain",
+    "knock-off",
+    "tickle",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "payback",
+    "dark-pulse",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "foul-play",
+    "hex",
+    "snarl",
+    "grassy-terrain",
+    "solar-blade",
+    "pollen-puff",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "ruination",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 85,
+    "defense": 100,
+    "special-attack": 95,
+    "special-defense": 135,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "wo-chien"
+  ],
+  "flavor_texts": [
+    "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+    "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+  ],
+  "text": "Wo-chien is the Ruinous Pokémon. It is a dark and grass-type Pokémon. Abilities: tablets-of-ruin. Base stats — HP: 85, Attack: 85, Defense: 100, Sp. Atk: 95, Sp. Def: 135, Speed: 70. Evolution line: wo-chien. Lore: The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon. It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+}

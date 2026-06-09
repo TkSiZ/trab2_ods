@@ -1,0 +1,88 @@
+{
+  "id": 1021,
+  "name": "raging-bolt",
+  "genus": "Paradox Pokémon",
+  "types": [
+    "electric",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "stomp",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "zap-cannon",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "twister",
+    "sunny-day",
+    "crunch",
+    "ancient-power",
+    "facade",
+    "charge",
+    "taunt",
+    "hyper-voice",
+    "weather-ball",
+    "calm-mind",
+    "shock-wave",
+    "dragon-pulse",
+    "giga-impact",
+    "thunder-fang",
+    "draco-meteor",
+    "discharge",
+    "charge-beam",
+    "heavy-slam",
+    "electro-ball",
+    "volt-switch",
+    "dragon-tail",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "eerie-impulse",
+    "electric-terrain",
+    "dragon-hammer",
+    "stomping-tantrum",
+    "body-press",
+    "breaking-swipe",
+    "rising-voltage",
+    "tera-blast",
+    "thunderclap",
+    "dragon-cheer",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 125,
+    "attack": 73,
+    "defense": 91,
+    "special-attack": 137,
+    "special-defense": 89,
+    "speed": 75
+  },
+  "evolution_chain": [
+    "raging-bolt"
+  ],
+  "flavor_texts": [
+    "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+    "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor."
+  ],
+  "text": "Raging-bolt is the Paradox Pokémon. It is a electric and dragon-type Pokémon. Abilities: protosynthesis. Base stats — HP: 125, Attack: 73, Defense: 91, Sp. Atk: 137, Sp. Def: 89, Speed: 75. Evolution line: raging-bolt. Lore: It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature. It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor."
+}

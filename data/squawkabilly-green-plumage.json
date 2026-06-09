@@ -1,0 +1,88 @@
+{
+  "id": 931,
+  "name": "squawkabilly-green-plumage",
+  "genus": "Parrot Pokémon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false
+    },
+    {
+      "name": "hustle",
+      "hidden": false
+    },
+    {
+      "name": "guts",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "peck",
+    "quick-attack",
+    "mimic",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "endeavor",
+    "feather-dance",
+    "hyper-voice",
+    "fake-tears",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "copycat",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "foul-play",
+    "final-gambit",
+    "hurricane",
+    "parting-shot",
+    "lash-out",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 82,
+    "attack": 96,
+    "defense": 51,
+    "special-attack": 45,
+    "special-defense": 51,
+    "speed": 92
+  },
+  "evolution_chain": [
+    "squawkabilly"
+  ],
+  "flavor_texts": [
+    "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+    "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
+  ],
+  "text": "Squawkabilly-green-plumage is the Parrot Pokémon. It is a normal and flying-type Pokémon. Abilities: intimidate, hustle, guts (hidden). Base stats — HP: 82, Attack: 96, Defense: 51, Sp. Atk: 45, Sp. Def: 51, Speed: 92. Evolution line: squawkabilly. Lore: These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory. Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
+}

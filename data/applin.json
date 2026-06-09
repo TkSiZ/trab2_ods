@@ -1,0 +1,56 @@
+{
+  "id": 840,
+  "name": "applin",
+  "genus": "Apple Core Pokémon",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "ripen",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "bulletproof",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "withdraw",
+    "defense-curl",
+    "rollout",
+    "attract",
+    "recycle",
+    "astonish",
+    "sucker-punch",
+    "draco-meteor",
+    "grassy-glide",
+    "tera-blast",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 80,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "flavor_texts": [
+    "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
+    "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+  ],
+  "text": "Applin is the Apple Core Pokémon. It is a grass and dragon-type Pokémon. Abilities: ripen, gluttony, bulletproof (hidden). Base stats — HP: 40, Attack: 40, Defense: 80, Sp. Atk: 40, Sp. Def: 40, Speed: 20. Evolution line: applin → flapple → appletun → dipplin → hydrapple. Lore: It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more. As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+}

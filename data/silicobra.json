@@ -1,0 +1,84 @@
+{
+  "id": 843,
+  "name": "silicobra",
+  "genus": "Sand Snake Pokémon",
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    {
+      "name": "sand-spit",
+      "hidden": false
+    },
+    {
+      "name": "shed-skin",
+      "hidden": false
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "slam",
+    "sand-attack",
+    "headbutt",
+    "body-slam",
+    "wrap",
+    "take-down",
+    "earthquake",
+    "dig",
+    "screech",
+    "minimize",
+    "glare",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "facade",
+    "rock-tomb",
+    "sand-tomb",
+    "mud-shot",
+    "poison-tail",
+    "rock-blast",
+    "last-resort",
+    "dragon-rush",
+    "earth-power",
+    "stone-edge",
+    "stealth-rock",
+    "coil",
+    "round",
+    "bulldoze",
+    "drill-run",
+    "belch",
+    "brutal-swing",
+    "scale-shot",
+    "skitter-smack",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 52,
+    "attack": 57,
+    "defense": 75,
+    "special-attack": 35,
+    "special-defense": 50,
+    "speed": 46
+  },
+  "evolution_chain": [
+    "silicobra",
+    "sandaconda"
+  ],
+  "flavor_texts": [
+    "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+    "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
+  ],
+  "text": "Silicobra is the Sand Snake Pokémon. It is a ground-type Pokémon. Abilities: sand-spit, shed-skin, sand-veil (hidden). Base stats — HP: 52, Attack: 57, Defense: 75, Sp. Atk: 35, Sp. Def: 50, Speed: 46. Evolution line: silicobra → sandaconda. Lore: As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand. It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
+}

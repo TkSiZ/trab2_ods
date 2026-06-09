@@ -1,0 +1,88 @@
+{
+  "id": 746,
+  "name": "wishiwashi-solo",
+  "genus": "Small Fry Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "schooling",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "take-down",
+    "double-edge",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "waterfall",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "feint-attack",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "beat-up",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "dive",
+    "muddy-water",
+    "mud-shot",
+    "covet",
+    "water-sport",
+    "water-pulse",
+    "brine",
+    "u-turn",
+    "aqua-ring",
+    "aqua-tail",
+    "soak",
+    "round",
+    "scald",
+    "bulldoze",
+    "confide",
+    "liquidation",
+    "tearful-look",
+    "scale-shot",
+    "flip-turn"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 40
+  },
+  "evolution_chain": [
+    "wishiwashi"
+  ],
+  "flavor_texts": [
+    "When it’s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+    "It’s awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
+    "They’re weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
+    "When it’s in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
+    "Individually, they’re incredibly weak. It’s by gathering up into schools that they’re able to confront opponents.",
+    "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather."
+  ],
+  "text": "Wishiwashi-solo is the Small Fry Pokémon. It is a water-type Pokémon. Abilities: schooling. Base stats — HP: 45, Attack: 20, Defense: 20, Sp. Atk: 25, Sp. Def: 25, Speed: 40. Evolution line: wishiwashi. Lore: When it’s in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies. It’s awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson. They’re weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school. When it’s in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away. Individually, they’re incredibly weak. It’s by gathering up into schools that they’re able to confront opponents."
+}

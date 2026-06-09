@@ -1,0 +1,105 @@
+{
+  "id": 526,
+  "name": "gigalith",
+  "genus": "Compressed Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false
+    },
+    {
+      "name": "sand-stream",
+      "hidden": false
+    },
+    {
+      "name": "sand-force",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "harden",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "superpower",
+    "secret-power",
+    "weather-ball",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "gravity",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "confide",
+    "laser-focus",
+    "throat-chop",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 130,
+    "special-attack": 60,
+    "special-defense": 80,
+    "speed": 25
+  },
+  "evolution_chain": [
+    "roggenrola",
+    "boldore",
+    "gigalith"
+  ],
+  "flavor_texts": [
+    "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+    "The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth.",
+    "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+    "The blasts of energy it makes from sunbeams have terrifying power. However, it’s not able to fire its blasts at night or on rainy days.",
+    "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+    "When it fires off energy with all its might, the power creates countless fissures on its body.",
+    "It absorbs rays of sunlight and shoots out energy. It’s usually lurking deep beneath the surface.",
+    "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+    "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out."
+  ],
+  "text": "Gigalith is the Compressed Pokémon. It is a rock-type Pokémon. Abilities: sturdy, sand-stream, sand-force (hidden). Base stats — HP: 85, Attack: 135, Defense: 130, Sp. Atk: 60, Sp. Def: 80, Speed: 25. Evolution line: roggenrola → boldore → gigalith. Lore: Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain. The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth. The solar rays it absorbs are processed in its energy core and fired as a ball of light. The blasts of energy it makes from sunbeams have terrifying power. However, it’s not able to fire its blasts at night or on rainy days. Known for its hefty horsepower, this Pokémon is a popular partner for construction workers."
+}

@@ -1,0 +1,91 @@
+{
+  "id": 857,
+  "name": "hattrem",
+  "genus": "Serene Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "healer",
+      "hidden": false
+    },
+    {
+      "name": "anticipation",
+      "hidden": false
+    },
+    {
+      "name": "magic-bounce",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "psybeam",
+    "thunder-wave",
+    "confusion",
+    "psychic",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "psych-up",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "aromatherapy",
+    "magical-leaf",
+    "calm-mind",
+    "healing-wish",
+    "dark-pulse",
+    "trick-room",
+    "psyshock",
+    "round",
+    "stored-power",
+    "heal-pulse",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "play-nice",
+    "mystical-fire",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "brutal-swing",
+    "life-dew",
+    "expanding-force",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 57,
+    "attack": 40,
+    "defense": 65,
+    "special-attack": 86,
+    "special-defense": 73,
+    "speed": 49
+  },
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "flavor_texts": [
+    "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+    "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
+  ],
+  "text": "Hattrem is the Serene Pokémon. It is a psychic-type Pokémon. Abilities: healer, anticipation, magic-bounce (hidden). Base stats — HP: 57, Attack: 40, Defense: 65, Sp. Atk: 86, Sp. Def: 73, Speed: 49. Evolution line: hatenna → hattrem → hatterene. Lore: No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently. Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
+}

@@ -1,0 +1,79 @@
+{
+  "id": 852,
+  "name": "clobbopus",
+  "genus": "Tantrum Pokémon",
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "limber",
+      "hidden": false
+    },
+    {
+      "name": "technician",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "bind",
+    "body-slam",
+    "leer",
+    "submission",
+    "seismic-toss",
+    "waterfall",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "detect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "pain-split",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "dive",
+    "muddy-water",
+    "bulk-up",
+    "mud-shot",
+    "brine",
+    "feint",
+    "close-combat",
+    "payback",
+    "sucker-punch",
+    "focus-blast",
+    "soak",
+    "round",
+    "circle-throw",
+    "retaliate",
+    "work-up",
+    "power-up-punch",
+    "liquidation",
+    "coaching"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 68,
+    "defense": 60,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 32
+  },
+  "evolution_chain": [
+    "clobbopus",
+    "grapploct"
+  ],
+  "flavor_texts": [
+    "It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+    "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+  ],
+  "text": "Clobbopus is the Tantrum Pokémon. It is a fighting-type Pokémon. Abilities: limber, technician (hidden). Base stats — HP: 50, Attack: 68, Defense: 60, Sp. Atk: 50, Sp. Def: 50, Speed: 32. Evolution line: clobbopus → grapploct. Lore: It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land. Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+}

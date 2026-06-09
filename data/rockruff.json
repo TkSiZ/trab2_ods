@@ -1,0 +1,109 @@
+{
+  "id": 744,
+  "name": "rockruff",
+  "genus": "Puppy Pokémon",
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "vital-spirit",
+      "hidden": false
+    },
+    {
+      "name": "steadfast",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "sand-attack",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "rock-throw",
+    "dig",
+    "toxic",
+    "double-team",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "crunch",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "endeavor",
+    "hyper-voice",
+    "crush-claw",
+    "odor-sleuth",
+    "rock-tomb",
+    "iron-defense",
+    "howl",
+    "covet",
+    "last-resort",
+    "sucker-punch",
+    "rock-polish",
+    "earth-power",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "snarl",
+    "play-rough",
+    "confide",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "special-attack": 30,
+    "special-defense": 40,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "rockruff",
+    "lycanroc"
+  ],
+  "flavor_texts": [
+    "It’s considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+    "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer’s side.",
+    "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+    "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+    "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
+    "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks."
+  ],
+  "text": "Rockruff is the Puppy Pokémon. It is a rock-type Pokémon. Abilities: keen-eye, vital-spirit, steadfast (hidden). Base stats — HP: 45, Attack: 65, Defense: 40, Sp. Atk: 30, Sp. Def: 40, Speed: 60. Evolution line: rockruff → lycanroc. Lore: It’s considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up. This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer’s side. As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them. When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful! This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging."
+}

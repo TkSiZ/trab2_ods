@@ -1,0 +1,97 @@
+{
+  "id": 588,
+  "name": "karrablast",
+  "genus": "Clamping Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "shed-skin",
+      "hidden": false
+    },
+    {
+      "name": "no-guard",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "headbutt",
+    "horn-attack",
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "leer",
+    "peck",
+    "counter",
+    "toxic",
+    "screech",
+    "double-team",
+    "rest",
+    "slash",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "encore",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "facade",
+    "knock-off",
+    "secret-power",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "poison-jab",
+    "night-slash",
+    "x-scissor",
+    "bug-buzz",
+    "energy-ball",
+    "bug-bite",
+    "acid-spray",
+    "round",
+    "struggle-bug",
+    "drill-run",
+    "confide",
+    "infestation"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 60
+  },
+  "evolution_chain": [
+    "karrablast",
+    "escavalier"
+  ],
+  "flavor_texts": [
+    "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+    "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+    "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+    "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+    "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents."
+  ],
+  "text": "Karrablast is the Clamping Pokémon. It is a bug-type Pokémon. Abilities: swarm, shed-skin, no-guard (hidden). Base stats — HP: 50, Attack: 75, Defense: 45, Sp. Atk: 40, Sp. Def: 45, Speed: 60. Evolution line: karrablast → escavalier. Lore: These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet. When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet. For some reason they evolve when they receive electrical energy while they are attacking Shelmet. Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve. It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents."
+}

@@ -1,0 +1,113 @@
+{
+  "id": 364,
+  "name": "sealeo",
+  "genus": "Ball Roll Pokémon",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false
+    },
+    {
+      "name": "ice-body",
+      "hidden": false
+    },
+    {
+      "name": "oblivious",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "growl",
+    "roar",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "strength",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "secret-power",
+    "dive",
+    "ice-ball",
+    "rock-tomb",
+    "signal-beam",
+    "sheer-cold",
+    "icicle-spear",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "aqua-tail",
+    "captivate",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "frost-breath",
+    "confide",
+    "liquidation",
+    "steel-roller"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "special-attack": 75,
+    "special-defense": 70,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "spheal",
+    "sealeo",
+    "walrein"
+  ],
+  "flavor_texts": [
+    "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
+    "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
+    "SEALEO live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+    "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose.",
+    "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+    "It has a very sensitive nose. It touches new things with its nose to examine them.",
+    "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+    "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+    "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
+    "Sealeo live on top of drift ice. They go swimming when they’re on the hunt, seeking out their prey by scent.",
+    "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+    "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy."
+  ],
+  "text": "Sealeo is the Ball Roll Pokémon. It is a ice and water-type Pokémon. Abilities: thick-fat, ice-body, oblivious (hidden). Base stats — HP: 90, Attack: 60, Defense: 70, Sp. Atk: 75, Sp. Def: 70, Speed: 45. Evolution line: spheal → sealeo → walrein. Lore: SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose. SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not. SEALEO live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day. It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose. It habitually spins things on its nose. By doing so, it learns textures and odors."
+}

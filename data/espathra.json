@@ -1,0 +1,103 @@
+{
+  "id": 956,
+  "name": "espathra",
+  "genus": "Ostrich Pokémon",
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "opportunist",
+      "hidden": false
+    },
+    {
+      "name": "frisk",
+      "hidden": false
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "psybeam",
+    "hyper-beam",
+    "peck",
+    "drill-peck",
+    "low-kick",
+    "confusion",
+    "psychic",
+    "agility",
+    "quick-attack",
+    "night-shade",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "feather-dance",
+    "hyper-voice",
+    "aerial-ace",
+    "calm-mind",
+    "pluck",
+    "u-turn",
+    "last-resort",
+    "seed-bomb",
+    "energy-ball",
+    "brave-bird",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "trick-room",
+    "psyshock",
+    "foul-play",
+    "stored-power",
+    "hex",
+    "disarming-voice",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "psychic-terrain",
+    "expanding-force",
+    "tera-blast",
+    "lumina-crash",
+    "pounce"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 101,
+    "special-defense": 60,
+    "speed": 105
+  },
+  "evolution_chain": [
+    "flittle",
+    "espathra"
+  ],
+  "flavor_texts": [
+    "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
+    "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+  ],
+  "text": "Espathra is the Ostrich Pokémon. It is a psychic-type Pokémon. Abilities: opportunist, frisk, speed-boost (hidden). Base stats — HP: 95, Attack: 60, Defense: 60, Sp. Atk: 101, Sp. Def: 60, Speed: 105. Evolution line: flittle → espathra. Lore: It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament. It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+}

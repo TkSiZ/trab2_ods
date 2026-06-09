@@ -1,0 +1,96 @@
+{
+  "id": 616,
+  "name": "shelmet",
+  "genus": "Snail Pokémon",
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false
+    },
+    {
+      "name": "overcoat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "double-edge",
+    "acid",
+    "absorb",
+    "mega-drain",
+    "toxic",
+    "double-team",
+    "recover",
+    "bide",
+    "leech-life",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "encore",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "facade",
+    "yawn",
+    "secret-power",
+    "signal-beam",
+    "mud-shot",
+    "feint",
+    "gastro-acid",
+    "guard-swap",
+    "toxic-spikes",
+    "bug-buzz",
+    "energy-ball",
+    "bug-bite",
+    "guard-split",
+    "venoshock",
+    "round",
+    "final-gambit",
+    "struggle-bug",
+    "confide",
+    "infestation",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "special-attack": 40,
+    "special-defense": 65,
+    "speed": 25
+  },
+  "evolution_chain": [
+    "shelmet",
+    "accelgor"
+  ],
+  "flavor_texts": [
+    "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+    "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+    "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+    "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+  ],
+  "text": "Shelmet is the Snail Pokémon. It is a bug-type Pokémon. Abilities: hydration, shell-armor, overcoat (hidden). Base stats — HP: 50, Attack: 40, Defense: 85, Sp. Atk: 40, Sp. Def: 65, Speed: 25. Evolution line: shelmet → accelgor. Lore: When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid. It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown. When it and Karrablast are together, and both receive electrical stimulation, they both evolve. When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell. It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+}

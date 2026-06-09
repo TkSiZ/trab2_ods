@@ -1,0 +1,87 @@
+{
+  "id": 828,
+  "name": "thievul",
+  "genus": "Fox Pokémon",
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "hidden": false
+    },
+    {
+      "name": "unburden",
+      "hidden": false
+    },
+    {
+      "name": "stakeout",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tail-whip",
+    "hyper-beam",
+    "dig",
+    "psychic",
+    "agility",
+    "quick-attack",
+    "screech",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "crunch",
+    "shadow-ball",
+    "beat-up",
+    "facade",
+    "taunt",
+    "fake-tears",
+    "mud-shot",
+    "u-turn",
+    "assurance",
+    "sucker-punch",
+    "dark-pulse",
+    "night-slash",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "grass-knot",
+    "hone-claws",
+    "foul-play",
+    "round",
+    "acrobatics",
+    "tail-slap",
+    "snarl",
+    "parting-shot",
+    "play-rough",
+    "burning-jealousy",
+    "lash-out"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "special-attack": 87,
+    "special-defense": 92,
+    "speed": 90
+  },
+  "evolution_chain": [
+    "nickit",
+    "thievul"
+  ],
+  "flavor_texts": [
+    "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+    "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+  ],
+  "text": "Thievul is the Fox Pokémon. It is a dark-type Pokémon. Abilities: run-away, unburden, stakeout (hidden). Base stats — HP: 70, Attack: 58, Defense: 58, Sp. Atk: 87, Sp. Def: 92, Speed: 90. Evolution line: nickit → thievul. Lore: It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it. With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+}

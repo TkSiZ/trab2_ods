@@ -1,0 +1,93 @@
+{
+  "id": 967,
+  "name": "cyclizar",
+  "genus": "Mount Pokémon",
+  "types": [
+    "dragon",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "hidden": false
+    },
+    {
+      "name": "regenerator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "growl",
+    "hyper-beam",
+    "thunderbolt",
+    "agility",
+    "quick-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "rapid-spin",
+    "iron-tail",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "uproar",
+    "facade",
+    "taunt",
+    "knock-off",
+    "endeavor",
+    "hyper-voice",
+    "overheat",
+    "aerial-ace",
+    "dragon-claw",
+    "mud-shot",
+    "u-turn",
+    "aqua-tail",
+    "dragon-pulse",
+    "dragon-rush",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "draco-meteor",
+    "power-whip",
+    "iron-head",
+    "shift-gear",
+    "acrobatics",
+    "dragon-tail",
+    "wild-charge",
+    "breaking-swipe",
+    "scale-shot",
+    "tera-blast",
+    "ice-spinner",
+    "shed-tail",
+    "trailblaze",
+    "dragon-cheer",
+    "temper-flare",
+    "supercell-slam"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 65,
+    "special-attack": 85,
+    "special-defense": 65,
+    "speed": 121
+  },
+  "evolution_chain": [
+    "cyclizar"
+  ],
+  "flavor_texts": [
+    "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+  ],
+  "text": "Cyclizar is the Mount Pokémon. It is a dragon and normal-type Pokémon. Abilities: shed-skin, regenerator (hidden). Base stats — HP: 70, Attack: 95, Defense: 65, Sp. Atk: 85, Sp. Def: 65, Speed: 121. Evolution line: cyclizar. Lore: Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals. It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+}

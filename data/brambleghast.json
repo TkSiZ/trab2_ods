@@ -1,0 +1,85 @@
+{
+  "id": 947,
+  "name": "brambleghast",
+  "genus": "Tumbleweed Pokémon",
+  "types": [
+    "grass",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "wind-rider",
+      "hidden": false
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "disable",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "night-shade",
+    "confuse-ray",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "pain-split",
+    "rapid-spin",
+    "shadow-ball",
+    "beat-up",
+    "facade",
+    "astonish",
+    "bullet-seed",
+    "block",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "shadow-sneak",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "hex",
+    "phantom-force",
+    "grassy-terrain",
+    "infestation",
+    "strength-sap",
+    "grassy-glide",
+    "skitter-smack",
+    "poltergeist",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 115,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 70,
+    "speed": 90
+  },
+  "evolution_chain": [
+    "bramblin",
+    "brambleghast"
+  ],
+  "flavor_texts": [
+    "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+    "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+  ],
+  "text": "Brambleghast is the Tumbleweed Pokémon. It is a grass and ghost-type Pokémon. Abilities: wind-rider, infiltrator (hidden). Base stats — HP: 55, Attack: 115, Defense: 70, Sp. Atk: 80, Sp. Def: 70, Speed: 90. Evolution line: bramblin → brambleghast. Lore: It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it. Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+}

@@ -1,0 +1,103 @@
+{
+  "id": 580,
+  "name": "ducklett",
+  "genus": "Water Bird Pokémon",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false
+    },
+    {
+      "name": "big-pecks",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "fly",
+    "double-edge",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "bubble-beam",
+    "toxic",
+    "double-team",
+    "mirror-move",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "secret-power",
+    "dive",
+    "feather-dance",
+    "mud-sport",
+    "air-cutter",
+    "aerial-ace",
+    "water-sport",
+    "water-pulse",
+    "roost",
+    "brine",
+    "pluck",
+    "tailwind",
+    "lucky-chant",
+    "me-first",
+    "aqua-ring",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "aqua-jet",
+    "round",
+    "scald",
+    "hurricane",
+    "disarming-voice",
+    "confide",
+    "liquidation",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "special-attack": 44,
+    "special-defense": 50,
+    "speed": 55
+  },
+  "evolution_chain": [
+    "ducklett",
+    "swanna"
+  ],
+  "flavor_texts": [
+    "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+    "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+    "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+  ],
+  "text": "Ducklett is the Water Bird Pokémon. It is a water and flying-type Pokémon. Abilities: keen-eye, big-pecks, hydration (hidden). Base stats — HP: 62, Attack: 44, Defense: 50, Sp. Atk: 44, Sp. Def: 50, Speed: 55. Evolution line: ducklett → swanna. Lore: These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss. When attacked, it uses its feathers to splash water, escaping under cover of the spray. They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+}

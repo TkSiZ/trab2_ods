@@ -1,0 +1,85 @@
+{
+  "id": 976,
+  "name": "veluza",
+  "genus": "Jettison Pokémon",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "hidden": false
+    },
+    {
+      "name": "sharpness",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "psychic",
+    "agility",
+    "recover",
+    "focus-energy",
+    "waterfall",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "crunch",
+    "endeavor",
+    "water-pulse",
+    "pluck",
+    "night-slash",
+    "giga-impact",
+    "ice-fang",
+    "psycho-cut",
+    "zen-headbutt",
+    "aqua-jet",
+    "stored-power",
+    "final-gambit",
+    "drill-run",
+    "psychic-terrain",
+    "psychic-fangs",
+    "liquidation",
+    "expanding-force",
+    "scale-shot",
+    "flip-turn",
+    "tera-blast",
+    "fillet-away",
+    "snowscape",
+    "chilling-water",
+    "aqua-cutter"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 102,
+    "defense": 73,
+    "special-attack": 78,
+    "special-defense": 65,
+    "speed": 70
+  },
+  "evolution_chain": [
+    "veluza"
+  ],
+  "flavor_texts": [
+    "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+    "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+  ],
+  "text": "Veluza is the Jettison Pokémon. It is a water and psychic-type Pokémon. Abilities: mold-breaker, sharpness (hidden). Base stats — HP: 90, Attack: 102, Defense: 73, Sp. Atk: 78, Sp. Def: 65, Speed: 70. Evolution line: veluza. Lore: When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor. Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+}

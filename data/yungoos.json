@@ -1,0 +1,109 @@
+{
+  "id": 734,
+  "name": "yungoos",
+  "genus": "Loitering Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "stakeout",
+      "hidden": false
+    },
+    {
+      "name": "strong-jaw",
+      "hidden": false
+    },
+    {
+      "name": "adaptability",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "tackle",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "bite",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "bide",
+    "rest",
+    "hyper-fang",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "uproar",
+    "torment",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "revenge",
+    "yawn",
+    "endeavor",
+    "odor-sleuth",
+    "rock-tomb",
+    "mud-shot",
+    "shock-wave",
+    "u-turn",
+    "payback",
+    "last-resort",
+    "seed-bomb",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "confide",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 45
+  },
+  "evolution_chain": [
+    "yungoos",
+    "gumshoos"
+  ],
+  "flavor_texts": [
+    "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+    "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
+    "Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+    "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey."
+  ],
+  "text": "Yungoos is the Loitering Pokémon. It is a normal-type Pokémon. Abilities: stakeout, strong-jaw, adaptability (hidden). Base stats — HP: 48, Attack: 70, Defense: 30, Sp. Atk: 30, Sp. Def: 30, Speed: 45. Evolution line: yungoos → gumshoos. Lore: With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region. It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot. Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter. Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey."
+}

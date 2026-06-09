@@ -1,0 +1,95 @@
+{
+  "id": 544,
+  "name": "whirlipede",
+  "genus": "Curlipede Pokémon",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "hidden": false
+    },
+    {
+      "name": "swarm",
+      "hidden": false
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "pin-missile",
+    "solar-beam",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "endeavor",
+    "secret-power",
+    "signal-beam",
+    "iron-defense",
+    "poison-tail",
+    "gyro-ball",
+    "payback",
+    "toxic-spikes",
+    "poison-jab",
+    "rock-climb",
+    "bug-bite",
+    "venoshock",
+    "round",
+    "hex",
+    "struggle-bug",
+    "steamroller",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "steel-roller",
+    "skitter-smack"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 99,
+    "special-attack": 40,
+    "special-defense": 79,
+    "speed": 47
+  },
+  "evolution_chain": [
+    "venipede",
+    "whirlipede",
+    "scolipede"
+  ],
+  "flavor_texts": [
+    "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+    "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+    "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
+    "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
+    "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution."
+  ],
+  "text": "Whirlipede is the Curlipede Pokémon. It is a bug and poison-type Pokémon. Abilities: poison-point, swarm, speed-boost (hidden). Base stats — HP: 40, Attack: 55, Defense: 99, Sp. Atk: 40, Sp. Def: 79, Speed: 47. Evolution line: venipede → whirlipede → scolipede. Lore: Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies. It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent. Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes. This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph. Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution."
+}

@@ -1,0 +1,78 @@
+{
+  "id": 913,
+  "name": "quaxwell",
+  "genus": "Practicing Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false
+    },
+    {
+      "name": "moxie",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "pound",
+    "wing-attack",
+    "take-down",
+    "growl",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "low-kick",
+    "focus-energy",
+    "swift",
+    "rest",
+    "protect",
+    "endure",
+    "baton-pass",
+    "encore",
+    "rain-dance",
+    "psych-up",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "water-pulse",
+    "air-slash",
+    "brave-bird",
+    "aqua-jet",
+    "double-hit",
+    "low-sweep",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "misty-terrain",
+    "liquidation",
+    "flip-turn",
+    "triple-axel",
+    "tera-blast",
+    "chilling-water",
+    "aqua-cutter"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "special-attack": 65,
+    "special-defense": 60,
+    "speed": 65
+  },
+  "evolution_chain": [
+    "quaxly",
+    "quaxwell",
+    "quaquaval"
+  ],
+  "flavor_texts": [
+    "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+    "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+  ],
+  "text": "Quaxwell is the Practicing Pokémon. It is a water-type Pokémon. Abilities: torrent, moxie (hidden). Base stats — HP: 70, Attack: 85, Defense: 65, Sp. Atk: 65, Sp. Def: 60, Speed: 65. Evolution line: quaxly → quaxwell → quaquaval. Lore: These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully. The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+}

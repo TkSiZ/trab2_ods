@@ -1,0 +1,96 @@
+{
+  "id": 535,
+  "name": "tympole",
+  "genus": "Tadpole Pokémon",
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false
+    },
+    {
+      "name": "hydration",
+      "hidden": false
+    },
+    {
+      "name": "water-absorb",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "growl",
+    "supersonic",
+    "acid",
+    "mist",
+    "hydro-pump",
+    "surf",
+    "bubble-beam",
+    "toxic",
+    "screech",
+    "double-team",
+    "bubble",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "uproar",
+    "hail",
+    "facade",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "mud-sport",
+    "hyper-voice",
+    "weather-ball",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "aqua-ring",
+    "earth-power",
+    "mud-bomb",
+    "sludge-wave",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "scald",
+    "confide",
+    "venom-drench",
+    "infestation"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 40,
+    "speed": 64
+  },
+  "evolution_chain": [
+    "tympole",
+    "palpitoad",
+    "seismitoad"
+  ],
+  "flavor_texts": [
+    "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+    "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+    "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+    "Graceful ripples running across the water’s surface are a sure sign that Tympole are singing in high-pitched voices below.",
+    "It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning."
+  ],
+  "text": "Tympole is the Tadpole Pokémon. It is a water-type Pokémon. Abilities: swift-swim, hydration, water-absorb (hidden). Base stats — HP: 50, Attack: 50, Defense: 40, Sp. Atk: 50, Sp. Def: 40, Speed: 64. Evolution line: tympole → palpitoad → seismitoad. Lore: They warn others of danger by vibrating their cheeks to create a high-pitched sound. By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk. By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger. Graceful ripples running across the water’s surface are a sure sign that Tympole are singing in high-pitched voices below. It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning."
+}

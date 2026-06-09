@@ -1,0 +1,68 @@
+{
+  "id": 1025,
+  "name": "pecharunt",
+  "genus": "Subjugation Pokémon",
+  "types": [
+    "poison",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "poison-puppeteer",
+      "hidden": false
+    }
+  ],
+  "moves": [
+    "toxic",
+    "night-shade",
+    "recover",
+    "withdraw",
+    "defense-curl",
+    "smog",
+    "poison-gas",
+    "rest",
+    "substitute",
+    "curse",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "destiny-bond",
+    "endure",
+    "rollout",
+    "mean-look",
+    "sleep-talk",
+    "shadow-ball",
+    "memento",
+    "imprison",
+    "astonish",
+    "fake-tears",
+    "nasty-plot",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "foul-play",
+    "hex",
+    "phantom-force",
+    "parting-shot",
+    "poltergeist",
+    "tera-blast",
+    "malignant-chain"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 88,
+    "defense": 160,
+    "special-attack": 88,
+    "special-defense": 88,
+    "speed": 88
+  },
+  "evolution_chain": [
+    "pecharunt"
+  ],
+  "flavor_texts": [
+    "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+    "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon."
+  ],
+  "text": "Pecharunt is the Subjugation Pokémon. It is a poison and ghost-type Pokémon. Abilities: poison-puppeteer. Base stats — HP: 88, Attack: 88, Defense: 160, Sp. Atk: 88, Sp. Def: 88, Speed: 88. Evolution line: pecharunt. Lore: It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will. Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon."
+}

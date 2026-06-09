@@ -1,0 +1,99 @@
+{
+  "id": 591,
+  "name": "amoonguss",
+  "genus": "Mushroom Pokémon",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "hidden": false
+    },
+    {
+      "name": "regenerator",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "solar-beam",
+    "stun-spore",
+    "toxic",
+    "double-team",
+    "bide",
+    "spore",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "secret-power",
+    "astonish",
+    "bullet-seed",
+    "magical-leaf",
+    "payback",
+    "gastro-acid",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "leaf-storm",
+    "grass-knot",
+    "venoshock",
+    "rage-powder",
+    "foul-play",
+    "after-you",
+    "round",
+    "clear-smog",
+    "hex",
+    "grassy-terrain",
+    "confide",
+    "pollen-puff",
+    "stomping-tantrum",
+    "tera-blast"
+  ],
+  "stats": {
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "special-attack": 85,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "foongus",
+    "amoonguss"
+  ],
+  "flavor_texts": [
+    "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+    "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+    "This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land.",
+    "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground."
+  ],
+  "text": "Amoonguss is the Mushroom Pokémon. It is a grass and poison-type Pokémon. Abilities: effect-spore, regenerator (hidden). Base stats — HP: 114, Attack: 85, Defense: 70, Sp. Atk: 85, Sp. Def: 80, Speed: 30. Evolution line: foongus → amoonguss. Lore: It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion. They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this. It moves the caps on both arms and does a dance to lure prey. It prefers damp places. This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land. Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground."
+}

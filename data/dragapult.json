@@ -1,0 +1,112 @@
+{
+  "id": 887,
+  "name": "dragapult",
+  "genus": "Stealth Pokémon",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false
+    },
+    {
+      "name": "cursed-body",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "fly",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "flamethrower",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "quick-attack",
+    "night-shade",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "swift",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "lock-on",
+    "outrage",
+    "endure",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "dragon-breath",
+    "baton-pass",
+    "sunny-day",
+    "shadow-ball",
+    "beat-up",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "dive",
+    "astonish",
+    "dragon-claw",
+    "dragon-dance",
+    "brine",
+    "u-turn",
+    "assurance",
+    "last-resort",
+    "sucker-punch",
+    "dragon-pulse",
+    "dragon-rush",
+    "giga-impact",
+    "draco-meteor",
+    "double-hit",
+    "round",
+    "ally-switch",
+    "scald",
+    "hex",
+    "acrobatics",
+    "dragon-tail",
+    "phantom-force",
+    "infestation",
+    "psychic-fangs",
+    "dragon-darts",
+    "breaking-swipe",
+    "tera-blast",
+    "pounce",
+    "dragon-cheer"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 120,
+    "defense": 75,
+    "special-attack": 100,
+    "special-defense": 75,
+    "speed": 142
+  },
+  "evolution_chain": [
+    "dreepy",
+    "drakloak",
+    "dragapult"
+  ],
+  "flavor_texts": [
+    "When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+    "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds."
+  ],
+  "text": "Dragapult is the Stealth Pokémon. It is a dragon and ghost-type Pokémon. Abilities: clear-body, infiltrator, cursed-body (hidden). Base stats — HP: 88, Attack: 120, Defense: 75, Sp. Atk: 100, Sp. Def: 75, Speed: 142. Evolution line: dreepy → drakloak → dragapult. Lore: When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles. Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds."
+}

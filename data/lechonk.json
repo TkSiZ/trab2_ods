@@ -1,0 +1,83 @@
+{
+  "id": 915,
+  "name": "lechonk",
+  "genus": "Hog Pokémon",
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "aroma-veil",
+      "hidden": false
+    },
+    {
+      "name": "gluttony",
+      "hidden": false
+    },
+    {
+      "name": "thick-fat",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "dig",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "mud-slap",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "endeavor",
+    "hyper-voice",
+    "bullet-seed",
+    "mud-shot",
+    "covet",
+    "seed-bomb",
+    "zen-headbutt",
+    "iron-head",
+    "echoed-voice",
+    "bulldoze",
+    "work-up",
+    "disarming-voice",
+    "play-rough",
+    "stuff-cheeks",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "stats": {
+    "hp": 54,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "evolution_chain": [
+    "lechonk",
+    "oinkologne"
+  ],
+  "flavor_texts": [
+    "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.",
+    "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+  ],
+  "text": "Lechonk is the Hog Pokémon. It is a normal-type Pokémon. Abilities: aroma-veil, gluttony, thick-fat (hidden). Base stats — HP: 54, Attack: 45, Defense: 40, Sp. Atk: 35, Sp. Def: 45, Speed: 35. Evolution line: lechonk → oinkologne. Lore: It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging. This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+}

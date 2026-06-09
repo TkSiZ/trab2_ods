@@ -1,0 +1,75 @@
+{
+  "id": 928,
+  "name": "smoliv",
+  "genus": "Olive Pokémon",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "early-bird",
+      "hidden": false
+    },
+    {
+      "name": "harvest",
+      "hidden": true
+    }
+  ],
+  "moves": [
+    "tackle",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "sweet-scent",
+    "synthesis",
+    "sunny-day",
+    "memento",
+    "facade",
+    "helping-hand",
+    "weather-ball",
+    "bullet-seed",
+    "magical-leaf",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "leaf-storm",
+    "grass-knot",
+    "grassy-terrain",
+    "strength-sap",
+    "solar-blade",
+    "terrain-pulse",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "stats": {
+    "hp": 41,
+    "attack": 35,
+    "defense": 45,
+    "special-attack": 58,
+    "special-defense": 51,
+    "speed": 30
+  },
+  "evolution_chain": [
+    "smoliv",
+    "dolliv",
+    "arboliva"
+  ],
+  "flavor_texts": [
+    "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+    "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+  ],
+  "text": "Smoliv is the Olive Pokémon. It is a grass and normal-type Pokémon. Abilities: early-bird, harvest (hidden). Base stats — HP: 41, Attack: 35, Defense: 45, Sp. Atk: 58, Sp. Def: 51, Speed: 30. Evolution line: smoliv → dolliv → arboliva. Lore: It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch. This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+}
